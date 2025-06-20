@@ -1,0 +1,32 @@
+
+
+.content{
+    color: #34539B;
+    background-image: url("../../assets/images/from-customer/bg.svg");
+    padding-bottom: 30px;
+
+    h2{
+        font-weight: bolder;
+        margin-top: 30px;
+    }
+    h1{
+        font-weight: bolder;
+        margin-bottom: 10px;
+    }
+    text{
+
+    }
+
+    .video-player{
+        width: 100%;
+        height: 100%;
+    }
+    .slider{
+        height: 200px !important;
+    }
+
+    .content-text{
+        text-align: start;
+    }
+
+}

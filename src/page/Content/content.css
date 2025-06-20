@@ -1,0 +1,91 @@
+.card-header{
+    color: #34539B !important;
+    font-size: xx-large;
+    font-weight: 1000;
+    text-align: start;
+    background: white !important;
+}
+.card-text{
+    color: #34539B;
+    margin-top: 10px;
+    /*font-size: large;*/
+    font-weight: 500;
+    text-align: start;
+    text-decoration-line: none;
+}
+.image-detail{
+    font-size: 14px;
+    line-height: 1.5em;
+    text-align: left;
+    font-weight: bold;
+    padding: 0 10px 0 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    color: #0F0F0F;
+}
+
+.sub-card{
+    border-radius: 30px !important;
+    margin-bottom: 10px !important;
+    padding: 1em !important;
+
+    .card-header{
+        height: 65px !important;
+        line-height: 1.5em;
+        overflow: hidden;
+    }
+
+    .header-text{
+        font-size: large;
+        font-weight: 1000;
+        line-height: 1.5em;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 2; /* number of lines to show */
+        line-clamp: 2;
+    }
+
+    .card-text{
+        color: black;
+        margin-top: 10px;
+        font-weight: 500;
+        text-align: start;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 2; /* number of lines to show */
+        line-clamp: 2;
+        -webkit-box-orient: vertical;
+        line-height: 1.5em;
+    }
+}
+.category-row{
+    align-items: center;
+    h1{
+        font-size: xxx-large;
+        font-weight: 1000;
+    }
+    p{
+        text-align: left;
+    }
+}
+.no-underline{
+    a, u {
+        text-decoration: none;
+    }
+}
+.wp-block-image {
+    justify-self: center;
+}
+
+.wp-element-caption {
+    justify-self: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.full-size{
+    width: -webkit-fill-available;
+}

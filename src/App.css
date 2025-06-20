@@ -1,0 +1,108 @@
+body {
+  background: #F4F7FC;
+  font-size: 16px;
+}
+
+#root {
+  /*max-width: 1280px;*/
+  /*width: 100%;*/
+  max-width: 100%;
+  margin: 0 auto 0 auto;
+  /*padding: 0 2rem 2rem 2rem;*/
+  text-align: center;
+  background: #F4F7FC;
+  font-family: "IBM Plex Sans Thai", sans-serif;
+  color: #34539B;
+  box-shadow: 5px 5px 5px 10px rgba(232, 232, 232, 0.56) !important;
+
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  title {
+    font-size: 20px;
+  }
+
+  .title-sub {
+    font-size: 12px;
+  }
+
+  .body-text2 {
+    font-size: 14px;
+  }
+
+  .body-text3 {
+    font-size: 12px;
+  }
+
+  button {
+    font-size: 14px;
+  }
+  .button2{
+    font-size: 12px;
+  }
+  .description{
+    font-size: 12px;
+  }
+}
+
+.container {
+  background: white;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.center{
+  align-content: center;
+  justify-content: center;
+}
+.text-sub-head{
+  /*color: #34539B;*/
+  /*font-size: x-large;*/
+  font-weight: 800;
+}
+.text-header{
+  /*color: #34539B;*/
+  /*font-size: xx-large;*/
+  font-weight: 1000;
+}
+
+
