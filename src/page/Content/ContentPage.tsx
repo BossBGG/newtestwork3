@@ -36,16 +36,16 @@ const ContentPage = () => {
         <Container className={'App pb-0 mb-0'}>
             {subContent && <Row><div className={'p-5 text-start'} dangerouslySetInnerHTML={{__html: subContent.detail}}></div></Row>}
             {/*{subContent && <Row>{subContent.detail}</Row>}*/}
-            {!subContent && <Row className={'p-0 category-row'}>
-                <Col xs={content?.detail?3:6}>
-                    <Image src={content?.image} width={200} fluid={true}/>
+            {!subContent && <Row className={'p-3 p-md-0 category-row'}>
+                <Col xs={12} md={content?.detail ? 3 : 6} className={'text-center mb-3 mb-md-0'}>
+                    <Image src={content?.image} width={200} fluid={true} className={'category-image'}/>
                 </Col>
-                <Col xs={content?.detail?3:6}>
-                    <h1 className={'text-center text-md-start'}>{content?.title}</h1>
+                <Col xs={12} md={content?.detail ? 3 : 6} className={'text-center text-md-start mb-3 mb-md-0'}>
+                    <h1 className={'category-title'}>{content?.title}</h1>
                 </Col>
                 {content?.detail&&
-                    <Col xs={6}>
-                        <p className={''}>{content?.detail}</p>
+                    <Col xs={12} md={6} className={'text-center text-md-start '}>
+                        <p className={'category-detail'}>{content?.detail}</p>
                     </Col>
                 }
             </Row>}

@@ -1,0 +1,141 @@
+/* WordPress Image Block Responsive */
+.wp-block-image {
+    justify-self: center;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.wp-block-image img {
+    max-width: 100% !important;
+    height: auto !important;
+    width: auto !important;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.wp-block-image.aligncenter {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.wp-element-caption {
+    justify-self: center;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
+
+/* iframe video Responsive */
+iframe {
+   max-width: 100% !important;
+   width: 100% !important;
+   height: auto !important;
+   aspect-ratio: 16/9; 
+   border-radius: 8px;
+   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
+/* Global Image Responsive - Apply to all images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Specific WordPress content images */
+.wp-block-image img,
+figure img,
+.aligncenter img {
+    max-width: 100% !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+/* Additional responsive helper */
+.full-size{
+    width: -webkit-fill-available;
+    max-width: 100%;
+}
+
+/* Mobile responsive for iframe */
+@media (max-width: 767.98px) {
+   iframe {
+       width: calc(100vw - 40px) !important;
+       max-width: 100% !important;
+       height: auto !important;
+       aspect-ratio: 16/9;
+   }
+   
+   center {
+       padding: 0 10px;
+       margin: 15px 0;
+   }
+}
+
+/* Tablet responsive for iframe */
+@media (min-width: 768px) and (max-width: 991.98px) {
+   iframe {
+       max-width: 600px !important;
+       width: 100% !important;
+       height: auto !important;
+   }
+}
+
+/* Desktop/Large Screen Image Size Control */
+@media (min-width: 992px) {
+    .wp-block-image {
+        max-width: 800px; 
+        margin: 30px auto;
+    }
+    
+    .wp-block-image img {
+        max-width: 800px !important;
+        width: auto !important;
+        height: auto !important;
+    }
+    
+    
+    figure.wp-block-image {
+        max-width: 800px;
+        margin: 30px auto;
+    }
+    
+    figure.aligncenter {
+        max-width: 800px;
+        margin: 30px auto;
+    }
+
+    iframe {
+       max-width: 700px !important;
+       width: 700px !important;
+       height: 394px !important; /* 700 * (9/16) */
+   }
+}
+
+/* Extra Large Screen - จำกัดขนาดเพิ่มเติม */
+@media (min-width: 1200px) {
+    .wp-block-image {
+        max-width: 700px;
+    }
+    
+    .wp-block-image img {
+        max-width: 700px !important;
+    }
+    
+    figure.wp-block-image,
+    figure.aligncenter {
+        max-width: 900px;
+    }
+
+    iframe {
+       max-width: 800px !important;
+       width: 680px !important;
+       height: 350px !important; 
+    }
+}

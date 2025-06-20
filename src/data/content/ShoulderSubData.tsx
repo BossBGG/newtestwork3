@@ -1,4 +1,5 @@
 import {SubContent} from "../ContentData.tsx";
+import "./ShoulderSubData.css"
 
 export const ShoulderSubData: SubContent[] = [
     {
@@ -48,11 +49,11 @@ export const ShoulderSubData: SubContent[] = [
             '<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>',
     },
     {
-        title: 'ปวดไหล่-การฉีดนำ้หล่อเลี้ยงข้อเทียมบริเวณไหล่',
+        title: 'ปวดไหล่-การฉีดน้ำหล่อเลี้ยงข้อเทียมบริเวณไหล่',
         shot: 'ปวดไหล่ ปวดร้าวลงต้นแขน ยกไหล่ไม่ขึ้น เอื้อมแขนแล้วมีอาการปวดไหล่ โดยเฉพาะเวลาบิดหมุนข้อไหล่ อาการปวดไหล่มักจะมีอาการแย่ลง และปวดเพิ่มมากขึ้นเมื่อมีการเคลื่อนไหวของข้อไหล่ อาการปวดมักจะเริ่มมีอาการปวดบริเวณหัวไหล่ และร้าวไปยังบริเวณต้นแขน โดยเฉพาะคุณสุภาพสตรี อาจจะมีอาการปวดบริเวณหัวไหล่เมื่อหมุนไหล่ในการใส่เสื้อชุดชั้นใน หรือเสื้อยืด',
         path: 'shoulderpainful',
         detail: '<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1652" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/10/taninnit_อาการปวดไหล่-หมอเก่ง.jpg" alt="" width="700" height="368" /></figure><br>' +
-            '<p style="text-align: center;"><span style="color: #000080; font-size: 14pt;"><strong>ปวดไหล่-การฉีดนำ้หล่อเลี้ยงข้อเทียมบริเวณไหล่</strong></span><br>' +
+            '<p style="text-align: center;"><span style="color: #000080; font-size: 14pt;"><strong>ปวดไหล่-การฉีดน้ำหล่อเลี้ยงข้อเทียมบริเวณไหล่</strong></span><br>' +
             '<span style="color: #000080;"><strong>ผศ.นพ.ธนินนิตย์ ลีรพันธ์</strong></span></p><br>' +
             '<span style="color: #000080;"><strong>อาการปวดไหล่</strong></span><br>' +
             'ปวดไหล่ ปวดร้าวลงต้นแขน ยกไหล่ไม่ขึ้น เอื้อมแขนแล้วมีอาการปวดไหล่ โดยเฉพาะเวลาบิดหมุนข้อไหล่ อาการปวดไหล่มักจะมีอาการแย่ลง และปวดเพิ่มมากขึ้นเมื่อมีการเคลื่อนไหวของข้อไหล่ อาการปวดมักจะเริ่มมีอาการปวดบริเวณหัวไหล่ และร้าวไปยังบริเวณต้นแขน โดยเฉพาะคุณสุภาพสตรี อาจจะมีอาการปวดบริเวณหัวไหล่เมื่อหมุนไหล่ในการใส่เสื้อชุดชั้นใน หรือเสื้อยืด<br>' +

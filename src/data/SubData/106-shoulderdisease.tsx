@@ -1,8 +1,10 @@
+
+
 export const RenderShoulderDisease =
     <>
-        <img className="aligncenter wp-image-1659"
+        <img className="aligncenter wp-image-1659 "
              src="https://doctorkeng.com/wp-content/uploads/2018/03/taninnit_ปวดไหล่รักษาให้ถูกต้อง.jpg" alt=""
-             width="700" height="368"/>
+             />
         <p style={{textAlign: "center"}}><span style={{color: "#000080", fontSize: "18pt"}}><strong>ปวดไหล่ รักษาให้ถูกต้อง</strong></span>
             <span style={{color: "#000080"}}><strong>โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</strong></span></p>
         ท่านผู้อ่านคงเคยมีประสบการณ์ของการปวดไหล่ โดยเฉพาะเวลาบิดหมุนข้อไหล่
