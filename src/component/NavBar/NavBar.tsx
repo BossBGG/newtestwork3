@@ -4,9 +4,11 @@ import ContactBtn from "../../assets/images/contact-btn.svg"
 import DotSelect from "../../assets/images/dot-mark.svg"
 import './nav-bar.css'
 import {useLocation} from "react-router";
-import {useState} from "react";
+import {useEffect, useState} from "react";
 import {ContentItems} from "../../data/ContentData.tsx";
 import {ArticleItems} from "../../data/ArticleData.tsx";
+
+
 
 const NavBarElement = () => {
     const [selectState, setSelectState] = useState(0)
@@ -15,11 +17,22 @@ const NavBarElement = () => {
     const isContent = location.pathname.includes('/content')
     const isArticle = location.pathname.includes('/article')
     const isVideo = location.pathname.includes('/video')
-    const isMain = selectState == 0 && location.pathname === '/' && location.hash === ''
-    const isAbout = selectState == 2 ||location.hash.includes('about')
-    const isContact = selectState == 3 ||location.hash.includes('contact')
+    
+   
+    const isMain = (selectState == 0 && location.pathname === '/' && location.hash === '') || 
+                   (location.pathname === '/' && location.hash === '')
+    const isAbout = selectState == 2 || location.hash.includes('about')
+    const isContact = selectState == 3 || location.hash.includes('contact')
     // const isContent = ContentItems.find(s =>s.title == location.pathname.replace('/',""))
-    console.log(location.pathname.includes('/content'))
+    
+    // Reset selectState 
+    useEffect(() => {
+        if (location.pathname === '/' && location.hash === '') {
+            setSelectState(0);
+        } else if (location.hash.includes('about') || location.hash.includes('contact')) {
+            setSelectState(2);
+        }
+    }, [location]);
 
     return <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
       <Container className="container-fluid">
@@ -37,18 +50,18 @@ const NavBarElement = () => {
                       href="/"
                       onClick={() => setSelectState(0)}
                   >
-                      <div className={"position-relative" + (isMain ? 'selected-text' : '')}>
+                      <div className={"position-relative" + (isMain ? ' selected-text' : '')}>
                           หน้าหลัก
-                          {isMain &&<Image className={"dot-focus"} src={DotSelect} width={10} height={10}/>}
+                          {isMain && <Image className={"dot-focus"} src={DotSelect} width={10} height={10}/>}
                       </div>
                   </Nav.Link>
                   <div className={"position-relative align-self-center "}>
                       <NavDropdown title="กระดูกและข้อ" id="basic-nav-dropdown text-black"
-                                   className={"" + (isContent ? 'selected-text' : '')}>
+                                   className={"" + (isContent ? ' selected-text' : '')}>
                           {
                               ContentItems.map((item, index) => {
                                   return <NavDropdown.Item href={`/content/${item.title}`}
-                                                           onClick={() => setSelectState(index)}>{item.title}</NavDropdown.Item>
+                                                           onClick={() => setSelectState(index)} key={index}>{item.title}</NavDropdown.Item>
                               })
                           }
                       </NavDropdown>
@@ -57,11 +70,11 @@ const NavBarElement = () => {
                   </div>
                   <div className={"position-relative align-self-center "}>
                       <NavDropdown title="ความรู้สุขภาพ" id="basic-nav-dropdown text-black"
-                                   className={"align-self-center " + (isArticle ? 'selected-text' : '')}>
+                                   className={"align-self-center " + (isArticle ? ' selected-text' : '')}>
                           {
                               ArticleItems.map((item, index) => {
                                   return <NavDropdown.Item href={`/article/${item.title}`}
-                                                           onClick={() => setSelectState(index)}>{item.title}</NavDropdown.Item>
+                                                           onClick={() => setSelectState(index)} key={index}>{item.title}</NavDropdown.Item>
                               })
                           }
                       </NavDropdown>
@@ -69,11 +82,11 @@ const NavBarElement = () => {
                   </div>
                   <div className={"position-relative align-self-center "}>
                       <NavDropdown title="Video" id="basic-nav-dropdown text-black"
-                                   className={"align-self-center " + (isVideo ? 'selected-text' : '')}>
+                                   className={"align-self-center " + (isVideo ? ' selected-text' : '')}>
                           {
-                              ContentItems.map((item) => {
+                              ContentItems.map((item, index) => {
                                   return <NavDropdown.Item href={`/video/${item.title}`}
-                                                           onClick={() => setSelectState(4)}>{item.title}</NavDropdown.Item>
+                                                           onClick={() => setSelectState(4)} key={index}>{item.title}</NavDropdown.Item>
                               })
                           }
                       </NavDropdown>
@@ -82,11 +95,11 @@ const NavBarElement = () => {
                   <Nav.Link
                       className={"nav-link active align-self-center "}
                       href="/#about-us"
-                      onClick={() => setSelectState(3)}
+                      onClick={() => setSelectState(2)}
                   >
-                      <div className={"position-relative" +(isContact ? 'selected-text' : '')}>
+                      <div className={"position-relative " + ((isContact || isAbout) ? ' selected-text' : '')}>
                       รู้จักหมอเก่ง
-                      {(isContact||isAbout) &&<Image className={'dot-focus'} src={DotSelect} width={10} height={10}/>}
+                      {(isContact || isAbout) && <Image className={'dot-focus'} src={DotSelect} width={10} height={10}/>}
                       </div>
                   </Nav.Link>
                   <Nav.Link href="https://lin.ee/EgSMgUU9" target={"_blank"} className={"ms-5"}>

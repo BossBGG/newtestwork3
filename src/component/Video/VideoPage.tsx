@@ -56,15 +56,15 @@ const VideoPage = () => {
     console.log('videos',videos)
     return (
         <Container className={'App pb-0 mb-0'}>
-            <Row className={'p-0 category-row'}>
-                <Col xs={content?.detail?3:6}>
+            <Row className={'p-3 p-md-0 category-row'}>
+                <Col xs={12} md={content?.detail ? 3 : 6} className={'text-center mb-3 mb-md-0'}>
                     <Image src={content?.image} width={200} fluid={true}/>
                 </Col>
-                <Col xs={content?.detail?3:6}>
+                <Col xs={12} md={content?.detail ? 3 : 6} className={'text-center text-md-start mb-3 mb-md-0'}>
                     <h1 className={'text-center text-md-start'}>{content?.title}</h1>
                 </Col>
                 {content?.detail&&
-                    <Col xs={6}>
+                    <Col xs={12} md={6} className={'text-center text-md-start '}>
                         <p>{content?.detail}</p>
                     </Col>
                 }

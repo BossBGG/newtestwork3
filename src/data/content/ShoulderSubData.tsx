@@ -1,3 +1,5 @@
+// ShoulderSubData.tsx
+
 import {SubContent} from "../ContentData.tsx";
 import "./ShoulderSubData.css"
 
@@ -73,7 +75,7 @@ export const ShoulderSubData: SubContent[] = [
             '<span style="color: #000080;"><strong>การรักษา</strong></span><br>' +
             '<ul><br>' +
             ' \t<li>การรักษาด้วยยารับประทานเพื่อลดการอักเสบ และยาลดอาการปวด</li><br>' +
-            ' \t<li>การฉีดยาด้วยยาลดการอักเสบ และ นำ้หล่อเลี้ยงข้อเทียม Hyaluronic acid นับว่ามีประโยชน์เป็นอย่างมาก ในการลดการอักเสบ ทำให้การเคลื่อนไหวของข้อไหล่ดีขึ้น และยังช่วยในการสมานของเส้นเอ็น ทำให้ผู้ป่วยหายทรมานจากอาการเจ็บปวด อย่างไรก็ตามการฉีดยาลดการอักเสบและ นำ้หล่อเลี้ยงข้อเทียมนี้ต้องใช้เครื่องคลื่นเสียงความถี่สูงในการระบุตำแหน่งในการฉีดยา มิฉะนั้นถ้าฉีดไม่ถูกตำแหน่ง จะทำให้ยาไปอยู่ที่บริเวณของกล้ามเนื้อ ยิ่งจะทำให้มีอาการปวดมากยิ่งขึ้น</li><br>' +
+            ' \t<li>การฉีดยาด้วยยาลดการอักเสบ และ น้ำหล่อเลี้ยงข้อเทียม Hyaluronic acid นับว่ามีประโยชน์เป็นอย่างมาก ในการลดการอักเสบ ทำให้การเคลื่อนไหวของข้อไหล่ดีขึ้น และยังช่วยในการสมานของเส้นเอ็น ทำให้ผู้ป่วยหายทรมานจากอาการเจ็บปวด อย่างไรก็ตามการฉีดยาลดการอักเสบและ น้ำหล่อเลี้ยงข้อเทียมนี้ต้องใช้เครื่องคลื่นเสียงความถี่สูงในการระบุตำแหน่งในการฉีดยา มิฉะนั้นถ้าฉีดไม่ถูกตำแหน่ง จะทำให้ยาไปอยู่ที่บริเวณของกล้ามเนื้อ ยิ่งจะทำให้มีอาการปวดมากยิ่งขึ้น</li><br>' +
             ' \t<li>ในช่วงแรกที่มีการอักเสบมาก และผู้ป่วยมีอาการปวดอย่างมาก <strong><em>ยังไม่แนะนำให้ผู้ป่วยทำกายภาพบำบัด</em></strong> เพราะจะทำให้มีการอักเสบ และอาการปวดเพิ่มมากขึ้น</li><br>' +
             ' \t<li>ปัจจุบันการใช้เกร็ดเลือดเข้มข้น PRP เพื่อลดการอักเสบและสร้างเสริมสภาพเส้นเอ็นก็มีประโยชน์มากในการรักษา (<a href="https://doctorkeng.com/knowledge/prp/" target="_blank" rel="noopener noreferrer">ดูข้อมูล PRP คืออะไร</a>)</li><br>' +
             '</ul><br>' +
@@ -114,7 +116,7 @@ export const ShoulderSubData: SubContent[] = [
             'โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</center><center></center><strong>Line</strong> Official Account: <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q</a><br>' +
             'หรือ Line ID search @DoctorKeng<br>' +
             '<strong>เว็บไซต์</strong> www.doctorkeng.com<br>' +
-            '<strong>YouTube</strong> <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer">https://www.youtube.com/user/taninniitleerapun/videos</a><br>' +
+            '<strong>YouTube<a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer" class="contact-line" style="padding-left: 5px;" >https://www.youtube.com/user/taninniitleerapun/videos</a></strong><br>' +
             '<strong>Facebook</strong> <a href="https://www.facebook.com/backpainnonop/" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหากระดูกและข้อ</a><br>' +
             '<strong>Blockdit</strong> https://www.blockdit.com/doctorkeng<br>' +
             '<strong>Location</strong> คลินิกกระดูกและข้อ หมอเก่ง สันป่าข่อยคลินิกบน Google Map <a href="https://g.page/doctorkeng" target="_blank" rel="noopener noreferrer">https://g.page/doctorkeng</a>',
@@ -149,8 +151,9 @@ export const ShoulderSubData: SubContent[] = [
             'อาการปวดไหล่เป็นปัญหาที่พบได้บ่อยสำหรับผู้ที่อายุ 45 ปีขึ้นไป หรือบางครั้งพบได้ในนักกีฬาที่ใช้ไหล่มาก สาเหตุส่วนใหญ่มักเกิดจากเส้นเอ็นที่มีการอักเสบหรือมีการฉีกขาดจึงทำให้เกิดอาการปวด<br>' +
             '<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1398" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/เนื้องอกกระดูก-002.jpg" alt="" width="700" height="366" /></figure><br>' +
             'ก้อนเนื้องอกกระดูกหัวไหล่ก็เป็นสาเหตุอย่างหนึ่งที่สามารถพบได้ในผู้ป่วยที่มีอาการปวดไหล่ แต่พบได้ไม่มาก สาเหตุของเนื้องอกมีได้ 2 ประเภท คือ<br>' +
-            ' \t<li>ก้อนเนื้องอกของกระดูกเอง ซึ่งไม่ทราบสาเหตุในการเกิด พบได้ตั้งแต่ในเด็กจนถึงผู้ใหญ่ ก้อนเนื้องอกนี้มีทั้งชนิดที่ไม่ร้ายแรงไม่ลุกลาม จนกระทั่งเกิดการลุกลามไปที่อวัยวะอื่นได้</li><br>' +
+            ' \t<li style="padding-top: 16px;">ก้อนเนื้องอกของกระดูกเอง ซึ่งไม่ทราบสาเหตุในการเกิด พบได้ตั้งแต่ในเด็กจนถึงผู้ใหญ่ ก้อนเนื้องอกนี้มีทั้งชนิดที่ไม่ร้ายแรงไม่ลุกลาม จนกระทั่งเกิดการลุกลามไปที่อวัยวะอื่นได้</li><br>' +
             ' \t<li>ก้อนเนื้อมะเร็งที่เกิดจากการแพร่กระจายมาที่กระดูกของอวัยวะอื่น ที่พบมากได้แก่ มะเร็งปอด มะเร็งเต้านม มะเร็งต่อมลูกหมาก<br>' +
+            
             'ดังนั้นในผู้ป่วยที่มีอาการปวดไหล่เรื้อรัง หลังจากที่มีการตรวจร่างกายแล้ว จึงอาจจะจำเป็นต้องประเมินภาพเอกซเรย์ว่ามีสภาพของกระดูกเป็นอย่างไร มีปัญหาของก้อนเนื้องอกอยู่หรือไม่ ถ้าไม่พบก็อาจจะประเมินด้วย ultrasound เพื่อตรวจสอบสภาวะของเส้นเอ็นว่ามีการฉีกขาด หรือการอักเสบอยู่หรือไม่</li><br>' +
             '<strong><span style="color: #000080;">สำหรับผู้ป่วยเมื่อตรวจพบว่ามีเนื้องอกที่กระดูกหัวไหล่ ก็จำเป็นต้องตรวจหาสาเหตุเพิ่มเติมเพื่อประเมินได้แก่</span></strong><br>' +
             '<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1401" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/เนื้องอกกระดูก-004.jpg" alt="" width="700" height="366" /></figure><br>' +
@@ -159,7 +162,7 @@ export const ShoulderSubData: SubContent[] = [
             ' \t<li>การตรวจเอกซเรย์คอมพิวเตอร์ตรงปอดเพื่อประเมินว่ามีการลุกลามไปที่ปอดหรือไม่</li><br>' +
             'สำหรับการรักษาเนื้องอกกระดูกที่ไหล่นั้นขึ้นอยู่กับชนิดของเนื้องอกที่เป็น ว่าเป็นเนื้องอกชนิดไม่ร้ายแรง หรือชนิดที่ร้ายแรง ซึ่งส่วนใหญ่มักจะให้การรักษาด้วยการผ่าตัด<br>' +
             '<br>' +
-            '<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1400" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/เนื้องอกกระดูก-003.jpg" alt="" width="700" height="366" /></figure><br>' +
+            '<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1400" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/เนื้องอกกระดูก-003.jpg" alt="" width="700" height="366" /></figure>' +
             '<p style="text-align: center;"><span style="font-size: 10pt; color: #808080;">การผ่าตัดเนื้องอกกระดูกออก</span></p>',
     },
     {
@@ -170,11 +173,11 @@ export const ShoulderSubData: SubContent[] = [
             '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่.jpg" alt="" class="wp-image-1514"/></figure><br>' +
             '<h2 class="wp-block-heading has-text-align-center"><span style="font-size: 18pt; color: #000080;"><strong>ไหล่ติด ปวดไหล่ ขยับไม่ได้ เกิดจากอะไร รักษาอย่างไร?<br></strong><span style="font-size: 14pt;">โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</span></span></h2><br>' +
             '<p>ผมยกตัวอย่างคนไข้อายุ 50 ปี เริ่มมีอาการปวดไหล่มาได้ประมาณ 2 เดือน อาการเริ่มปวดมากขึ้นเรื่อยๆ ก็ไปรักษาด้วยการนวด หลังจากนวดที่ไหล่แล้วมีอาการปวดระบบมากขึ้น ไม่สามารถยกแขนได้ ไม่สามารถขยับไหล่ได้เลย ถอดเสื้อลำบาก ยกมือ แปรงฟันลำบาก</p><br>' +
-            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-002.jpg" alt="" class="wp-image-1517"/><figcaption class="wp-element-caption"><em>ผู้ป่วยไม่สามารถเคลื่อนไหวข้อไหล่ได้ เนื่องจากมีอาการปวด และขอไหล่ยึดติด</em></figcaption></figure><br>' +
+            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-002.jpg" alt="" class="wp-image-1517"/><figcaption class="wp-element-caption" style="margin-top: 16px;"><em>ผู้ป่วยไม่สามารถเคลื่อนไหวข้อไหล่ได้ เนื่องจากมีอาการปวด และขอไหล่ยึดติด</em></figcaption></figure><br>' +
             '<h3 class="wp-block-heading"><span style="color: #000080;"><strong>สาเหตุที่ทำให้เกิดการปวด</strong></span></h3><br>' +
             '<p>เนื่องจากเกิดการอักเสบในตำแหน่งของกระดูกข้อต่อ เส้นเอ็น เเละเนื้อเยื่ออ่อนรอบข้อ ผู้ป่วยที่มีปัญหาข้อไห่ลติดทุกทิศทาง ต้องจำแนกให้ได้ว่าสาเหตุเกิดจากอะไรบ้างได้แก่</p><br>' +
             '<p>1.คนไข้ที่มีปัญหาที่ไหล่โดยตรงเช่น เส้นเอ็นฉีกขาด ก้อนหินปูนในเส้นเอ็นที่ข้อไหล่ ถุงน้ำอักเสบที่ข้อไหล่</p><br>' +
-            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-003.jpg" alt="" class="wp-image-1519"/><figcaption class="wp-element-caption"><em>ก้อนหินปูนที่ไหล่</em></figcaption></figure><br>' +
+            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-003.jpg" alt="" class="wp-image-1519"/><figcaption class="wp-element-caption" style="margin-top: 16px;"><em>ก้อนหินปูนที่ไหล่</em></figcaption></figure><br>' +
             '<p class="has-text-align-left">2. โรคที่เกิดนอกข้อไหล่แต่ส่งผลกระทบทำให้ข้อไหล่ติด เช่น คนไข้เส้นเลือดสมองตีบทำให้เกิดอัมพาต คนไข้เบาหวาน คนไข้โรคหัวใจขาดเลือดไปเลี้ยง ซึ่งก็เป็นสาเหตุทำให้เกิดอาการไหล่ติด</p><br>' +
             '<p>ปัญหาข้อไหล่ติด ที่เกิดจากกระบวนการอักเสบของข้อไหล่โดยไม่ทราบสาเหตุ ส่วนใหญ่มักเกิดในเพศหญิง อายุ 40-60 ปี ซึ่งคนไข้มักจะมีอาการปวดบริเวณรอบๆข้อไหล่ และต้นแขนส่วนบน เมื่อขยับไหล่หรือแขนมักจะทำให้มีอาการปวดเพิ่มมากขึ้น อาการปวดมักจะเป็นตลอดเวลา</p><br>' +
             '<p>การเคลื่อนไหวของข้อไหล่ลดลงไม่สามารถขยับข้อไหล่ได้มาก ส่งผลรบกวนต่อการใช้ชีวิตประจำวันเป็นอย่างมาก เช่น การยกมือหวีผม การสวมใส่ชุดชั้นใน การสวมใส่เสื่อยืดลำบาก</p><br>' +
@@ -190,13 +193,13 @@ export const ShoulderSubData: SubContent[] = [
             '<li>การตรวจด้วย x ray เพื่อประเมินสภาพของกระดูกข้อไหล่</li><br>' +
             '<li>การตรวจด้วย ultrasound เพื่อประเมินสภาพของเส้นเอ็น และลักษณะการอักเสบภายในข้อ</li><br>' +
             '<!-- /wp:list-item --></ul><br>' +
-            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-004.jpg" alt="" class="wp-image-1520"/><figcaption class="wp-element-caption"><em><em>การตรวจ Ultrasound ที่ไหล่</em></em></figcaption></figure><br>' +
-            '<!-- /wp:image --><br>' +
-            '<br>' +
-            '<!-- wp:image {"align":"center","id":1521} --><br>' +
-            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-005.jpg" alt="" class="wp-image-1521"/><figcaption class="wp-element-caption"><em>ก้อนหินปูนในไหล่</em></figcaption></figure><br>' +
-            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-006.jpg" alt="" class="wp-image-1522"/><figcaption class="wp-element-caption">เส้นเอ็นไหล่ขาด</figcaption></figure><br>' +
-            '<ul><!-- wp:list-item --><br>' +
+            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-004.jpg" alt="" class="wp-image-1520"/><figcaption class="wp-element-caption" style="margin-top: 24px;"><em><em>การตรวจ Ultrasound ที่ไหล่</em></em></figcaption></figure>' +
+            // '<!-- /wp:image --><br>' +
+            // '<br>' +
+            // '<!-- wp:image {"align":"center","id":1521} --><br>' +
+            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-005.jpg" alt="" class="wp-image-1521"/><figcaption class="wp-element-caption" style="margin-top: 24px;"><em>ก้อนหินปูนในไหล่</em></figcaption></figure>' +
+            '<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ไหล่ติด-ปวดไหล่-006.jpg" alt="" class="wp-image-1522"/><figcaption class="wp-element-caption" style="margin-top: 24px;">เส้นเอ็นไหล่ขาด</figcaption></figure>' +
+            // '<ul><!-- wp:list-item --><br>' +
             '<li><a href="https://doctorkeng.com/knowledge/mri.html">การตรวจ MRI หรือการตรวจด้วยคลื่นแม่เหล็กไฟฟ้า</a> จะช่วยประเมินสภาวะของแคปซูล เส้นเอ็น กล้ามเนื้อ และกระดูกของข้อไหล่</li><br>' +
             '<!-- /wp:list-item --></ul><br>' +
             '<h3 class="wp-block-heading"><span style="color: #000080;"><strong>การรักษา</strong></span></h3><br>' +
@@ -212,7 +215,7 @@ export const ShoulderSubData: SubContent[] = [
             '<li>อาการไหล่ติดส่วนใหญ่ใช้ระยะเวลรักษาค่อนข้างนาน ประมาณ 12-18 เดือน</li><br>' +
             '<!-- /wp:list-item --></ul><br>' +
             '<div><hr></div><br>' +
-            '<p><strong>ช่องทางการติดต่อ</strong><br><strong>Line:</strong>&nbsp;<a href="https://lin.ee/swOi91Q">https://lin.ee/swOi91Q</a>&nbsp;<strong>หรือ Line ID Search</strong>&nbsp;@Doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;www.youtube.com/user/taninniitleerapun/videos<br><strong>Facebook:</strong>&nbsp;หมอเก่งไขปัญหาปวดกระดูกและข้อ<br><strong>Blockdit:</strong>&nbsp;www.blockdit.com/doctorkeng</p><br>' +
+            '<p><strong>ช่องทางการติดต่อ</strong><br><strong>Line:</strong>&nbsp;<a href="https://lin.ee/swOi91Q">https://lin.ee/swOi91Q</a>&nbsp;<strong>หรือ Line ID Search</strong>&nbsp;@Doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube: <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer" class="contact-line" style="padding-left: 2px;" >https://www.youtube.com/user/taninniitleerapun/videos</a></strong><br><strong>Facebook:</strong>&nbsp;หมอเก่งไขปัญหาปวดกระดูกและข้อ<br><strong>Blockdit:</strong>&nbsp;www.blockdit.com/doctorkeng</p><br>' +
             '<!-- /wp:paragraph -->',
     },
     {
@@ -236,9 +239,9 @@ export const ShoulderSubData: SubContent[] = [
             '<p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #2813b0; font-size: 14pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span></p><br>' +
             '<span style="font-size: 14pt;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br>' +
             '<span style="font-size: 14pt;"><strong>Website:</strong> www.doctorkeng.com</span><br>' +
-            '<span style="font-size: 14pt;"><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun</span><br>' +
+            '<span style="font-size: 14pt;"><strong>YouTube:</strong><span class="contact-line" style="padding-left: 6px;" >https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br>' +
             '<span style="font-size: 14pt;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>' +
-            '<span style="font-size: 14pt;"><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</span>',
+            '<span style="font-size: 14pt;"><strong>Blockdit:</strong> <span class="contact-line" style="padding-left: 6px;">https://www.blockdit.com/doctorkeng</span></span>',
     },
     {
         title: 'อาการปวดไหล่เฉียบพลัน ขยับแขนแล้วปวดมาก',
@@ -246,7 +249,7 @@ export const ShoulderSubData: SubContent[] = [
         path: 'acute-shoulder-pain',
         detail: '<!-- wp:tadv/classic-paragraph --><br>' +
             '<p style="text-align: center;"><span style="font-size: 18pt; color: #2813b0;"><strong>อาการปวดไหล่เฉียบพลัน ขยับแขนแล้วปวดมาก<br></strong></span><span style="color: #2813b0;">โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</span></p><br>' +
-            '<div class="jss73"><span style="font-size: 12pt;">ท่านเคยมั้ยครับที่อยู่ๆก็มีอาการปวดไหล่เฉียบพลัน ขยับแขนแล้วปวดมาก <span style="font-family: -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen-Sans, Ubuntu, Cantarell, \'Helvetica Neue\', sans-serif;">วันนี้ผมเจอคนไข้ผู้ชายอายุประมาณ 60 ปี เดินเข้ามาอุ้มแขน ร้องปวดมาก ปวดตรงบริเวณไหล่ ขยับไหล่หรือแขนก็มีอาการปวดมาก อาการเพิ่งเป็นมาได้ 1 วันหลังจากไปเอื้อมยกของมา 1 วัน</span></span></div><br>' +
+            '<div class="jssโ73"><span style="font-size: 12pt;">ท่านเคยมั้ยครับที่อยู่ๆก็มีอาการปวดไหล่เฉียบพลัน ขยับแขนแล้วปวดมาก <span style="font-family: -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Oxygen-Sans, Ubuntu, Cantarell, \'Helvetica Neue\', sans-serif;">วันนี้ผมเจอคนไข้ผู้ชายอายุประมาณ 60 ปี เดินเข้ามาอุ้มแขน ร้องปวดมาก ปวดตรงบริเวณไหล่ ขยับไหล่หรือแขนก็มีอาการปวดมาก อาการเพิ่งเป็นมาได้ 1 วันหลังจากไปเอื้อมยกของมา 1 วัน</span></span></div><br>' +
             '<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/01/อาการปวดไหล่เฉียบพลัน_001-1024x538.jpg" alt="" class="wp-image-9824"/></figure><br>' +
             '<div class="jss73"><span style="font-size: 12pt;">เห็นคนไข้ปวดทรมานมากเลยครับ ตอนตรวจร่างกายแค่ขยับแขนคนไข้ ก็ร้องดังมากครับ แตะไหล่แทบจะไม่ได้เพราะร้องปวดมาก เลยได้ส่งเอกซเรย์ดูก็พบว่า กระดูกไหล่ปกติ แต่พบก้อนหินปูนที่บริเวณไหล่</span></div><br>' +
             '<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/01/อาการปวดไหล่เฉียบพลัน_002-1024x538.jpg" alt="" class="wp-image-9825"/></figure><figcaption class="wp-element-caption">ภาพเอกซเรย์พบก้อนหินปูน</figcaption></figure><br>' +
@@ -291,11 +294,11 @@ export const ShoulderSubData: SubContent[] = [
             '<!-- /wp:list-item --></ol><br>' +
             '<figure class="wp-block-image w-100"><a href="https://doctorkeng.com/knowledge/mri.html"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/08/การตรวจด้วย-MRI.jpg" alt="การตรวจด้วย MRI" class="wp-image-427"/></a></figure><br>' +
             '<p>สำหรับการรักษาเนื้องอกกระดูกที่ไหล่นั้นขึ้นอยู่กับชนิดของเนื้องอกที่เป็น ว่าเป็นเนื้องอกชนิดไม่ร้ายแรง หรือชนิดที่ร้ายแรง ซึ่งส่วนใหญ่มักจะให้การรักษาด้วยการผ่าตัด</p><br>' +
-            '<figure class="wp-block-image w-100"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5edd5aac9c4f8f0c82158f02.jpeg" alt="" class="wp-image-10378" width="100%"/><figcaption class="wp-element-caption">การผ่าตัดเนื้องอกกระดูกออก</figcaption></figure><br>' +
+            '<figure class="wp-block-image w-100" ><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5edd5aac9c4f8f0c82158f02.jpeg" alt="" class="wp-image-10378" width="100%"/><figcaption class="wp-element-caption" style="margin-top: 24px;">การผ่าตัดเนื้องอกกระดูกออก</figcaption></figure><br>' +
             '<p>ถ้ามีปัญหาสุขภาพกระดูกและข้อถามมาได้นะครับ</p><br>' +
             '<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/><br>' +
             '<p><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></p><br>' +
-            '<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p><br>' +
+            '<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 5px;">&nbsp;https://www.blockdit.com/doctorkeng</span></p><br>' +
             '<!-- /wp:paragraph -->',
     },
     {
@@ -325,7 +328,7 @@ export const ShoulderSubData: SubContent[] = [
             '<p>&nbsp; &nbsp; &nbsp;3. ฉีดยาลดการอักเสบเฉพาะที่ด้วยการใช้ ultrasound ระบุตำแหน่ง</p><br>' +
             '<p>&nbsp; &nbsp; &nbsp;4. ถ้ารักษาด้วยวิธีการข้างต้นไม่ดีขึ้นอาจจะต้องทำการส่องกล้องเพื่อรักษาตามสาเหตุ</p><br>' +
             '<p><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></p><br>' +
-            '<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p><br>' +
+            '<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 5px;">&nbsp;https://www.blockdit.com/doctorkeng<span></p><br>' +
             '<!-- /wp:paragraph -->',
     },
     {

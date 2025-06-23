@@ -70,6 +70,7 @@ figure img,
        max-width: 100% !important;
        height: auto !important;
        aspect-ratio: 16/9;
+       
    }
    
    center {
@@ -114,14 +115,15 @@ figure img,
     iframe {
        max-width: 700px !important;
        width: 700px !important;
-       height: 394px !important; /* 700 * (9/16) */
+       height: 394px !important; 
    }
 }
 
-/* Extra Large Screen - จำกัดขนาดเพิ่มเติม */
+/* Extra Large Screen  */
 @media (min-width: 1200px) {
     .wp-block-image {
         max-width: 700px;
+        
     }
     
     .wp-block-image img {
@@ -135,7 +137,50 @@ figure img,
 
     iframe {
        max-width: 800px !important;
-       width: 680px !important;
-       height: 350px !important; 
+       width: 530px !important;
+       height: 300px !important; 
     }
+}
+
+.youtube-wrapper {
+    max-width: 700px;
+    margin: 30px auto;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Mobile Responsive Styles */
+@media (max-width: 767.98px) {
+    .long-content-li {
+        line-height: 1.5;
+        text-align: start;
+        hyphens: auto;
+        text-align-last: left;
+        word-spacing: 0.1em;
+        word-break: break-word;
+    }
+    .contact-line {
+        /* display: block !important; */
+        width: 100% !important;
+        max-width: 100% !important;
+        word-break: break-all !important;
+        overflow-wrap: break-word !important;
+        hyphens: auto !important;
+        align-items: flex-start;
+        text-align: left;
+        overflow: hidden !important;
+        box-sizing: border-box !important;
+        text-overflow: ellipsis !important;
+    }
+    .youtube-wrapper {
+        max-width: 100%;
+        margin: 20px 5px;
+        
+        border-radius: 12px;
+        
+    }
+    
+   
 }

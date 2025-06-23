@@ -1,3 +1,5 @@
+/* ContentPage.tsx */
+
 import {ContentItems, SubContent} from "../../data/ContentData.tsx";
 import './content.css'
 import {Card, CardBody, CardHeader, CardText, Col, Container, Image, Row} from "react-bootstrap";
