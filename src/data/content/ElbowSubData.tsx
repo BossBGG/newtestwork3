@@ -25,7 +25,7 @@ export const ElbowSubData:SubContent[]=[
 <div class="jsx-3797055019 d-inline-flex mb-1">
 <div class="jsx-3797055019 paragraph-border-radius py-2 bg-light-gray px-2">
 <p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap">ตรวจร่างกาย พบมีจุดกดเจ็บที่บริเวณด้านข้างของข้อศอก <strong>การตรวจด้วย Ultrasound</strong> จะพบว่ามีหินปูนในเส้นเอ็น การบวมอักเสบ หรือการฉีกขาดของเส้นเอ็น</p>
-<p><figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1176" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/05/เส้นเอ็นศอกอักเสบ-003.jpg" alt="" width="700" height="366" /></figure></p>
+<p><figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1176" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/05/เส้นเอ็นศอกอักเสบ-003.jpg" alt="" width="700" height="366" style="margin-right: 148px;" /></figure></p>
 <div class="jsx-3797055019 d-inline-flex mb-1">
 <div class="jsx-3797055019 paragraph-border-radius py-2 bg-light-gray px-2">
 <p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #000080; font-size: 14pt;"><strong>การรักษา</strong></span></p>
@@ -35,8 +35,8 @@ export const ElbowSubData:SubContent[]=[
 <li class="jsx-3797055019 mb-0 text-break white-space-pre-wrap">การทานยาลดการอักเสบและยาลดปวด</li>
 <li class="jsx-3797055019 mb-0 text-break white-space-pre-wrap">การฉีดยาลดอักเสบเฉพาะที่ที่บริเวณเส้นเอ็นที่มีการอักเสบ</li>
 </ul>
-<p><figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1178" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/05/เส้นเอ็นศอกอักเสบ-004.jpg" alt="" width="700" height="366" /></figure></p>
-<p><figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1179" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/05/เส้นเอ็นศอกอักเสบ-005.jpg" alt="" width="700" height="366" /></figure></p>
+<p><figure class="image-container wp-block-image aligncenter"><img class="aligncenter wp-image-1178 " src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/05/เส้นเอ็นศอกอักเสบ-004.jpg" alt="" width="700" height="366" style="margin-left: 56px;"></figure></p>
+<p><figure class="image-container wp-block-image aligncenter"><img class="aligncenter wp-image-1179" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/05/เส้นเอ็นศอกอักเสบ-005.jpg" alt="" width="700" height="366" style="margin-left: 56px;"></figure></p>
 </div>
 </div>
 </div>
@@ -51,7 +51,7 @@ export const ElbowSubData:SubContent[]=[
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Line Official Account: <a href="https://lin.ee/swOi91Q" target="_blank" rel="noreferrer noopener">https://lin.ee/swOi91Q</a><br>หรือ Line ID search @DoctorKeng<br>เว็บไซต์ www.doctorkeng.com<br>YouTube <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noreferrer noopener">https://www.youtube.com/user/taninniitleerapun/videos</a><br>Facebook <a href="https://www.facebook.com/backpainnonop/" target="_blank" rel="noreferrer noopener">ปวดหลังรักษาได้ ไม่ผ่าตัด</a><br>Blockdit https://www.blockdit.com/doctorkeng<br>Location คลินิกกระดูกและข้อ หมอเก่ง สันป่าข่อยคลินิกบน Google Map <a href="https://g.page/doctorkeng" target="_blank" rel="noreferrer noopener">https://g.page/doctorkeng</a></p>
+<p class="has-small-font-size">Line Official Account: <a href="https://lin.ee/swOi91Q" target="_blank" rel="noreferrer noopener">https://lin.ee/swOi91Q</a><br>หรือ Line ID search @DoctorKeng<br>เว็บไซต์ www.doctorkeng.com<br>YouTube <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noreferrer noopener" class="contact-line" style="padding-left: 2px;">https://www.youtube.com/user/taninniitleerapun/videos</a><br>Facebook <a href="https://www.facebook.com/backpainnonop/" target="_blank" rel="noreferrer noopener">ปวดหลังรักษาได้ ไม่ผ่าตัด</a><br>Blockdit https://www.blockdit.com/doctorkeng<br>Location คลินิกกระดูกและข้อ หมอเก่ง สันป่าข่อยคลินิกบน Google Map <a href="https://g.page/doctorkeng" target="_blank" rel="noreferrer noopener">https://g.page/doctorkeng</a></p>
 <!-- /wp:paragraph -->`,
     },
     {
@@ -151,7 +151,7 @@ export const ElbowSubData:SubContent[]=[
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Line:&nbsp;<a href="https://lin.ee/swOi91Q">https://lin.ee/swOi91Q</a>&nbsp;หรือ Line ID Search&nbsp;@Doctorkeng<br>Website:&nbsp;www.doctorkeng.com<br>YouTube:&nbsp;www.youtube.com/user/taninniitleerapun/videos<br>Facebook:&nbsp;หมอเก่งไขปัญหาปวดกระดูกและข้อ<br>Blockdit:&nbsp;www.blockdit.com/doctorkeng</p>
+<p class="has-small-font-size">Line:&nbsp;<a href="https://lin.ee/swOi91Q">https://lin.ee/swOi91Q</a>&nbsp;หรือ Line ID Search&nbsp;@Doctorkeng<br>Website:&nbsp;www.doctorkeng.com<br>YouTube:<span class="contact-line" style="padding-left: 4px;">www.youtube.com/user/taninniitleerapun/videos</span><br>Facebook:&nbsp;หมอเก่งไขปัญหาปวดกระดูกและข้อ<br>Blockdit:&nbsp;www.blockdit.com/doctorkeng</p>
 <!-- /wp:paragraph -->`,
     },
 ]

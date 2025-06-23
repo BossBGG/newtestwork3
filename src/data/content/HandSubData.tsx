@@ -1,5 +1,5 @@
 import {SubContent} from "../ContentData.tsx";
-
+import "./ShoulderSubData.css"
 export const HandSubData:SubContent[]=[
     {
         title: 'VDO-ปัญหาข้อมือ ปวดมือ ชามือ การวินิจฉัยและการรักษา',
@@ -41,7 +41,8 @@ export const HandSubData:SubContent[]=[
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"small"} -->
-<p class="has-black-color has-text-color has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun</span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:&nbsp;https://www.blockdit.com/doctorkeng</span></p>
+
+<p class="has-black-color has-text-color has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:https://www.youtube.com/results?search_query=taninnit+leerapun</span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:https://www.blockdit.com/doctorkeng</span></p>
 <!-- /wp:paragraph -->`,
     },
     {

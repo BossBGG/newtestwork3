@@ -157,12 +157,12 @@ export const NeckSubData:SubContent[]=[
 2.ฉีดยาบล็อกเส้นประสาทเพื่อลดการอักเสบบริเวณรากประสาทที่คอโดยการใช้เครื่องเสียงความถี่สูงหรือ Ultrasound ในการระบุตำแหน่งที่ฉีดยา
 3.การปรับพฤติกรรมที่เหมาะสมดังที่กล่าวข้างต้น</p>
 <p style="text-align: left;">มากกว่าร้อยละ 90 ของผู้ป่วยสามารถรักษาได้ด้วยวิธีดังกล่าวข้างต้น มีน้อยมากที่จำเป็นต้องรักษาด้วยการผ่าตัด ระยะเวลาในการรักษาส่วนใหญ่ประมาณ 6-8 เดือน</p>
-<strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่
-</strong><strong>Line OA:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng
-<strong>Website: </strong><a href="https://doctorkeng.com" target="_blank" rel="noopener">www.doctorkeng.com</a>
-<strong>YouTube:</strong> <a href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a>
-<strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a>
-<strong>Blockdit</strong>: <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a>`,
+<strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่<br/>
+</strong><strong>Line OA:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng<br/>
+<strong>Website: </strong><a href="https://doctorkeng.com" target="_blank" rel="noopener">www.doctorkeng.com</a><br/>
+<strong>YouTube:</strong> <a href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener" class="contact-line" style="padding-left: 2px;">https://www.youtube.com/results?search_query=taninnit+leerapun</a><br/>
+<strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br/>
+<strong>Blockdit</strong>: <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener" class="contact-line" style="padding-left: 2px;">https://www.blockdit.com/doctorkeng</a><br/>`,
     },
     {
         title: 'ปวดคอ (หมอนรองกระดูกคอเสื่อม)',
@@ -204,12 +204,12 @@ export const NeckSubData:SubContent[]=[
 
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`,
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br/>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br/>`,
     },
     {
         title: 'ปวดต้นคอ หมอนรองกระดูกเสื่อม',

@@ -77,6 +77,20 @@ figure img,
        padding: 0 10px;
        margin: 15px 0;
    }
+
+   /* Container responsive */
+    .image-container {
+        width: 100%;
+        max-width: 700px;
+       
+        border-radius: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+    }
+   
+  
 }
 
 /* Tablet responsive for iframe */

@@ -24,14 +24,14 @@ export const HipSubData:SubContent[]=[
 </ol>
 <figure class="wp-block-image aligncenter"><img  class="aligncenter wp-image-1585" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/ก้อนหินปูน-สาเหตุหนึ่งที่ปวดสะโพก-003.jpg" alt="" width="700" height="368" /></figure>
 
-ส่วนมากผู้ป่วยมักจะมีอาการดีขึ้นด้วยการรักษาด้วยวิธีการดังกล่าวข้างต้น อย่างไรก็ตามถ้าอาการไม่ดีขึ้นหลังจากที่รักษาไปได้ระยะหนึ่งจึงจะพิจารณารักษาด้วยการผ่าตัด
+ส่วนมากผู้ป่วยมักจะมีอาการดีขึ้นด้วยการรักษาด้วยวิธีการดังกล่าวข้างต้น อย่างไรก็ตามถ้าอาการไม่ดีขึ้นหลังจากที่รักษาไปได้ระยะหนึ่งจึงจะพิจารณารักษาด้วยการผ่าตัด<br/>
 
-<span style="color: #000080;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span>
-<strong>Line OA</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng
-<strong>Website</strong> www.doctorkeng.com
-<strong>YouTube</strong> https://www.youtube.com/results?search_query=taninnit+leerapun
-<strong>Facebook</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ https://www.facebook.com/backpainnonop
-<strong>Blockdit</strong> https://www.blockdit.com/doctorkeng`,
+<span style="color: #000080;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span><br/>
+<strong>Line OA</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br/>
+<strong>Website</strong> www.doctorkeng.com<br/>
+<strong>YouTube</strong> https://www.youtube.com/results?search_query=taninnit+leerapun<br/>
+<strong>Facebook</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ https://www.facebook.com/backpainnonop<br/>
+<strong>Blockdit</strong> https://www.blockdit.com/doctorkeng<br/>`,
     },
     {
         title: 'ปวดสะโพก จากถุงน้ำระหว่างชั้นกล้ามเนื้ออักเสบ',
@@ -348,7 +348,7 @@ export const HipSubData:SubContent[]=[
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p>
+<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>
 <!-- /wp:paragraph -->`,
     },
     {
