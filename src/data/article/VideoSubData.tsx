@@ -46,12 +46,12 @@ export const VideoSubData: SubContent[] = [
 
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br>`
     },
     {
         title: 'VDO-3 วิธี ป้องกันโรคเข่าเสื่อม',
@@ -72,7 +72,7 @@ export const VideoSubData: SubContent[] = [
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><strong>Line OA:</strong>&nbsp;<a href="https://lin.ee/swOi91Q" target="_blank" rel="noreferrer noopener">https://lin.ee/swOi91Q</a>&nbsp;<strong>หรือ Line ID search</strong>&nbsp;@DoctorKeng<br><strong>Website:&nbsp;</strong>www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;<a href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noreferrer noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a><br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit</strong>:&nbsp;<a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noreferrer noopener">https://www.blockdit.com/doctorkeng</a></p>
+<p class="has-small-font-size"><strong>Line OA:</strong>&nbsp;<a href="https://lin.ee/swOi91Q" target="_blank" rel="noreferrer noopener">https://lin.ee/swOi91Q</a>&nbsp;<strong>หรือ Line ID search</strong>&nbsp;@DoctorKeng<br><strong>Website:&nbsp;</strong>www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;<a href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noreferrer noopener" class="contact-line" style="padding-left: 2px;">https://www.youtube.com/results?search_query=taninnit+leerapun</a><br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit</strong>:&nbsp;<a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noreferrer noopener"class="contact-line" style="padding-left: 2px;">https://www.blockdit.com/doctorkeng</a></p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -88,12 +88,12 @@ VDO การผ่าตัดเปลี่ยนข้อสะโพกเ�
 </div>
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br>`
     },
     {
         title: 'VDO แนวทางการรักษาอาการปวดหลังและโรคกระดูกและข้อ',
@@ -116,11 +116,11 @@ VDO การผ่าตัดเปลี่ยนข้อสะโพกเ�
 
 <hr />
 <p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #2813b0; font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span></p>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Website:</strong> www.doctorkeng.com</span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun</span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</span>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Website:</strong> www.doctorkeng.com</span><br>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun</span><br>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</span><br>
 
 </div>`
     },
@@ -176,12 +176,12 @@ Line ID : @doctorkeng
 
 <hr />
 
-<span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong><span style="color: #000080;">ท่านสามารถติดตามสารพันปัญหาโรคกระดูกและข้อ ได้ที่</span>
-</strong><span style="font-size: 10pt;"><strong>Line OA</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q </a></span></span><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">หรือ Line ID: @doctorkeng</span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>เว็บไซต์</strong> www.doctorkeng.com</span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>YouTube</strong> <a href="https://www.youtube.com/user/taninniitleerapun" target="_blank" rel="noopener noreferrer">https://www.youtube.com/user/taninniitleerapun</a></span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Facebook</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหากระดูกและข้อ</a></span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Blockdit</strong> <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener noreferrer">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong><span style="color: #000080;">ท่านสามารถติดตามสารพันปัญหาโรคกระดูกและข้อ ได้ที่</span><br>
+</strong><span style="font-size: 10pt;"><strong>Line OA</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q </a></span></span><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">หรือ Line ID: @doctorkeng</span><br>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>เว็บไซต์</strong> www.doctorkeng.com</span><br>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>YouTube</strong> <a href="https://www.youtube.com/user/taninniitleerapun" target="_blank" rel="noopener noreferrer">https://www.youtube.com/user/taninniitleerapun</a></span><br>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Facebook</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหากระดูกและข้อ</a></span><br>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Blockdit</strong> <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener noreferrer">https://www.blockdit.com/doctorkeng</a></span><br>`
     },
     {
         title: 'ปวดไหล่ ห้ามแกว่งแขน-หมอเก่ง นพ.ธนินนิตย์',
@@ -192,12 +192,12 @@ Line ID : @doctorkeng
 </strong><span style="font-size: 12pt; color: #000000;">โดย หมอเก่ง นพ.ธนินนิตย์</span></span></p>
 <center><iframe src="https://www.youtube.com/embed/ZtSug2n0k74?controls=0" width="700" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><center><span style="font-size: 14pt; color: #000080;"><strong>รับชม vdo ปวดไหล่ อย่าแกว่งแขน</strong></span>
 โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</center><center></center><strong>Line</strong> Official Account: <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q</a>
-หรือ Line ID search @DoctorKeng
-<strong>เว็บไซต์</strong> www.doctorkeng.com
-<strong>YouTube</strong> <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer">https://www.youtube.com/user/taninniitleerapun/videos</a>
-<strong>Facebook</strong> <a href="https://www.facebook.com/backpainnonop/" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหากระดูกและข้อ</a>
-<strong>Blockdit</strong> https://www.blockdit.com/doctorkeng
-<strong>Location</strong> คลินิกกระดูกและข้อ หมอเก่ง สันป่าข่อยคลินิกบน Google Map <a href="https://g.page/doctorkeng" target="_blank" rel="noopener noreferrer">https://g.page/doctorkeng</a>`
+หรือ Line ID search @DoctorKeng<br>
+<strong>เว็บไซต์</strong> www.doctorkeng.com<br>
+<strong>YouTube</strong> <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer" class="contact-line" style="padding-left: 2px;">https://www.youtube.com/user/taninniitleerapun/videos</a><br>
+<strong>Facebook</strong> <a href="https://www.facebook.com/backpainnonop/" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหากระดูกและข้อ</a><br>
+<strong>Blockdit</strong> https://www.blockdit.com/doctorkeng<br>
+<strong>Location</strong> คลินิกกระดูกและข้อ หมอเก่ง สันป่าข่อยคลินิกบน Google Map <a href="https://g.page/doctorkeng" target="_blank" rel="noopener noreferrer">https://g.page/doctorkeng</a><br>`
     },
     {
         title: 'VDO ปวดไหล่ ดูแลอย่างไร',
@@ -250,12 +250,12 @@ Line ID : @doctorkeng
 &nbsp;
 
 &nbsp;
-<p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #2813b0; font-size: 14pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span></p>
-<span style="font-size: 14pt;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span>
-<span style="font-size: 14pt;"><strong>Website:</strong> www.doctorkeng.com</span>
-<span style="font-size: 14pt;"><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun</span>
-<span style="font-size: 14pt;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 14pt;"><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</span>`
+<p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #2813b0; font-size: 14pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span></p><br>
+<span style="font-size: 14pt;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br>
+<span style="font-size: 14pt;"><strong>Website:</strong> www.doctorkeng.com</span><br>
+<span style="font-size: 14pt;"><strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br>
+<span style="font-size: 14pt;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>
+<span style="font-size: 14pt;"><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span><br>`
     },
     {
         title: 'ปวดหลัง-รู้สาเหตุ การวินิจฉัย และการรักษาด้วยการไม่ผ่าตัด',
@@ -263,8 +263,13 @@ Line ID : @doctorkeng
         path: 'back-pain-video',
         detail: `<!-- wp:embed {"url":"https://youtu.be/SzXI6x6iuVM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/SzXI6x6iuVM
+
 </div></figure>
+
+<div class="text-center">
+<iframe src="//www.youtube.com/embed/SzXI6x6iuVM" width="800" height="449" allowfullscreen="allowfullscreen"></iframe>
+</div>
+
 <!-- /wp:embed -->
 
 <!-- wp:heading {"textAlign":"center"} -->
@@ -284,7 +289,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Line:&nbsp;<a href="https://lin.ee/swOi91Q">https://lin.ee/swOi91Q</a>&nbsp;หรือ Line ID Search&nbsp;@Doctorkeng<br>Website:&nbsp;www.doctorkeng.com<br>YouTube:&nbsp;www.youtube.com/user/taninniitleerapun/videos<br>Facebook:&nbsp;หมอเก่งไขปัญหาปวดกระดูกและข้อ<br>Blockdit:&nbsp;www.blockdit.com/doctorkeng</p>
+<p class="has-small-font-size">Line:&nbsp;<a href="https://lin.ee/swOi91Q">https://lin.ee/swOi91Q</a>&nbsp;หรือ Line ID Search&nbsp;@Doctorkeng<br>Website:&nbsp;www.doctorkeng.com<br>YouTube:<span class="contact-line" style="padding-left: 4px;">www.youtube.com/user/taninniitleerapun/videos</span><br>Facebook:&nbsp;หมอเก่งไขปัญหาปวดกระดูกและข้อ<br>Blockdit:&nbsp;www.blockdit.com/doctorkeng</p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -303,12 +308,12 @@ https://youtu.be/SzXI6x6iuVM
 <iframe src="//www.youtube.com/embed/9-5Yykgd5BU" width="800" height="449" allowfullscreen="allowfullscreen"></iframe>
 </div>
 &nbsp;
-<p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #2813b0; font-size: 14pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span></p>
-<span style="font-size: 14pt;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span>
-<span style="font-size: 14pt;"><strong>Website:</strong> www.doctorkeng.com</span>
-<span style="font-size: 14pt;"><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun</span>
-<span style="font-size: 14pt;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 14pt;"><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</span>`
+<p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #2813b0; font-size: 14pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span></p><br>
+<span style="font-size: 14pt;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br>
+<span style="font-size: 14pt;"><strong>Website:</strong> www.doctorkeng.com</span><br>
+<span style="font-size: 14pt;"><strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br>
+<span style="font-size: 14pt;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>
+<span style="font-size: 14pt;"><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span><br>`
     },
     {
         title: 'ปวดหลัง วินิจฉัยและรักษาอย่างไร',
@@ -327,7 +332,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><iframe src="//www.youtube.com/embed/fb11ab2L7so" width="800" height="449" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe src="//www.youtube.com/embed/fb11ab2L7so" width="800" height="449" allowfullscreen="allowfullscreen" class="youtube-wrapper"></iframe></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
@@ -339,7 +344,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br>Website:&nbsp;www.doctorkeng.com<br>YouTube:&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br>Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br>Blockdit:&nbsp;https://www.blockdit.com/doctorkeng</p>
+<p class="has-small-font-size">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br>Website:&nbsp;www.doctorkeng.com<br>YouTube:&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br>Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br>Blockdit:<span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -359,7 +364,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><iframe src="//www.youtube.com/embed/XpZvor_TFHY" width="800" height="449" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe src="//www.youtube.com/embed/XpZvor_TFHY" width="800" height="449" allowfullscreen="allowfullscreen" class="youtube-wrapper"></iframe></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -367,7 +372,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun</span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:&nbsp;https://www.blockdit.com/doctorkeng</span></p>
+<p class="has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:<span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:<span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span></p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -375,7 +380,7 @@ https://youtu.be/SzXI6x6iuVM
         shot: 'ปวดส้นเท้า รักษากันอย่างไร',
         path: 'foot-pain-cure-vdo',
         detail: `<!-- wp:image {"id":9430,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/06/ปวดส้นเท้า-1024x536.jpg" alt="" class="wp-image-9430"/></figure>
+<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/06/ปวดส้นเท้า-1024x536.jpg" alt="" class="wp-image-9430 "/></figure>
 <!-- /wp:image -->
 
 <!-- wp:tadv/classic-paragraph -->
@@ -387,7 +392,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:tadv/classic-paragraph -->
-<div><iframe src="//www.youtube.com/embed/6ccAg_6Afmo" width="800" height="449" allowfullscreen="allowfullscreen"></iframe></div>
+<div><iframe src="//www.youtube.com/embed/6ccAg_6Afmo" width="800" height="449" allowfullscreen="allowfullscreen" class="youtube-wrapper"></iframe></div>
 <!-- /wp:tadv/classic-paragraph -->
 
 <!-- wp:tadv/classic-paragraph -->
@@ -401,7 +406,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- wp:tadv/classic-paragraph -->
 <div>
 <p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #2813b0; font-size: 14pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span></p>
-<p><span style="font-size: 14pt;"><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;"><strong>Website:</strong>&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;"><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun</span><br><span style="font-size: 14pt;"><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;"><strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</span></p>
+<p><span style="font-size: 14pt;"><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;"><strong>Website:</strong>&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;"><strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br><span style="font-size: 14pt;"><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;"><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span></p>
 </div>
 <!-- /wp:tadv/classic-paragraph -->`
     },
@@ -422,7 +427,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><iframe src="//www.youtube.com/embed/MLlvg-fznGs" width="800" height="449" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe src="//www.youtube.com/embed/MLlvg-fznGs" width="800" height="449" allowfullscreen="allowfullscreen" class="youtube-wrapper"></iframe></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
@@ -434,7 +439,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"small"} -->
-<p class="has-black-color has-text-color has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun</span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:&nbsp;https://www.blockdit.com/doctorkeng</span></p>
+<p class="has-black-color has-text-color has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:<span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:<span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span></p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -450,7 +455,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><iframe src="//www.youtube.com/embed/YIj_rIN83Jg" width="800" height="449" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe src="//www.youtube.com/embed/YIj_rIN83Jg" width="800" height="449" allowfullscreen="allowfullscreen" class="youtube-wrapper"></iframe></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
@@ -462,7 +467,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br>Website:&nbsp;www.doctorkeng.com<br>YouTube:&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br>Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br>Blockdit:&nbsp;https://www.blockdit.com/doctorkeng</p>
+<p class="has-small-font-size">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br>Website:&nbsp;www.doctorkeng.com<br>YouTube:&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br>Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br>Blockdit:<span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -477,12 +482,12 @@ https://youtu.be/SzXI6x6iuVM
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br>
+<strong>Website:</strong> www.doctorkeng.com<br>
+<strong>YouTube:</strong> <span class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos</span><br>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br>`
     },
     {
         title: 'ทำไมคนที่เป็นหมอนรองกระดูกเคลื่อนทับเส้นประสาทจึงปวดหลัง ปวด ชา ร้าวลงขา ?',
@@ -496,12 +501,12 @@ https://youtu.be/SzXI6x6iuVM
 
 <hr />
 
-<span style="color: #2813b0; font-size: 10pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่
-</strong></span><span style="font-size: 10pt;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span>
-<span style="font-size: 10pt;"><strong>Website:</strong> www.doctorkeng.com</span>
-<span style="font-size: 10pt;"><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun</span>
-<span style="font-size: 10pt;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt;"><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</span>`
+<span style="color: #2813b0; font-size: 10pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่<br/>
+</strong></span><span style="font-size: 10pt;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br/>
+<span style="font-size: 10pt;"><strong>Website:</strong> www.doctorkeng.com</span><br/>
+<span style="font-size: 10pt;"><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun</span><br/>
+<span style="font-size: 10pt;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
+<span style="font-size: 10pt;"><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</span><br/>`
     },
     {
         title: 'ปวดหลัง สัญญาณอันตรายที่ต้องพบแพทย์',
@@ -516,7 +521,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><iframe src="//www.youtube.com/embed/YipMynh2H9c" width="800" height="449" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe src="//www.youtube.com/embed/YipMynh2H9c" width="800" height="449" allowfullscreen="allowfullscreen" class="youtube-wrapper"></iframe></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"className":"is-style-wide"} -->
@@ -528,7 +533,7 @@ https://youtu.be/SzXI6x6iuVM
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun</span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:&nbsp;https://www.blockdit.com/doctorkeng</span></p>
+<p class="has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:<span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:<span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span></p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -541,12 +546,12 @@ https://youtu.be/SzXI6x6iuVM
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span>
-Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> <a href="https://doctorkeng.com/www.doctorkeng.com" target="_blank" rel="noopener noreferrer">www.doctorkeng.com</a>
-<strong>YouTube:</strong> <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer">www.youtube.com/user/taninniitleerapun/videos</a>
-<strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a>
-<strong>Blockdit:</strong> <a href="https://doctorkeng.com/www.blockdit.com/doctorkeng" target="_blank" rel="noopener noreferrer">www.blockdit.com/doctorkeng</a>`
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span><br/>
+Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> <a href="https://doctorkeng.com/www.doctorkeng.com" target="_blank" rel="noopener noreferrer">www.doctorkeng.com</a><br/>
+<strong>YouTube:</strong> <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer" class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos</a><br/>
+<strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br/>
+<strong>Blockdit:</strong> <a href="https://doctorkeng.com/www.blockdit.com/doctorkeng" target="_blank" rel="noopener noreferrer">www.blockdit.com/doctorkeng</a><br/>`
     },
     {
         title: 'กายภาพบำบัด ตอน.ผู้ป่วยหลังผ่าตัดเปลี่ยนข้อเข่าเทียมวันแรก',
@@ -558,12 +563,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">www.youtube.com/user/taninniitleerapun/videos</span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`
     },
     {
         title: 'กายภาพบำบัด ตอน.ลดอาการบวมสำหรับผู้ป่วยเปลี่ยนข้อเข่าเทียม',
@@ -575,12 +580,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">www.youtube.com/user/taninniitleerapun/videos</span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`
     },
     {
         title: 'กายภาพบำบัด ตอน การเพิ่มมุมการเคลื่อนไหวข้อเข่า',
@@ -592,12 +597,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">www.youtube.com/user/taninniitleerapun/videos</span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`
     },
     {
         title: 'กายภาพบำบัด ตอน.การเหยียดข้อเข่า',
@@ -607,12 +612,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">www.youtube.com/user/taninniitleerapun/videos</span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`
     },
     {
         title: 'กายภาพบำบัด ตอน บริหารเพื่อมุมการเคลื่อนไหว ตอน 2',
@@ -623,12 +628,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">www.youtube.com/user/taninniitleerapun/videos</span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`
     },
     {
         title: 'โรคพังผืดฝ่าเท้าอักเสบ',
@@ -672,12 +677,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br/>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br/>`
     },
     {
         title: 'ความสัมพันธ์ของโรคปวดหลัง และกระดูกพรุน',
@@ -730,12 +735,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br/>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br/>`
     },
     {
         title: 'การฉีดสเตียรอยด์เข้าโพรงประสาทด้านหลัง',
@@ -744,7 +749,7 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
         detail: `<style>/*! elementor - v3.17.0 - 25-10-2023 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>\t\t\t\t\t\t\t\t\t\t\t\t<figure class="wp-block-image aligncenter"><img width="982" height="1024" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/20901589_1481442671934229_3309951537590475258_o-982x1024.jpg" alt="" loading="lazy" srcset="https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/20901589_1481442671934229_3309951537590475258_o-982x1024.jpg 982w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/20901589_1481442671934229_3309951537590475258_o-288x300.jpg 288w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/20901589_1481442671934229_3309951537590475258_o-768x801.jpg 768w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/20901589_1481442671934229_3309951537590475258_o-440x459.jpg 440w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/20901589_1481442671934229_3309951537590475258_o.jpg 1094w" sizes="(max-width: 982px) 100vw, 982px" /></figure>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
 \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<figure class="wp-block-image aligncenter"><img width="1024" height="723" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/5ed4370cdc07380ca7f695f2-1024x723.jpg" alt="" loading="lazy" srcset="https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/5ed4370cdc07380ca7f695f2-1024x723.jpg 1024w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/5ed4370cdc07380ca7f695f2-300x212.jpg 300w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/5ed4370cdc07380ca7f695f2-768x542.jpg 768w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/5ed4370cdc07380ca7f695f2-1536x1084.jpg 1536w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/5ed4370cdc07380ca7f695f2-440x310.jpg 440w, https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/5ed4370cdc07380ca7f695f2.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
-\t\t<p style="text-align: center;"><strong>การฉีดสเตียรอยด์เข้าโพรงประสาทด้านหลัง</strong></p><p>VDO การฉีดยาสเตียรอด์เข้าโพรงประสาทด้านหลังโดยใช้คลื่นเสียงความถี่สูงระบุตำแหน่ง เพื่อรักษาอาการปวดหลัง หรืออาการปวดหลังร้าวลงขา ช่วยลดอาการปวด ลดการอักเสบของเส้นประสาทและข้อต่อของกระดูกสันหลัง ทำให้คุณภาพชีวิตของผู้ที่มีอาการปวดหลังดีขึ้น</p><center><iframe src="https://www.youtube.com/embed/cyxWRGoLdH8" width="700" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><hr /><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่<br /></strong><strong>Line OA:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng<br /><strong>Website: </strong><a href="https://doctorkeng.com">www.doctorkeng.com</a><br /><strong>YouTube:</strong> <a href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a><br /><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br /><strong>Blockdit</strong>: <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a>`
+\t\t<p style="text-align: center;"><strong>การฉีดสเตียรอยด์เข้าโพรงประสาทด้านหลัง</strong></p><p>VDO การฉีดยาสเตียรอด์เข้าโพรงประสาทด้านหลังโดยใช้คลื่นเสียงความถี่สูงระบุตำแหน่ง เพื่อรักษาอาการปวดหลัง หรืออาการปวดหลังร้าวลงขา ช่วยลดอาการปวด ลดการอักเสบของเส้นประสาทและข้อต่อของกระดูกสันหลัง ทำให้คุณภาพชีวิตของผู้ที่มีอาการปวดหลังดีขึ้น</p><center><iframe src="https://www.youtube.com/embed/cyxWRGoLdH8" width="700" height="415" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center><hr /><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่<br /></strong><strong>Line OA:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng<br /><strong>Website: </strong><a href="https://doctorkeng.com">www.doctorkeng.com</a><br /><strong>YouTube:</strong> <a href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener" class="contact-line" style="padding-left: 2px;">https://www.youtube.com/results?search_query=taninnit+leerapun</a><br /><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br /><strong>Blockdit:</strong> <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener" class="contact-line" style="padding-left: 2px;">https://www.blockdit.com/doctorkeng</a>`
     },
     {
         title: 'ปวดไหล่ วินิจฉัยให้ถูกต้อง (VDO)',

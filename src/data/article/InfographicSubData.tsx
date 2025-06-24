@@ -58,7 +58,7 @@ Line ID: @doctorkeng`
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">Line Official Account: <a href="https://lin.ee/swOi91Q" target="_blank" rel="noreferrer noopener">https://lin.ee/swOi91Q</a><br>หรือ Line ID search @DoctorKeng<br>เว็บไซต์ www.doctorkeng.com<br>YouTube <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noreferrer noopener">https://www.youtube.com/user/taninniitleerapun/videos</a><br>Facebook <a href="https://www.facebook.com/backpainnonop/" target="_blank" rel="noreferrer noopener">ปวดหลังรักษาได้ ไม่ผ่าตัด</a><br>Blockdit https://www.blockdit.com/doctorkeng<br>Location คลินิกกระดูกและข้อ หมอเก่ง สันป่าข่อยคลินิกบน Google Map <a href="https://g.page/doctorkeng" target="_blank" rel="noreferrer noopener">https://g.page/doctorkeng</a></p>
+<p class="has-small-font-size">Line Official Account: <a href="https://lin.ee/swOi91Q" target="_blank" rel="noreferrer noopener">https://lin.ee/swOi91Q</a><br>หรือ Line ID search @DoctorKeng<br>เว็บไซต์ www.doctorkeng.com<br>YouTube <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noreferrer noopener" class="contact-line" style="padding-left: 2px;">https://www.youtube.com/user/taninniitleerapun/videos</a><br>Facebook <a href="https://www.facebook.com/backpainnonop/" target="_blank" rel="noreferrer noopener">ปวดหลังรักษาได้ ไม่ผ่าตัด</a><br>Blockdit https://www.blockdit.com/doctorkeng<br>Location คลินิกกระดูกและข้อ หมอเก่ง สันป่าข่อยคลินิกบน Google Map <a href="https://g.page/doctorkeng" target="_blank" rel="noreferrer noopener">https://g.page/doctorkeng</a></p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -155,12 +155,12 @@ Line ID: @doctorkeng`
 <ul style="list-style-type: square;">
  \t<li style="list-style-type: none;">
 <ul style="list-style-type: square;">
- \t<li><span style="font-size: 8pt;">Report of the WHO-China Joint Missionon Coronavirus Disease 2019 (COVID-19), February 2020</span></li>
+ \t<li><span style="font-size: 8pt;">Report of the WHO-China Joint Missionon Coronavirus Disease 2019 (COVID-19), February 2020</span></li>
  \t<li><span style="font-size: 8pt;">โคโรนา : มารู้จักไวรัสที่ทำให้เกิดโรคปอดอักเสบระบาดในจีน. สืบค้น 1 มีนาคม 2563, จาก <a href="https://www.bbc.com/thai/thailand-51089461" target="_blank" rel="noopener noreferrer">https://www.bbc.com/thai/thailand-51089461</a></span></li>
  \t<li><span style="font-size: 8pt;">นพ.ธีระ วรธนารัตน์. (2563). โคโรนาไวรัส 2019 (COVID-19) ตอนนี้เรารู้อะไรบ้าง?. สืบค้น 3 มีนาคม 2563, จาก <a href="https://www.hfocus.org/print/18552" target="_blank" rel="noopener noreferrer">https://www.hfocus.org/print/18552</a></span></li>
- \t<li><span style="font-size: 8pt;">Novel Coronavirus (COVID-19) advice for the public. สืบค้น 1 มีนาคม 2563, จาก <a href="https://www.who.int/thailand/emergencies/novel-coronavirus-2019/advice-for-public" target="_blank" rel="noopener noreferrer">https://www.who.int/thailand/emergencies/novel-coronavirus-2019/advice-for-public</a></span></li>
+ \t<li><span style="font-size: 8pt;">Novel Coronavirus (COVID-19) advice for the public. สืบค้น 1 มีนาคม 2563, จาก <a href="https://www.who.int/thailand/emergencies/novel-coronavirus-2019/advice-for-public" target="_blank" rel="noopener noreferrer" class="contact-line" style="padding-left: 1px;">https://www.who.int/thailand/emergencies/novel-coronavirus-2019/advice-for-public</a></span></li>
  \t<li><span style="font-size: 8pt;">กรมควบคุมโรค กระทรวงสาธารณสุข. (2563). โรคติดเชื้อไวรัสโคโรนา 2019 (COVID-19). สืบค้น 8 มีนาคม 2563, จาก <a href="https://ddc.moph.go.th/viralpneumonia/info.php" target="_blank" rel="noopener noreferrer">https://ddc.moph.go.th/viralpneumonia/info.php</a></span></li>
- \t<li><span style="font-size: 8pt;">6 ท้อเท็จจริง โรคอุบัติใหม่ ไวรัสโคโรนา (2019-nCoV). (2563). ห้องปฏิบัติการไวรัสวิทยาและเซลล์เทคโนโลยี ศูนย์พันธุวิศวกรรมและเทคโนโลยีชีวภาพแห่งชาติ. สืบค้น 29 กุมภาพันธ์ 2563, จาก <a href="https://oer.learn.in.th/search_detail/result/166770" target="_blank" rel="noopener noreferrer">https://oer.learn.in.th/search_detail/result/166770</a></span></li>
+ \t<li><span style="font-size: 8pt;">6 ท้อเท็จจริง โรคอุบัติใหม่ ไวรัสโคโรนา (2019-nCoV). (2563). ห้องปฏิบัติการไวรัสวิทยาและเซลล์เทคโนโลยี ศูนย์พันธุวิศวกรรมและเทคโนโลยีชีวภาพแห่งชาติ. สืบค้น 29 กุมภาพันธ์ 2563, จาก <a href="https://oer.learn.in.th/search_detail/result/166770" target="_blank" rel="noopener noreferrer" class="contact-line" style="padding-left: 1px;">https://oer.learn.in.th/search_detail/result/166770</a></span></li>
  \t<li><span style="font-size: 8pt;">สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ</span></li>
 </ul>
 </li>

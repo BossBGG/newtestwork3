@@ -11,13 +11,13 @@ export const StudentSubData: SubContent[] = [
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360">
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360">
 <br>
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -30,13 +30,13 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -49,13 +49,13 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -68,13 +68,13 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -87,13 +87,13 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -106,13 +106,13 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -123,13 +123,13 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -142,13 +142,13 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -161,13 +161,13 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
+<img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
@@ -180,20 +180,20 @@ Email: tleerapun@gmail.com`
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
 <br>
-<img class="alignnone  wp-image-636" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
+<img class="alignnone  wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
-<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong>
+<strong>อ่านความรู้โรคกระดูกและข้อเพิ่มเติมได้ที่</strong> <br/>
 
-1. www.doctorkeng.com
-2. https://doctorkeng.com.blogspot.com
-3. https://www.facebook.com/backpainnonop
+1. www.doctorkeng.com <br/>
+2. https://doctorkeng.com.blogspot.com <br/>
+3. https://www.facebook.com/backpainnonop <br/>
 Email: tleerapun@gmail.com`
     },
     {
         title: 'CV หมอเก่ง',
         shot: 'ผศ.นพ.ธนินนิตย์ ลีรพันธ์',
         path: '157-cv-mor-keng',
-        detail: `<img class="aligncenter wp-image-47 size-medium" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/01/ผศ.นพ.ธนินนิตย์-241x300.jpg" alt="" width="241" height="300" />
+        detail: `<img class="aligncenter wp-image-47 size-medium youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/01/ผศ.นพ.ธนินนิตย์-241x300.jpg" alt="" width="241" height="300" />
 <p style="text-align: center;"><strong>ผศ.นพ.ธนินนิตย์ ลีรพันธ์</strong></p>
 <strong>การศึกษา</strong>
 <ul>

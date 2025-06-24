@@ -11,12 +11,12 @@ export const TherapySubData:SubContent[]=[
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span>
-Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> <a href="https://doctorkeng.com/www.doctorkeng.com" target="_blank" rel="noopener noreferrer">www.doctorkeng.com</a>
-<strong>YouTube:</strong> <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer">www.youtube.com/user/taninniitleerapun/videos</a>
-<strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a>
-<strong>Blockdit:</strong> <a href="https://doctorkeng.com/www.blockdit.com/doctorkeng" target="_blank" rel="noopener noreferrer">www.blockdit.com/doctorkeng</a>`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span><br/>
+Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> <a href="https://doctorkeng.com/www.doctorkeng.com" target="_blank" rel="noopener noreferrer">www.doctorkeng.com</a><br/>
+<strong>YouTube:</strong> <a href="https://www.youtube.com/user/taninniitleerapun/videos" target="_blank" rel="noopener noreferrer" class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos</a><br/>
+<strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br/>
+<strong>Blockdit:</strong> <a href="https://doctorkeng.com/www.blockdit.com/doctorkeng" target="_blank" rel="noopener noreferrer">www.blockdit.com/doctorkeng</a><br/>`,
     },
     {
         title: 'กายภาพบำบัด ตอน การเพิ่มมุมการเคลื่อนไหวข้อเข่า',
@@ -28,12 +28,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos<span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`,
     },
     {
         title: 'กายภาพบำบัด ตอน.การเหยียดข้อเข่า',
@@ -43,12 +43,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos<span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`,
     },
     {
         title: 'กายภาพบำบัด ตอน บริหารเพื่อมุมการเคลื่อนไหว ตอน 2',
@@ -59,12 +59,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos<span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`,
     },
     {
         title: 'กายภาพบำบัด ตอน.ผู้ป่วยหลังผ่าตัดเปลี่ยนข้อเข่าเทียมวันแรก',
@@ -76,12 +76,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos<span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`,
     },
     {
         title: 'กายภาพบำบัด ตอน การเพิ่มมุมการเคลื่อนไหวข้อเข่า',
@@ -93,12 +93,12 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos<span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`,
     },
     {
         title: 'กายภาพบำบัด ตอน บริหารเพื่อมุมการเคลื่อนไหว ตอน 2',
@@ -109,11 +109,11 @@ Line:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener n
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 2px;">www.youtube.com/user/taninniitleerapun/videos<span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`,
     },
 ]

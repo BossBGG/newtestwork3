@@ -25,19 +25,19 @@ export const UltrasoundSubData: SubContent[] = [
 <br>
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br>`
     },
     {
         title: 'การรักษาแบบ PRP (Platelet-Rich Plasma) คืออะไร?',
-        shot: 'กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น',
+        shot: 'กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น',
         path: 'prp',
         detail: `<!-- wp:image {"align":"center","id":469} -->
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/08/PRP_Taninnit.com_cover.jpg" alt="" class="w-100"/></figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/08/PRP_Taninnit.com_cover.jpg" alt="" class="w-100 " /></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -49,11 +49,11 @@ export const UltrasoundSubData: SubContent[] = [
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #000080;">PRP หรือ Platelet-Rich Plasma</span>&nbsp;</strong>คือ เทคโนโลยีทางการแพทย์ ด้วยการนำเอาเลือดของคนไข้เองมารักษา การรักษาแบบ PRP นี้ มีใช้อยู่แล้วในทางทันตกรรมและศัลยกรรมกระดูก ซึ่งเลือดจะประกอบด้วยเม็ดเลือดแดง เกล็ดเลือด และส่วนของเหลว ที่เรียกกันว่า<span style="color: #000080;"> <strong>“พลาสมา”</strong></span> ส่วนสำคัญของกระบวนการรักษา โดย PRP นั้น คือเกล็ดเลือด เพราะในเกล็ดเลือดมีสารที่เรียกว่า Growth Factor ซึ่งเป็นสาร กระตุ้นการเติบโตและซ่อมแซมส่วนที่สึกหรอ</span><br></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #000080;">PRP หรือ Platelet-Rich Plasma</span>&nbsp;</strong>คือ เทคโนโลยีทางการแพทย์ ด้วยการนำเอาเลือดของคนไข้เองมารักษา การรักษาแบบ PRP นี้ มีใช้อยู่แล้วในทางทันตกรรมและศัลยกรรมกระดูก ซึ่งเลือดจะประกอบด้วยเม็ดเลือดแดง เกล็ดเลือด และส่วนของเหลว ที่เรียกกันว่า<span style="color: #000080;"> <strong>“พลาสมา”</strong></span> ส่วนสำคัญของกระบวนการรักษา โดย PRP นั้น คือเกล็ดเลือด เพราะในเกล็ดเลือดมีสารที่เรียกว่า Growth Factor ซึ่งเป็นสาร กระตุ้นการเติบโตและซ่อมแซมส่วนที่สึกหรอ</span><br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><span style="font-family: arial, helvetica, sans-serif;">กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -125,7 +125,7 @@ export const UltrasoundSubData: SubContent[] = [
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><span style="font-family: arial, helvetica, sans-serif; color: #000080;"><strong>คำแนะนำสำหรับผู้ป่วยที่ได้รับการฉีดพลาสมาที่มีเกล็ดเลือดสูง</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: #000080;"><strong>คำแนะนำสำหรับผู้ป่วยที่ได้รับการฉีดพลาสมาที่มีเกล็ดเลือดสูง</strong></span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
@@ -159,12 +159,12 @@ export const UltrasoundSubData: SubContent[] = [
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><span style="font-family: arial, helvetica, sans-serif;">หลังการฉีดแล้วจำเป็นต้องสังเกตดูอาการของผู้ป่วยเป็นเวลา 15 นาที ก่อนให้กลับบ้านได้ หากมีอาการแดงช้ำบริเวณรอยเข็มฉีด ให้ประคบเย็นไว้ประมาณ 6-8 ชั่วโมง โปรดแจ้งให้แพทย์ทราบหากมีอาการดังต่อไปนี้</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">หลังการฉีดแล้วจำเป็นต้องสังเกตดูอาการของผู้ป่วยเป็นเวลา 15 นาที ก่อนให้กลับบ้านได้ หากมีอาการแดงช้ำบริเวณรอยเข็มฉีด ให้ประคบเย็นไว้ประมาณ 6-8 ชั่วโมง โปรดแจ้งให้แพทย์ทราบหากมีอาการดังต่อไปนี้</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><span style="font-family: arial, helvetica, sans-serif;">อาการเลือดออก รอยช้ำใหม่ หรือบวมผิดปกติในบริเวณที่ฉีด</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">อาการเลือดออก รอยช้ำใหม่ หรือบวมผิดปกติในบริเวณที่ฉีด</span></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -210,7 +210,7 @@ export const UltrasoundSubData: SubContent[] = [
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":8808} -->
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_002ย.jpg" alt="" class="w-100"/></figure><figcaption class="wp-element-caption">กล้ามเนื้อหัวไหล่</figcaption></figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_002ย.jpg" alt="" class="w-100"/></figure><figcaption class="wp-element-caption">กล้ามเนื้อหัวไหล่</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -218,7 +218,7 @@ export const UltrasoundSubData: SubContent[] = [
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":8810} -->
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_003.jpg" alt="" class="w-100"/></figure><figcaption class="wp-element-caption">เปรียบเทียบภาพ Ultrasound ของกล้ามเนื้อ เส้นเอ็นของไหล่ที่ตำแหน่งกระดูกข้างหัวไหล่</figcaption></figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_003.jpg" alt="" class="w-100"/></figure><figcaption class="wp-element-caption">เปรียบเทียบภาพ Ultrasound ของกล้ามเนื้อ เส้นเอ็นของไหล่ที่ตำแหน่งกระดูกข้างหัวไหล่</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -226,7 +226,7 @@ export const UltrasoundSubData: SubContent[] = [
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":8811} -->
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_004.jpg" alt="" class="w-100"/></figure><figcaption class="wp-element-caption">จากภาพเมื่อนำไม้บรรทัดมาวัดช่วงประมาณ 3 นิ้วมือวัด จะประมาณ 5-6 เซนติเมตร</figcaption></figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_004.jpg" alt="" class="w-100"/></figure><figcaption class="wp-element-caption">จากภาพเมื่อนำไม้บรรทัดมาวัดช่วงประมาณ 3 นิ้วมือวัด จะประมาณ 5-6 เซนติเมตร</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator {"opacity":"css"} -->

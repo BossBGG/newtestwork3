@@ -42,7 +42,7 @@ export const HandSubData:SubContent[]=[
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"small"} -->
 
-<p class="has-black-color has-text-color has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:https://www.youtube.com/results?search_query=taninnit+leerapun</span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:https://www.blockdit.com/doctorkeng</span></p>
+<p class="has-black-color has-text-color has-small-font-size"><span style="font-size: 14pt;">Line OA:&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br><span style="font-size: 14pt;">Website:&nbsp;www.doctorkeng.com</span><br><span style="font-size: 14pt;">YouTube:<span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br><span style="font-size: 14pt;">Facebook:&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 14pt;">Blockdit:<span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span></p>
 <!-- /wp:paragraph -->`,
     },
     {
@@ -85,12 +85,12 @@ export const HandSubData:SubContent[]=[
 การรักษาด้วยวิธีการเหล่านี้จะได้ผลดีในกรณีที่เส้นประสาทไม่ถูกกดทับมากนัก ถ้าอาการยังไม่ดีขึ้นก็อาจจำเป็นต้องรักษาด้วยการผ่าตัด โดยตัดเอาส่วนของพังผืด เส้นเอ็นในส่วนที่กดทับเส้นประสาทออก หลังผ่าตัดอาการก็จะดีขึ้น อาการชาลดลงแต่อาจจะยังคงอยู่ในช่วงระยะเวลาหนึ่ง อาการปวดลดลง
 
 <hr />
-<p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong>&nbsp;<a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website:&nbsp;</strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong>&nbsp;<a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong>&nbsp;<a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>:&nbsp;<a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span></p>`,
+<p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br/>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong>&nbsp;<a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Website:&nbsp;</strong>www.doctorkeng.com</span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong>&nbsp;<a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong>&nbsp;<a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>:&nbsp;<a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span></p><br/>`,
     },
 
 ]

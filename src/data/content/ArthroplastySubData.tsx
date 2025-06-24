@@ -20,12 +20,12 @@ export const ArthroplastySubData:SubContent[]=[
 
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`,
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br/>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br/>`,
     },
     {
         title: 'ข้อเข่าเสื่อม รักษาด้วยการผ่าตัดเปลี่ยนข้อเข่าเทียม ทำกันอย่างไร',
@@ -101,17 +101,17 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":10304,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5f9ac5408150ca87239f3-576x1024.jpeg" alt="" class="wp-image-10304"/><figcaption class="wp-element-caption">ขาโก่งจากข้อเข่าเสื่อม</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5f9ac5408150ca87239f3-576x1024.jpeg" alt="" class="wp-image-10304"/><figcaption class="wp-element-caption style="margin-top: 18px"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption style="margin-top: 18px">ขาโก่งจากข้อเข่าเสื่อม</figcaption>
 <!-- wp:paragraph -->
 <p><strong>สาเหตุที่ผู้ป่วยข้อเข่าเสื่อม</strong> ส่วนใหญ่ปล่อยให้เกิดอาการจนเกิดการผิดรูปของข้อเข่าเพราะความกลัวต่อการผ่าตัดรักษา กลัวว่าหลังการผ่าตัดแล้วจะเดินไม่ได้ บางครั้งได้ยินมาจากเพื่อนบ้านว่าอย่าไปผ่าตัดแก้ไขเลยเดี๋ยวผ่าเสร็จกลับมาก็เดินไม่ได้</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":10305,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5f9ca5488740cc4fd5f11-467x1024.jpeg" alt="" class="wp-image-10305"/><figcaption class="wp-element-caption">ภาพเอกซเรย์แสดงเข่าโก่ง</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5f9ca5488740cc4fd5f11-467x1024.jpeg" alt="" class="wp-image-10305"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">ภาพเอกซเรย์แสดงเข่าโก่ง</figcaption>
 <!-- wp:paragraph -->
 <p>ส่วนใหญ่โรคข้อเข่าเสื่อม ถ้านั่งอยู่ไม่ได้เดินลงน้ำหนักผู้ป่วยมักจะไม่มีความเจ็บปวด อาการปวดส่วนใหญ่มักจะเกิดในช่วงขณะที่เดิน ถ้าขาโก่งมากๆจะทำให้ผู้ป่วยเดินลำบาก เดินเซมีโอกาสหกล้มได้บ่อยขึ้นเพราะสมดุลการทรงตัวของร่างกายเสียไป ทำให้มีโอกาสเกิดกระดูกสะโพกหักจากการล้มเพิ่มมากขึ้น</p>
 <!-- /wp:paragraph -->
@@ -125,9 +125,9 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":10306,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5fa0fdbb1060c9114bc9a-1024x1021.jpeg" alt="" class="wp-image-10306"/><figcaption class="wp-element-caption">ข้อเข่าเสื่อมมาก</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5fa0fdbb1060c9114bc9a-1024x1021.jpeg" alt="" class="wp-image-10306"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">ข้อเข่าเสื่อมมาก</figcaption>
 <!-- wp:paragraph -->
 <p>ในบางครั้งทำให้เกิดการกดทับเส้นประสาทร่วมด้วยจึงมีอาการปวดร้าวลงสะโพก และขา เมื่อมีอาการปวดเข่า และขาโก่งผิดรูปมากแล้ว การผ่าตัดเปลี่ยนข้อเข่าเทียมนับว่าเป็นทางออกที่ดีที่สุดเพื่อแก้ไขความผิดปกติ</p>
 <!-- /wp:paragraph -->
@@ -145,9 +145,9 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"center","id":10308,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5fa4f35a0af0ca7d20a24-576x1024.jpeg" alt="" class="wp-image-10308"/><figcaption class="wp-element-caption">โมเดลข้อเข่าเทียม</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5fa4f35a0af0ca7d20a24-576x1024.jpeg" alt="" class="wp-image-10308"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">โมเดลข้อเข่าเทียม</figcaption>
 <!-- wp:paragraph -->
 <p>เนื่องจากการพัฒนาทั้งในเรื่องของการดูแลเรื่องอาการปวดหลังผ่าตัดโดยแพทย์วิสัญญีที่จะช่วยควบคุมอาการปวดหลังผ่าตัดโดยการวางสายเพื่อให้ยาชาและยาแก้ปวดไว้ที่ตำแหน่งช่องว่างในโพรงกระดูกสันหลัง หรือในตำแหน่งของเส้นประสาทที่บริเวณต้นขา เพื่อให้มีการปลดปล่อยยาชาและยาแก้ปวดอย่างสม่ำเสมอ เพื่อควบคุมอาการปวดหลังผ่าตัด</p>
 <!-- /wp:paragraph -->
@@ -177,9 +177,9 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":10309,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5fb6cd216c4128f601d77-637x1024.jpeg" alt="" class="wp-image-10309"/><figcaption class="wp-element-caption"><strong>ข้อเข่าเสื่อมมาก</strong></figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5fb6cd216c4128f601d77-637x1024.jpeg" alt="" class="wp-image-10309"/><figcaption class="wp-element-caption"><strong></strong></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption"><strong>ข้อเข่าเสื่อมมาก</strong></figcaption>
 <!-- wp:paragraph -->
 <p>แต่หลังจากการได้คุยและได้รับคำแนะนำจากแพทย์ที่จะทำการผ่าตัด พร้อมกับเข้าไปศึกษาถึงวิธีการรักษา การปฏิบัติตัวและตัวอย่างประวัติการรักษาจากผู้ป่วยที่เคยรับการผ่าตัดรักษาเปลี่ยนข้อเข่าเทียมแล้ว ได้คลายความกังวลลงมาบ้าง</p>
 <!-- /wp:paragraph -->
@@ -205,17 +205,17 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":10310,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb72cdc2e69d20ca3a384b2-1024x576.jpeg" alt="" class="wp-image-10310"/><figcaption class="wp-element-caption">เข่าของผู้ป่วยหลังการผ่าตัด</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb72cdc2e69d20ca3a384b2-1024x576.jpeg" alt="" class="wp-image-10310"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">เข่าของผู้ป่วยหลังการผ่าตัด</figcaption>
 <!-- wp:image {"align":"center","id":10311,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb72cde2e69d20ca3a385f5-1024x576.jpeg" alt="" class="wp-image-10311"/><figcaption class="wp-element-caption">เข่าของผู้ป่วยหลังการผ่าตัด</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb72cde2e69d20ca3a385f5-1024x576.jpeg" alt="" class="wp-image-10311"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">เข่าของผู้ป่วยหลังการผ่าตัด</figcaption>
 <!-- wp:image {"align":"center","id":10312,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5fc135408150ca873a79f-565x1024.jpeg" alt="" class="wp-image-10312"/><figcaption class="wp-element-caption">ภาพเอกซเรย์ข้อเข่าเทียม</figcaption></figure>
+<figure class="wp-block-image aligncenter size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5eb5fc135408150ca873a79f-565x1024.jpeg" alt="" class="wp-image-10312"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">ภาพเอกซเรย์ข้อเข่าเทียม</figcaption>
 <!-- wp:paragraph -->
 <p>" การผ่าตัดเปลี่ยนข้อเข่าเทียม ไม่น่ากลัวอย่างที่คิด ชีวิตมีความสุขอีกครั้งหลังการผ่าตัดครับ "</p>
 <!-- /wp:paragraph -->
@@ -229,7 +229,7 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size"><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p>
+<p class="has-small-font-size"><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>
 <!-- /wp:paragraph -->`,
     },
     {
@@ -257,9 +257,9 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 <!-- /wp:image -->
 
 <!-- wp:image {"id":10193,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/10/5ec4fb7663137b0c6af6e72f-775x1024.jpeg" alt="" class="wp-image-10193"/><figcaption class="wp-element-caption">เข่าโก่งมาก</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/10/5ec4fb7663137b0c6af6e72f-775x1024.jpeg" alt="" class="wp-image-10193"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">เข่าโก่งมาก</figcaption>
 <!-- wp:paragraph -->
 <p>ภาพเอกซเรย์พบกระดูกชนกัน ไม่มีกระดูกอ่อน</p>
 <!-- /wp:paragraph -->
@@ -287,9 +287,9 @@ https://youtube.com/playlist?list=PLRmpWdWX6cKqJ-OlvYWelerQkoWnoLVad
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":10197,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ec4ffb366169f04e5205a5c-768x1024.jpeg" alt="" class="wp-image-10197"/><figcaption class="wp-element-caption">ภาพเอกซเรย์หลังการผ่าตัดเปลี่ยนข้อเข่าเทียม</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ec4ffb366169f04e5205a5c-768x1024.jpeg" alt="" class="wp-image-10197"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">ภาพเอกซเรย์หลังการผ่าตัดเปลี่ยนข้อเข่าเทียม</figcaption>
 <!-- wp:image {"id":10198,"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ec4fdde0872aa055020da5f-894x1024.jpeg" alt="" class="wp-image-10198"/></figure>
 <!-- /wp:image -->
@@ -329,13 +329,13 @@ https://youtube.com/playlist?list=PLRmpWdWX6cKqJ-OlvYWelerQkoWnoLVad
 <!-- /wp:list -->
 
 <!-- wp:image {"id":10199,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ec4fe6d51398a0cb1b5c91d-1024x766.jpeg" alt="" class="wp-image-10199"/><figcaption class="wp-element-caption">ฝึกกล้ามเนื้อหน้าขา (รูปภาพใช้เฉพาะ www.doctorkeng.com เท่านั้น)</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ec4fe6d51398a0cb1b5c91d-1024x766.jpeg" alt="" class="wp-image-10199"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">ฝึกกล้ามเนื้อหน้าขา (รูปภาพใช้เฉพาะ www.doctorkeng.com เท่านั้น)</figcaption>
 <!-- wp:image {"id":10200,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ec4fe87fa1638056b8421cd-1024x768.jpeg" alt="" class="wp-image-10200"/><figcaption class="wp-element-caption">ฝึกกล้ามเนื้อหน้าขา ใช้ถุงทรายถ่วง (รูปภาพใช้เฉพาะ www.doctorkeng.com เท่านั้น)</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ec4fe87fa1638056b8421cd-1024x768.jpeg" alt="" class="wp-image-10200"/><figcaption class="wp-element-caption"></figcaption></figure>
 <!-- /wp:image -->
-
+<figcaption class="wp-element-caption">ฝึกกล้ามเนื้อหน้าขา ใช้ถุงทรายถ่วง (รูปภาพใช้เฉพาะ www.doctorkeng.com เท่านั้น)</figcaption>
 <!-- wp:paragraph -->
 <p>ส่วนใหญ่จะใช้เวลาประมาณ 3 เดือนที่จะสามารถเดินได้ปกติโดยไม่ใช้ไม้เท้า อย่างไรก็ตามขึ้นกับความสามารถในการทำกายภาพบำบัด ฝึกความแข็งแรงของกล้ามเนื้อของผู้ป่วยด้วย</p>
 <!-- /wp:paragraph -->
@@ -370,12 +370,12 @@ https://youtube.com/playlist?list=PLRmpWdWX6cKqJ-OlvYWelerQkoWnoLVad
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">www.youtube.com/user/taninniitleerapun/videos</span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`,
     },
     {
         title: 'กายภาพบำบัด ตอน.ลดอาการบวมสำหรับผู้ป่วยเปลี่ยนข้อเข่าเทียม',
@@ -387,12 +387,12 @@ https://youtube.com/playlist?list=PLRmpWdWX6cKqJ-OlvYWelerQkoWnoLVad
 
 <hr />
 
-<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong>
-<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng
-<strong>Website:</strong> www.doctorkeng.com
-<strong>YouTube:</strong> www.youtube.com/user/taninniitleerapun/videos
-<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ
-<strong>Blockdit:</strong> www.blockdit.com/doctorkeng`,
+<strong><span style="color: #000080;">ช่องทางการติดต่อ</span></strong><br/>
+<strong>Line:</strong> https://lin.ee/swOi91Q <strong>หรือ Line ID Search</strong> @Doctorkeng<br/>
+<strong>Website:</strong> www.doctorkeng.com<br/>
+<strong>YouTube:</strong><span class="contact-line" style="padding-left: 2px;"> www.youtube.com/user/taninniitleerapun/videos</span><br/>
+<strong>Facebook:</strong> หมอเก่งไขปัญหาปวดกระดูกและข้อ<br/>
+<strong>Blockdit:</strong> www.blockdit.com/doctorkeng<br/>`,
     },
     {
         title: 'สารพันคำถามเกี่ยวกับการผ่าตัดเปลี่ยนข้อเข่าเทียมเพื่อการรักษาข้อเข่าเสื่อม',
@@ -453,7 +453,7 @@ https://youtube.com/playlist?list=PLRmpWdWX6cKqJ-OlvYWelerQkoWnoLVad
 <!-- /wp:separator -->
 
 <!-- wp:paragraph -->
-<p><span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br></span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong>&nbsp;<a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br><span style="font-size: 10pt; color: #000000;"><strong>Website:&nbsp;</strong>www.doctorkeng.com</span><br><span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong>&nbsp;<a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br><span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong>&nbsp;<a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>:&nbsp;<a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span></p>
+<p><span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br></span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong>&nbsp;<a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br><span style="font-size: 10pt; color: #000000;"><strong>Website:&nbsp;</strong>www.doctorkeng.com</span><br><span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong>&nbsp;<a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br><span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong>&nbsp;<a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br><span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>:&nbsp;<a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener" >https://www.blockdit.com/doctorkeng</a></span></p>
 <!-- /wp:paragraph -->`,
     },
 ]

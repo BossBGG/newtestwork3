@@ -52,16 +52,16 @@ Science 325, 201 (2009);</blockquote>`
 
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br>`
     },
     {
         title: 'การรักษาแบบ PRP (Platelet-Rich Plasma) คืออะไร?',
-        shot: 'กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น',
+        shot: 'กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น',
         path: 'prp',
         detail: `<!-- wp:image {"align":"center","id":469} -->
 <figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/08/PRP_Taninnit.com_cover.jpg" alt="" class="w-100"/></figure>
@@ -76,11 +76,11 @@ Science 325, 201 (2009);</blockquote>`
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #000080;">PRP หรือ Platelet-Rich Plasma</span>&nbsp;</strong>คือ เทคโนโลยีทางการแพทย์ ด้วยการนำเอาเลือดของคนไข้เองมารักษา การรักษาแบบ PRP นี้ มีใช้อยู่แล้วในทางทันตกรรมและศัลยกรรมกระดูก ซึ่งเลือดจะประกอบด้วยเม็ดเลือดแดง เกล็ดเลือด และส่วนของเหลว ที่เรียกกันว่า<span style="color: #000080;"> <strong>“พลาสมา”</strong></span> ส่วนสำคัญของกระบวนการรักษา โดย PRP นั้น คือเกล็ดเลือด เพราะในเกล็ดเลือดมีสารที่เรียกว่า Growth Factor ซึ่งเป็นสาร กระตุ้นการเติบโตและซ่อมแซมส่วนที่สึกหรอ</span><br></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="color: #000080;">PRP หรือ Platelet-Rich Plasma</span>&nbsp;</strong>คือ เทคโนโลยีทางการแพทย์ ด้วยการนำเอาเลือดของคนไข้เองมารักษา การรักษาแบบ PRP นี้ มีใช้อยู่แล้วในทางทันตกรรมและศัลยกรรมกระดูก ซึ่งเลือดจะประกอบด้วยเม็ดเลือดแดง เกล็ดเลือด และส่วนของเหลว ที่เรียกกันว่า<span style="color: #000080;"> <strong>“พลาสมา”</strong></span> ส่วนสำคัญของกระบวนการรักษา โดย PRP นั้น คือเกล็ดเลือด เพราะในเกล็ดเลือดมีสารที่เรียกว่า Growth Factor ซึ่งเป็นสาร กระตุ้นการเติบโตและซ่อมแซมส่วนที่สึกหรอ</span><br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><span style="font-family: arial, helvetica, sans-serif;">กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
@@ -152,7 +152,7 @@ Science 325, 201 (2009);</blockquote>`
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><span style="font-family: arial, helvetica, sans-serif; color: #000080;"><strong>คำแนะนำสำหรับผู้ป่วยที่ได้รับการฉีดพลาสมาที่มีเกล็ดเลือดสูง</strong></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; color: #000080;"><strong>คำแนะนำสำหรับผู้ป่วยที่ได้รับการฉีดพลาสมาที่มีเกล็ดเลือดสูง</strong></span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
@@ -186,12 +186,12 @@ Science 325, 201 (2009);</blockquote>`
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><span style="font-family: arial, helvetica, sans-serif;">หลังการฉีดแล้วจำเป็นต้องสังเกตดูอาการของผู้ป่วยเป็นเวลา 15 นาที ก่อนให้กลับบ้านได้ หากมีอาการแดงช้ำบริเวณรอยเข็มฉีด ให้ประคบเย็นไว้ประมาณ 6-8 ชั่วโมง โปรดแจ้งให้แพทย์ทราบหากมีอาการดังต่อไปนี้</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">หลังการฉีดแล้วจำเป็นต้องสังเกตดูอาการของผู้ป่วยเป็นเวลา 15 นาที ก่อนให้กลับบ้านได้ หากมีอาการแดงช้ำบริเวณรอยเข็มฉีด ให้ประคบเย็นไว้ประมาณ 6-8 ชั่วโมง โปรดแจ้งให้แพทย์ทราบหากมีอาการดังต่อไปนี้</span></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><span style="font-family: arial, helvetica, sans-serif;">อาการเลือดออก รอยช้ำใหม่ หรือบวมผิดปกติในบริเวณที่ฉีด</span></li>
+<li><span style="font-family: arial, helvetica, sans-serif;">อาการเลือดออก รอยช้ำใหม่ หรือบวมผิดปกติในบริเวณที่ฉีด</span></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -313,12 +313,12 @@ Science 325, 201 (2009);</blockquote>`
 <ul style="list-style-type: square;">
  \t<li style="list-style-type: none;">
 <ul style="list-style-type: square;">
- \t<li><span style="font-size: 8pt;">Report of the WHO-China Joint Missionon Coronavirus Disease 2019 (COVID-19), February 2020</span></li>
+ \t<li><span style="font-size: 8pt;">Report of the WHO-China Joint Missionon Coronavirus Disease 2019 (COVID-19), February 2020</span></li>
  \t<li><span style="font-size: 8pt;">โคโรนา : มารู้จักไวรัสที่ทำให้เกิดโรคปอดอักเสบระบาดในจีน. สืบค้น 1 มีนาคม 2563, จาก <a href="https://www.bbc.com/thai/thailand-51089461" target="_blank" rel="noopener noreferrer">https://www.bbc.com/thai/thailand-51089461</a></span></li>
  \t<li><span style="font-size: 8pt;">นพ.ธีระ วรธนารัตน์. (2563). โคโรนาไวรัส 2019 (COVID-19) ตอนนี้เรารู้อะไรบ้าง?. สืบค้น 3 มีนาคม 2563, จาก <a href="https://www.hfocus.org/print/18552" target="_blank" rel="noopener noreferrer">https://www.hfocus.org/print/18552</a></span></li>
- \t<li><span style="font-size: 8pt;">Novel Coronavirus (COVID-19) advice for the public. สืบค้น 1 มีนาคม 2563, จาก <a href="https://www.who.int/thailand/emergencies/novel-coronavirus-2019/advice-for-public" target="_blank" rel="noopener noreferrer">https://www.who.int/thailand/emergencies/novel-coronavirus-2019/advice-for-public</a></span></li>
- \t<li><span style="font-size: 8pt;">กรมควบคุมโรค กระทรวงสาธารณสุข. (2563). โรคติดเชื้อไวรัสโคโรนา 2019 (COVID-19). สืบค้น 8 มีนาคม 2563, จาก <a href="https://ddc.moph.go.th/viralpneumonia/info.php" target="_blank" rel="noopener noreferrer">https://ddc.moph.go.th/viralpneumonia/info.php</a></span></li>
- \t<li><span style="font-size: 8pt;">6 ท้อเท็จจริง โรคอุบัติใหม่ ไวรัสโคโรนา (2019-nCoV). (2563). ห้องปฏิบัติการไวรัสวิทยาและเซลล์เทคโนโลยี ศูนย์พันธุวิศวกรรมและเทคโนโลยีชีวภาพแห่งชาติ. สืบค้น 29 กุมภาพันธ์ 2563, จาก <a href="https://oer.learn.in.th/search_detail/result/166770" target="_blank" rel="noopener noreferrer">https://oer.learn.in.th/search_detail/result/166770</a></span></li>
+ \t<li><span style="font-size: 8pt;">Novel Coronavirus (COVID-19) advice for the public. สืบค้น 1 มีนาคม 2563, จาก <a href="https://www.who.int/thailand/emergencies/novel-coronavirus-2019/advice-for-public" target="_blank" rel="noopener noreferrer" class="contact-line" style="padding-left: 1px;">https://www.who.int/thailand/emergencies/novel-coronavirus-2019/advice-for-public</a></span></li>
+ \t<li><span style="font-size: 8pt;">กรมควบคุมโรค กระทรวงสาธารณสุข. (2563). โรคติดเชื้อไวรัสโคโรนา 2019 (COVID-19). สืบค้น 8 มีนาคม 2563, จาก <a href="https://ddc.moph.go.th/viralpneumonia/info.php" target="_blank" rel="noopener noreferrer ">https://ddc.moph.go.th/viralpneumonia/info.php</a></span></li>
+ \t<li><span style="font-size: 8pt;">6 ท้อเท็จจริง โรคอุบัติใหม่ ไวรัสโคโรนา (2019-nCoV). (2563). ห้องปฏิบัติการไวรัสวิทยาและเซลล์เทคโนโลยี ศูนย์พันธุวิศวกรรมและเทคโนโลยีชีวภาพแห่งชาติ. สืบค้น 29 กุมภาพันธ์ 2563, จาก <a href="https://oer.learn.in.th/search_detail/result/166770" target="_blank" rel="noopener noreferrer " class="contact-line" ">https://oer.learn.in.th/search_detail/result/166770</a></span></li>
  \t<li><span style="font-size: 8pt;">สำนักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ</span></li>
 </ul>
 </li>
@@ -338,12 +338,12 @@ Science 325, 201 (2009);</blockquote>`
 
 <hr />
 
-<span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong><span style="color: #000080;">ท่านสามารถติดตามสารพันปัญหาโรคกระดูกและข้อ ได้ที่</span>
-</strong><span style="font-size: 10pt;"><strong>Line OA</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q </a></span></span><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">หรือ Line ID: @doctorkeng</span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>เว็บไซต์</strong> www.doctorkeng.com</span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>YouTube</strong> <a href="https://www.youtube.com/user/taninniitleerapun" target="_blank" rel="noopener noreferrer">https://www.youtube.com/user/taninniitleerapun</a></span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Facebook</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหากระดูกและข้อ</a></span>
-<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Blockdit</strong> <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener noreferrer">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;"><strong><span style="color: #000080;">ท่านสามารถติดตามสารพันปัญหาโรคกระดูกและข้อ ได้ที่</span><br/>
+</strong><span style="font-size: 10pt;"><strong>Line OA</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q </a></span></span><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">หรือ Line ID: @doctorkeng</span><br/>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>เว็บไซต์</strong> www.doctorkeng.com</span><br/>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>YouTube</strong> <a href="https://www.youtube.com/user/taninniitleerapun" target="_blank" rel="noopener noreferrer">https://www.youtube.com/user/taninniitleerapun</a></span><br/>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Facebook</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหากระดูกและข้อ</a></span><br/>
+<span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><strong>Blockdit</strong> <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener noreferrer">https://www.blockdit.com/doctorkeng</a></span><br/>`
     },
     {
         title: 'ประคบเย็น หรือ ประคบร้อนดี?',
@@ -389,9 +389,9 @@ Heat and cold treatment
 
 <hr />
 
-<strong>References</strong>
-https://www.webmd.com/pain-management/when-use-heat-ice#1
-https://www.medicalnewstoday.com/articles/29108`
+<strong>References</strong> <br />
+https://www.webmd.com/pain-management/when-use-heat-ice#1<br />
+<span class="contact-line" >https://www.medicalnewstoday.com/articles/29108</span><br />`
     },
     {
         title: 'ทำไมภาวะน้ำหนักเกินหรือโรคอ้วน จึงทำให้มีผลเสียกับร่างกาย',
@@ -476,7 +476,7 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 <div class="jsx-3797055019 d-inline-flex mb-1">
 <div class="jsx-3797055019 paragraph-border-radius py-2 bg-light-gray px-2">
 <p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap">เราจะนึกถึงภาวะมะเร็งแพร่กระจายมาที่กระดูกโดยเฉพาะผู้ใหญ่ที่มีอายุมากกว่า 40 ปีขึ้นไป และมีรอยโรคที่บริเวณกระดูก ที่มักมีการแพร่กระจ่ายของมะเร็งมาได้บ่อย ได้แก่ กระดูกสันหลัง ซึ่งผู้ป่วยมักจะมีอาการปวดหลังอย่างรุนแรง และส่วนของกระดูกสะโพก</p>
-<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1470" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/การตรวจ-bone-scan-เพื่อดูการแพร่กระจายมาที่กระดูก.jpg" alt="" width="700" height="368" /></figure>
+<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1470 " src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/การตรวจ-bone-scan-เพื่อดูการแพร่กระจายมาที่กระดูก.jpg" alt="" width="700" height="368" /></figure>
 <p style="text-align: center;"><span style="font-size: 10pt; color: #808080;"><em>การตรวจ bone scan เพื่อดูการแพร่กระจายมาที่กระดูก</em></span></p>
 
 </div>
@@ -493,10 +493,10 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 
 </div>
 </div>
-<div class="jsx-3797055019 d-inline-flex mb-1">
+<div class="jsx-3797055019 mb-1">
 <div class="jsx-3797055019 paragraph-border-radius py-2 bg-light-gray px-2">
 <p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap">ซึ่งถ้ามีแนวโน้มที่กระดูกจะหักก็อาจจะพิจารณาให้การรักษาด้วยการผ่าตัดเพื่อป้องกันไม่ให้กระดูกหัก หรือถ้ากระดูกหักไปแล้วก็อาจจะพิจารณาให้การรักษาผ่าตัดตามความเหมาะสมของแต่ละตำแหน่งที่เกิดการหักและสภาพทั่วไปของผู้ป่วย</p>
-<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1471" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/การผ่าตัดกระดูก.jpg" alt="" width="700" height="368" /></figure>
+<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-1471 " src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/06/การผ่าตัดกระดูก.jpg" alt="" width="700" height="368" /></figure>
 <p style="text-align: center;"><span style="color: #808080;"><em><span style="font-size: 10pt;">การผ่าตัดกระดูก</span></em></span></p>
 
 </div>
@@ -512,7 +512,7 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 
 </div>
 </div>
-<div class="jsx-3797055019 d-inline-flex mb-1">
+<div class="jsx-3797055019  mb-1">
 <div class="jsx-3797055019 paragraph-border-radius py-2 bg-light-gray px-2">
 <p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #000080;"><strong>การรักษาขึ้นอยู่กับชนิดของมะเร็ง ตำแหน่งกระดูกที่หัก และระยะของการแพร่กระจาย ได้แก่</strong></span></p>
 
@@ -553,7 +553,7 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 <p style="text-align: center;">โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</p>
 ภาวะอักเสบ (inflammation) เป็นการตอบสนองอย่างหนึ่งของร่างกายต่อการได้รับการบาดเจ็บต่อเนื่อเยื่อในอวัยวะนั้นๆ เพื่อกำจัดสิ่งที่มากระตุ้นหรือทำลายเนื้อเยื่อ ด้วยการหลั่งสารเคมีต่างๆออกมา ซึ่งทำให้เกิดอาการปวด บวม แดงร้อน ในบริเวณที่เกิดการอักเสบ
 &nbsp;
-<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%9B%E0%B8%A7%E0%B8%94%E0%B8%84%E0%B8%AD-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%9A-300x169.jpg" alt="" width="300" height="169"></figure></strong><br>การอักเสบตามข้อต่างๆ
+<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%9B%E0%B8%A7%E0%B8%94%E0%B8%84%E0%B8%AD-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%9A-300x169.jpg" alt="" width="300" height="169"></figure></strong><div style="text-align: center;">การอักเสบตามข้อต่างๆ</div><br>
 &nbsp;
 <strong>สาเหตุของภาวะอักเสบ</strong>
 <ul>
@@ -575,15 +575,15 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 ภาวะข้ออักเสียบเฉียบพลัน อาจเกิดเนื่องจากการได้รับบาดเจ็บจากการวิ่ง การเล่นกีฬา รถชน ซึ่งจะทำให้เกิดการอักเสบเฉียบพลัน ทำให้มีอาการปวด บวม ถ้าเป็นในส่วนเท้าก็ไม่สามารถลงน้ำหนักได้ ถ้าเป็นที่ไหล่ ศอก ข้อมือ ก็ทำให้เกิดการเคลื่อนไหวลำบาก
 &nbsp;
 &nbsp;
-<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%88-300x294.jpg" alt="" width="300" height="294"></figure></strong><br>การอักเสบในข้อไหล่
+<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%88-300x294.jpg" alt="" width="300" height="294"></figure></strong><div style="text-align: center;">การอักเสบในข้อไหล่</div><br>
 &nbsp;
-<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1-300x296.jpg" alt="" width="300" height="296"></figure></strong><br>ข้อเข่าอักเสบ
+<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1-300x296.jpg" alt="" width="300" height="296"></figure></strong><div style="text-align: center;">ข้อเข่าอักเสบ</div><br>
 &nbsp;&nbsp;
 &nbsp; &nbsp; &nbsp;ในภาวะข้อเสื่อมในผู้ที่สูงอายุเกิดการอักเสบเนื่องจาก ผิวข้อกระดูกอ่อนมีการสึกกร่อน ร่างกายตอบสนองด้วยการกระตุ้นกระบวนการอักเสบ ทำให้เยื่อบุข้อมีการอักเสบ จึงเกิดการบวม และผลิตน้ำในข้อ มีลักษณะเป็นสีเหลือง ทำให้ข้อที่มีการอักเสบเกิดอาการบวม แดง และปวด ซึ่งสามารถเกิดได้ทุกข้อ ได้แก่ ข้อไหล่ ข้อศอก ข้อมือ นิ้ว ข้อเข่า ข้อเท้า ข้อมือ และข้อศอก หรือแม้กระทั่งข้อต่อของกระดูกสันหลังซึ่งมีลักษณะเป็นข้อต่อที่มีกระดูกอ่อนอยู่ (Hyaline cartilage)
 &nbsp;
 &nbsp;
 &nbsp;
-<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1-300x277.jpg" alt="" width="300" height="277"></figure></strong><br>ข้อเข่าเสื่อม
+<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1-300x277.jpg" alt="" width="300" height="277"></figure></strong><div style="text-align: center;">ข้อเข่าเสื่อม</div><br>
 &nbsp;
 &nbsp;
 <strong>เส้นเอ็น (tendon)</strong>
@@ -594,23 +594,24 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 </ol>
 &nbsp;
 &nbsp;
-<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%9A-298x300.jpg" alt="" width="298" height="300"></figure></strong><br>เส้นเอ็นข้อมืออักเสบ
+<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%9A-298x300.jpg" alt="" width="298" height="300"></figure></strong><div style="text-align: center;">เส้นเอ็นข้อมืออักเสบ</div><br>
 &nbsp;
 &nbsp;
 &nbsp;
-<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%88-300x294.jpg" alt="" width="300" height="294"></figure></strong><br>เส้นเอ็นไหล่อักเสบ
+<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%88-300x294.jpg" alt="" width="300" height="294"></figure></strong><div style="text-align: center;">เส้นเอ็นไหล่อักเสบ</div><br>
 &nbsp;
 <ol>
 <li><strong>เส้นเอ็นที่ไม่มีปลอกหุ้มเส้นเอ็นเช่น เส้นเอ็นที่ไหล่ (rotator cuff)</strong> เส้นเอ็นสะบ้าหัวเข่า (patellar tendon) เส้นเอ็นร้อยหวายที่ข้อเท้า (Achilles tendon) ปัญหาที่พบส่วนใหญ่คือเกิดการเสื่อมของสภาพเส้นเอ็นทำให้การเรียงตัวของ collagen ผิดปกติ บวม และเกิดการฉีกขาดได้ง่าย หรืออาจจะเกิดจากอุบัติเหตุได้เช่นกัน</li>
 </ol>
 &nbsp;
 &nbsp;
-<strong style="color: rgb(40, 19, 176); font-size: 32px;"><figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%96%E0%B8%B8%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3-300x293.jpg" alt="" width="300" height="293" style="font-size: 32px;"></figure></strong><br>ถุงน้ำที่ส้นเท้าอักเสบ
-&nbsp;
+<strong style="color: rgb(40, 19, 176); font-size: 32px;"><figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%96%E0%B8%B8%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3-300x293.jpg" alt="" width="300" height="293" style="font-size: 32px;"></figure></strong><div style="text-align: center;">ถุงน้ำที่ส้นเท้าอักเสบ</div><br>
+
 <strong>ผลที่ตามมา</strong>
 &nbsp;
 มีอาการปวด บวม แดง ร้อน ในบริเวณที่เกิดการอักเสบ
 &nbsp;
+<br>
 <strong>การรักษา</strong>
 <ol>
 <li>ประคบเย็น. หลักการของการประคบเย็นเพื่อลดการอักเสบ ลดเลือดที่ไปเลี้ยงที่บริเวณอกัดสบและยังช่วยลดอาการปวด</li>
@@ -622,7 +623,7 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 ถ้ามีปัญหาสุขภาพกระดูกและข้อถามมาได้นะครับ
 &nbsp;
 <p><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></p>
-<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p>`
+<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>`
     },
     {
         title: 'อยู่แบบอดๆ VS อยู่แบบกินอิ่ม แบบไหนตายช้ากว่า ?',
@@ -695,7 +696,7 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p>
+<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>
 <!-- /wp:paragraph -->`
     },
     {
@@ -706,7 +707,7 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 <p style="text-align: center;">โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</p>
 <p>&nbsp;</p>
 ถามกันบ่อย PRP คืออะไร? ใช้รักษาอะไรได้บ้าง? แบบไหนใช้แล้วไม่ได้ผล?
-PRP หรือ Platelet-Rich Plasma คือ เทคโนโลยีทางการแพทย์ ด้วยการนำเอาเลือดของคนไข้เองมารักษา การรักษาแบบ PRP นี้ มีใช้อยู่แล้วในทางทันตกรรมและศัลยกรรมกระดูก ซึ่งเลือดจะประกอบด้วยเม็ดเลือดแดง เกล็ดเลือด และส่วนของเหลว ที่เรียกกันว่า “พลาสมา” ส่วนสำคัญของกระบวนการรักษา โดย PRP นั้น คือเกล็ดเลือด เพราะในเกล็ดเลือดมีสารที่เรียกว่า Growth Factor ซึ่งเป็นสาร กระตุ้นการเติบโตและซ่อมแซมส่วนที่สึกหรอ
+PRP หรือ Platelet-Rich Plasma คือ เทคโนโลยีทางการแพทย์ ด้วยการนำเอาเลือดของคนไข้เองมารักษา การรักษาแบบ PRP นี้ มีใช้อยู่แล้วในทางทันตกรรมและศัลยกรรมกระดูก ซึ่งเลือดจะประกอบด้วยเม็ดเลือดแดง เกล็ดเลือด และส่วนของเหลว ที่เรียกกันว่า “พลาสมา” ส่วนสำคัญของกระบวนการรักษา โดย PRP นั้น คือเกล็ดเลือด เพราะในเกล็ดเลือดมีสารที่เรียกว่า Growth Factor ซึ่งเป็นสาร กระตุ้นการเติบโตและซ่อมแซมส่วนที่สึกหรอ
 PRP นำมาใช้รักษาโรคอะไรได้บ้าง
 <strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed06b2bdd218a0ccccb7c73-300x258.jpg" alt="" width="300" height="258"></figure>&nbsp;</strong><br>
 PRP
@@ -725,7 +726,7 @@ PRP
 คนไข้กลุ่มไหนบ้างที่ไม่เหมาะจะใช้ PRP
 1. ผู้ป่วยข้อเข่าเสื่อมที่เป็นระยะที่ 3-4 เมื่อตรวจเอกซเรย์แล้วพบว่าผิวข้อกระดูกมาชนกัน
 &nbsp;2. ผู้ป่วยที่มีเส้นเอ็นฉีกขาดแยกออกจากกัน
-&nbsp; &nbsp; &nbsp; กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น
+&nbsp; &nbsp; &nbsp; กระบวนการทำงานเมื่อฉีด PRP เข้าไปในบริเวณที่ต้องการรักษา Growth Factor ในเกล็ดเลือด PRP เป็นสารสำคัญที่ไปกระตุ้นให้เซลล์เกิดการเติบโตเร็วขึ้น เพื่อรักษาโรคและช่วยให้มีการสร้างเนื้อเยื่อขึ้นมาใหม่ ได้แก่ โรคข้อเข่าเสื่อม โรคปวดไหล่จากเส้นเอ็นฉีกขาด โรคปวดข้อศอก เป็นต้น
 กระบวนการของ PRP (Platelet-Rich Plasma)
 <strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/27747560_1639287802816381_2134065334838335335_o.jpg" alt="" width="80%" height="auto"></figure></strong>
 กระบวนการทำ PRP
@@ -737,7 +738,7 @@ PRP
 </ol>
 เทคนิคการฉีดด้วยความแม่นยำถูกตำแหน่งรอยโรคที่แน่นอน
 เราจะใช้เครื่อง UltraSound มาช่วยเป็นเครื่องชี้นำ บ่งบอกถึงบริเวณตำแหน่งที่จะฉีด PRP ทำให้การฉีด PRP มีความแม่นยำมากขึ้น (ตามภาพตัวอย่างด้านล่าง)
-คำแนะนำสำหรับผู้ป่วยที่ได้รับการฉีดพลาสมาที่มีเกล็ดเลือดสูง
+คำแนะนำสำหรับผู้ป่วยที่ได้รับการฉีดพลาสมาที่มีเกล็ดเลือดสูง
 <ul>
 <li>หลังจากฉีด PRP ผู้ป่วยอาจมีอาการชา บริเวณที่ฉีดหรือบริเวณใกล้เคียงได้ ประมาณ 1-2 ชั่วโมงแรก และอาจมีอาการปวดหลัง จากฉีด PRP ประมาณ 1-2 วัน หลังจากนั้นอาการปวดจะค่อยๆ ดีขึ้น</li>
 </ul>
@@ -750,10 +751,10 @@ PRP
 <li>ข้อควรพิจารณาหลังฉีด PRP</li>
 </ul>
 <ul>
-<li>หลังการฉีดแล้วจำเป็นต้องสังเกตดูอาการของผู้ป่วยเป็นเวลา 15 นาที ก่อนให้กลับบ้านได้ หากมีอาการแดงช้ำบริเวณรอยเข็มฉีด ให้ประคบเย็นไว้ประมาณ 6-8 ชั่วโมง โปรดแจ้งให้แพทย์ทราบหากมีอาการดังต่อไปนี้</li>
+<li>หลังการฉีดแล้วจำเป็นต้องสังเกตดูอาการของผู้ป่วยเป็นเวลา 15 นาที ก่อนให้กลับบ้านได้ หากมีอาการแดงช้ำบริเวณรอยเข็มฉีด ให้ประคบเย็นไว้ประมาณ 6-8 ชั่วโมง โปรดแจ้งให้แพทย์ทราบหากมีอาการดังต่อไปนี้</li>
 </ul>
 <ul>
-<li>อาการเลือดออก รอยช้ำใหม่ หรือบวมผิดปกติในบริเวณที่ฉีด</li>
+<li>อาการเลือดออก รอยช้ำใหม่ หรือบวมผิดปกติในบริเวณที่ฉีด</li>
 </ul>
 <ul>
 <li>อาการติดเชื้อ เช่น มีรอยแดง มีน้ำเหลืองออก หรือมีไข้ขึ้น ข้อห้ามฉีด ร่างกายมีการติดเชื้อ เกร็ดเลือดต่ำ เป็นมะเร็ง คนท้อง หรือให้นมลูก</li>
@@ -769,7 +770,7 @@ PRP
 <strong>Website:</strong>&nbsp;www.doctorkeng.com<br>
 <strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br>
 <strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br>
-<strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p>`
+<strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>`
     },
     {
         title: 'เราจำเป็นต้องรับประทานแคลเซียมหรือไม่ ?',
@@ -805,7 +806,7 @@ PRP
 <strong>Website:</strong>&nbsp;www.doctorkeng.com<br>
 <strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br>
 <strong>Facebook:</strong>&nbsp;<a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br>
-<strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p>`
+<strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>`
     },
     {
         title: 'หินปูน กระดูกงอก เกิดจากการทานแคลเซียมหรือไม่?',
@@ -843,19 +844,24 @@ PRP
 <p>ส่วนหินปูนที่เกิดในเส้นเอ็น อาจจะเกิดจากการที่เส้นเอ็นส่วนนั้นอาจจะเคยได้รับอุบัติเหตุมาก่อนจึงทำให้เกิดก้อนหินปูน</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"id":10953,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image aligncenter"><center><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/กระดูกงอกที่ข้อเข่า-1024x1014.jpg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_6405-1-300x225.jpg" alt="" width="300" height="225" /><br />กระดูกงอกที่ข้อเข่า</figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/กระดูกงอกที่ข้อเข่า-1024x1014.jpg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_6405-1-300x225.jpg" alt="" width="300" height="225" /><br /></figure>
+<center>กระดูกงอกที่ข้อเข่า</center>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":10954,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/กระดูกงอกทับเส้นประสาท-855x1024.jpeg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed95d5f6a8ffd0cc09a461c_800x0xcover_a11Y0cSM-251x300.jpg" alt="" width="251" height="300" /><br />กระดูกงอกที่คอ</figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/กระดูกงอกทับเส้นประสาท-855x1024.jpeg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed95d5f6a8ffd0cc09a461c_800x0xcover_a11Y0cSM-251x300.jpg" alt="" width="251" height="300" /><br /></figure>
+<center>กระดูกงอกที่คอ</center>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":10955,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/กระดูกงอกที่เอว-1024x796.jpeg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed95d787113a30ca689569c_800x0xcover_lSpRcDyR-300x233.jpg" alt="" width="300" height="233" /><br />งอกที่เอว</figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/กระดูกงอกที่เอว-1024x796.jpeg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed95d787113a30ca689569c_800x0xcover_lSpRcDyR-300x233.jpg" alt="" width="300" height="233" /><br /></figure>
+<center>งอกที่เอว</center>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":10956,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/หินปูนที่ข้อสะโพก-1024x1014.jpeg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed95d965c6e9e0caea5fe9c_800x0xcover_AtU8V7jX-300x297.jpg" alt="" width="300" height="297" /><br />หินปูนที่ข้อสะโพก</figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/หินปูนที่ข้อสะโพก-1024x1014.jpeg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed95d965c6e9e0caea5fe9c_800x0xcover_AtU8V7jX-300x297.jpg" alt="" width="300" height="297" /><br /></figure>
+<center>หินปูนที่ข้อสะโพก</center>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:image {"align":"center","id":10957,"sizeSlug":"large","linkDestination":"none"} --></p>
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/หินปูนที่ข้อไหล่-819x1024.jpeg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed95dae5c6e9e0caea60731_800x0xcover_wnJW9Phd-240x300.jpg" alt="" width="240" height="300" /><br />หินปูนที่ข้อไหล่</center></figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/07/หินปูนที่ข้อไหล่-819x1024.jpeg" alt="" /><img style="font-family: Kanit, sans-serif; font-style: normal; font-weight: 300; letter-spacing: 0px; font-size: 15px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/5ed95dae5c6e9e0caea60731_800x0xcover_wnJW9Phd-240x300.jpg" alt="" width="240" height="300" /><br /></center></figure>
+<center>หินปูนที่ข้อไหล่</center>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>แคลเซียมที่รับประทานวันละ 1-2 เม็ด ส่วนใหญ่ร่างกายจะขับออกทางปัสสาวะและอุจจาระ ไม่ได้ทำให้เกิดการตกตะกอนสะสมในร่างกาย<br />ดังนั้นการทานแคลเซียมวันละ 1 เม็ดจึงไม่มีปัญหากับร่างกาย และไม่เกี่ยวข้องกับกระดูกงอกตามข้อที่เกิดจากกระบวนการเสื่อม</p>
@@ -867,7 +873,7 @@ PRP
 <p><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
-<p><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br /><strong>Website:</strong> www.doctorkeng.com<br /><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun<br /><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br /><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</p>
+<p><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br /><strong>Website:</strong> www.doctorkeng.com<br /><strong>YouTube:</strong> https://www.youtube.com/results?search_query=taninnit+leerapun<br /><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noreferrer noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br /><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>
 <p><!-- /wp:paragraph --></p>`
     },
     {
@@ -876,56 +882,58 @@ PRP
         path: 'bone-cancer',
         detail: `<p style="text-align: center;"><strong>&nbsp;อาการอย่างไรที่สงสัยว่าจะเป็นมะเร็งกระดูก ? จะคัดกรองและป้องกันอย่างไร ?</strong></p>
 <p style="text-align: center;">โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</p>
-&nbsp;
+
 อาการปวดที่กระดูก อาจจะเป็นอาการเริ่มต้นที่พบบ่อยที่สัดของมะเร็งกระดูก อาจจะมีอาการปวดมากตอนกลางคืน อาจจะมีอาการปวดขา ในขณะที่ก้อนมะเร็งโตขึ้นมากๆ ผู้ป่วยอาจจะมีอาการปวดตลอดเวลา และจะปวดมากขึ้นเมื่อทำกิจกรรม
 อาจจะมีอาการบวม คลำได้ก้อนในบริเวณที่ปวด
 <p>กระดูกหัก สามารถพบได้ในกรณีที่มะเร็งมีการทำลายกระดูกมาก</p>
 &nbsp;
-<strong style="font-family: inherit; font-style: inherit; letter-spacing: 0px; color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2941-300x216.jpg" alt="" width="300" height="216"></figure></strong>&nbsp;
-กระดูกหักที่สะโพก
-&nbsp;
+<strong style="font-family: inherit; font-style: inherit; letter-spacing: 0px; color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2941-300x216.jpg" alt="" width="300" height="216"></figure></strong>
+<div style="text-align: center;">กระดูกหักที่สะโพก</div>
+
 ถ้าเป็นในตำแหน่งของกระดูกสันหลังถ้ามีการกดทับไขสันหลังหรือเส้นประสาทร่วมด้วยจะทำให้มีอาการปวดหลังมาก มีอาการชา อ่อนแรง ไม่สามารถกลั้นอุจจาระและปัสสาวะได้
 &nbsp;
 &nbsp;
-<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2938-300x249.jpg" alt="" width="300" height="249"></figure></strong><br>มะเร็งที่กระดูกสันหลัง
+<strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2938-300x249.jpg" alt="" width="300" height="249"></figure></strong><div style="text-align: center;">มะเร็งที่กระดูกสันหลัง</div><br>
 &nbsp;
 ถ้ามีอาการมาเป็นระยะเวลานาน ไม่ดีขึ้น ควรรีบพบแพทย์เพื่อตรวจประเมินอาการ
 การตรวจคัดกรองสำหรับมะเร็งกระดูก
 &nbsp;
+<br>
 1. การตรวจด้วยภาพรังสี x-ray ซึ่งอาจจะพบว่ามีการทำลายกระดูกหรือการสร้างกระดูกที่ผิดปกติจากมะเร็งที่ลุกลามมา
 &nbsp;&nbsp;
 &nbsp;
-&nbsp;<strong style="font-family: inherit; font-style: inherit; letter-spacing: 0px; color: rgb(40, 19, 176); font-size: 32px;">&nbsp;<figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2939-2.jpg" alt="" width="208" height="146"></figure>&nbsp;</strong>การทำลายกระดูก
-&nbsp;
+&nbsp;<strong style="font-family: inherit; font-style: inherit; letter-spacing: 0px; color: rgb(40, 19, 176); font-size: 32px;">&nbsp;<figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2939-2.jpg" alt="" width="208" height="146"></figure></strong><div style="text-align: center;">การทำลายกระดูก</div>
+
+
 2. การตรวจด้วยเอกซเรย์คอมพิวเตอร์ที่ตำแหน่งที่เป็น และที่ปอดเพื่อประเมินว่ามะเร็งที่เป็นอยู่นั้นอยู่ในระยะใด ถ้ามีการลุกลามมาที่ปอดก็เป็นระยะที่ 4
 &nbsp;
 <strong style="font-family: inherit; font-style: inherit; letter-spacing: 0px; text-align: center; color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2941-300x216.jpg" alt="" width="300" height="216"></figure></strong>&nbsp;
-&nbsp;
+
 3. การตรวจด้วยเครื่องคลื่นแม่เหล็กไฟฟ้า MRI ในตำแหน่งบริเวณที่มีอาการปวด จะช่วยประเมินลักษณะของการทำลายกระดูก และการลุกลามไปยังเนื้อเยื่ออ่อนในบริเวณรอบได้
 &nbsp;
 <strong style="color: rgb(40, 19, 176); font-size: 32px;"><figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2942.jpg" alt="" width="285" height="190" style="font-size: 32px;"></figure></strong><br>
+
+4. การตรวจสแกนกระดูกทั่วร่างกาย bone scan จะใช้ประเมินว่ามีการลักลามของมะเร็งไปยังตำแหน่งใดบ้าง เช่นถ้าเป็นมะเร็งลุกลามมาที่กระดูก แพทย์จะส่งตรวจ bone scan เพื่อประเมินว่า&nbsp;นอกจากตำแหน่งที่ปวดแล้ว ยังมีการแพร่กระจายไปยังตำแหน่งอื่นอีกหรือไม่ ซึ่งส่วนใหญ่มักจะแพร่กระจายไปยังตำแหน่งของ กระดูกสันหลัง กระดูกอุ้งเชิงกราน กระดูกสะโพก
 &nbsp;
-4. การตรวจสแกนกระดูกทั่วร่างกาย bone scan จะใช้ประเมินว่ามีการลักลามของมะเร็งไปยังตำแหน่งใดบ้าง เช่นถ้าเป็นมะเร็งลุกลามมาที่กระดูก แพทย์จะส่งตรวจ bone scan เพื่อประเมินว่านอกจากตำแหน่งที่ปวดแล้ว ยังมีการแพร่กระจายไปยังตำแหน่งอื่นอีกหรือไม่ ซึ่งส่วนใหญ่มักจะแพร่กระจายไปยังตำแหน่งของ กระดูกสันหลัง กระดูกอุ้งเชิงกราน กระดูกสะโพก
-&nbsp;
-<strong style="font-family: inherit; font-style: inherit; letter-spacing: 0px; color: rgb(40, 19, 176); font-size: 32px;"><figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2940-1.jpg" alt="" width="206" height="146" style="font-size: 32px;"></figure></strong><br>
-&nbsp;
-การตรวจ bone scan
-&nbsp;
+<strong style="font-family: inherit; font-style: inherit; letter-spacing: 0px; color: rgb(40, 19, 176); font-size: 32px;"><figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/IMG_2940-1.jpg" alt="" width="206" height="146" style="font-size: 32px;"></figure></strong><div style="text-align: center;">การตรวจ bone scan</div><br>
+
+
+
 5. การตรวจชิ้นเนื้อในตำแหน่งที่สงสัยว่าเกิดมะเร็ง โดยการนำชิ้นเนื้อในบริเวณที่สงสัยมาตรวจมางพยาธิเพื่อประเมินว่าเป็นเซลมะเร็งชนิดใด
 &nbsp;
 <strong>คำแนะนำในการตรวจคัดกรองมะเร็ง</strong>
 &nbsp;
 มะเร็งที่พบบ่อยได้แก่ มะเร็งปอด มะเร็งตับ มะเร็งต่อมลูกหมาก มะเร็งเต้านม มะเร็งระบบทางเดินอาหารและลำไส้ การตรวจคัดกรองมะเร็งเหล่านี้นั้นมักจะคัดกรองตามปัจจัยเสี่ยงที่แต่ละคนมี ซึ่งมักจะไม่เหมือนกัน ปัจจัยเสี่ยงหลักๆได้แก่ ปัจจัยทางพันธุกรรม ปัจจัยเสี่ยงจากพฤติกรรม เช่น การดื่มสุรา การสูบบุหรี่ และประวัติการติดเชื้อไวรัสเช่น ในกรณีคนไข้ที่เป็นไวรัสตับอักเสบ B ก็มีความเสี่ยงเป็นมะเร็งตับที่สูงกว่าคนทั่วไป และสภาพสิ่งแวดล้อม
 ดังนั้นการคัดกรองจะขึ้นกับ
-&nbsp;
-1. อายุ
-2. ปัจจัยเสี่ยงของแต่ละบุคคลทั้วในด้าน พันธุกรรม ด้านพฤติกรรม และประวัติของโรคประจำตัว เช่น
-&nbsp; &nbsp; &nbsp;2.1 ตรวจคัดกรองส่องกล้องมะเร็งลำไส้ในคนที่อายุตั้งแต่ 50 ปีขึ้นไป
-&nbsp; &nbsp; &nbsp;2.2 ตรวจคัดกรองมะเร็งตับในกลุ่มคนไข้ที่เป็นไวรัสตับอักเสบ B ด้วย การตรวจเลือดและการตรวจด้วย ultrasound
-&nbsp; &nbsp; &nbsp;2.3 การตรวจคัดกรองมะเร็งต่อมลูกหมากในผู้ป่วยเพศชายด้วยการตรวจต่อมลูกหมากและตรวจเลือดประเมินค่า PSA
-&nbsp; &nbsp; &nbsp;2.4 การตรวจคัดกรองมะเร็งเต้านมในเพศหญิงด้วยการตรวจคลำเต้านมด้วยตนเอง เพื่อประเมินว่ามีก้อนหรือไม่
+&nbsp;<br>
+&nbsp;&nbsp;1. อายุ<br>
+&nbsp;&nbsp;2. ปัจจัยเสี่ยงของแต่ละบุคคลทั้วในด้าน พันธุกรรม ด้านพฤติกรรม และประวัติของโรคประจำตัว เช่น<br>
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;2.1 ตรวจคัดกรองส่องกล้องมะเร็งลำไส้ในคนที่อายุตั้งแต่ 50 ปีขึ้นไป<br>
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;2.2 ตรวจคัดกรองมะเร็งตับในกลุ่มคนไข้ที่เป็นไวรัสตับอักเสบ B ด้วย การตรวจเลือดและการตรวจด้วย ultrasound<br>
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;2.3 การตรวจคัดกรองมะเร็งต่อมลูกหมากในผู้ป่วยเพศชายด้วยการตรวจต่อมลูกหมากและตรวจเลือดประเมินค่า PSA<br>
+&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;2.4 การตรวจคัดกรองมะเร็งเต้านมในเพศหญิงด้วยการตรวจคลำเต้านมด้วยตนเอง เพื่อประเมินว่ามีก้อนหรือไม่<br>
 <p><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></p>
-<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong><a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong>&nbsp;https://www.blockdit.com/doctorkeng</p>`
+<p><strong>Line OA:</strong>&nbsp;https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng<br><strong>Website:</strong>&nbsp;www.doctorkeng.com<br><strong>YouTube:</strong>&nbsp;https://www.youtube.com/results?search_query=taninnit+leerapun<br><strong>Facebook:</strong><a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></p>`
     },
     {
         title: 'ใช้กระเป๋าเป้อย่างไรไม่ให้ปวดหลัง',
@@ -1032,7 +1040,7 @@ PRP
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":8808} -->
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_002ย.jpg" alt="" class="wp-image-8808"/></figure><figcaption class="wp-element-caption">กล้ามเนื้อหัวไหล่</figcaption></figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_002ย.jpg" alt="" class="wp-image-8808"/></figure><figcaption class="wp-element-caption">กล้ามเนื้อหัวไหล่</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -1040,7 +1048,7 @@ PRP
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":8810} -->
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_003.jpg" alt="" class="wp-image-8810"/></figure><figcaption class="wp-element-caption">เปรียบเทียบภาพ Ultrasound ของกล้ามเนื้อ เส้นเอ็นของไหล่ที่ตำแหน่งกระดูกข้างหัวไหล่</figcaption></figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_003.jpg" alt="" class="wp-image-8810"/></figure><figcaption class="wp-element-caption">เปรียบเทียบภาพ Ultrasound ของกล้ามเนื้อ เส้นเอ็นของไหล่ที่ตำแหน่งกระดูกข้างหัวไหล่</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -1048,7 +1056,7 @@ PRP
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":8811} -->
-<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_004.jpg" alt="" class="wp-image-8811"/></figure><figcaption class="wp-element-caption">จากภาพเมื่อนำไม้บรรทัดมาวัดช่วงประมาณ 3 นิ้วมือวัด จะประมาณ 5-6 เซนติเมตร</figcaption></figure>
+<figure class="wp-block-image aligncenter"><img src="https://doctorkeng.com/wordpress/wp-content/uploads/2021/05/ฉีดยาหรือวัคซีนที่ต้นแขนตำแหน่งไหนที่เหมาะสม_004.jpg" alt="" class="wp-image-8811"/></figure><figcaption class="wp-element-caption">จากภาพเมื่อนำไม้บรรทัดมาวัดช่วงประมาณ 3 นิ้วมือวัด จะประมาณ 5-6 เซนติเมตร</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator {"opacity":"css"} -->
@@ -1112,11 +1120,11 @@ c. ควรใช้แผ่นรองนั่งเช่น ห่วง�
 
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span>
-<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span>
-<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span>`
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br>
+<span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br>`
     }
 ]
