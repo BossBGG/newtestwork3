@@ -216,7 +216,7 @@ export const KneeSubData:SubContent[]=[
 
 ผู้ป่วยต้องมีการบริหารข้อเข่า โดยการกระดกข้อเท้าเพื่อเป็นการกระตุ้นให้กล้ามเนื้อบริเวณน่องให้มีการสูบฉีดโลหิตของเส้นเลือดป้องกันการบวมของเท้า และป้องกันภาวะลิ่มเลือดอุดตันในเส้นเลือด การบริหารกล้ามเนื้อรอบๆเข่าเพื่อเพิ่มความแข็งแรง
 
-<span style="color: #000080;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span>
+<span style="color: #000080;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span><br>
 Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferrer">https://lin.ee/swOi91Q</a> หรือ Line ID search @doctorkeng`,
     },
     {
@@ -248,9 +248,9 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 <p class="jsx-3797055019 mb-0 text-break white-space-pre-wrap"><span style="color: #2813b0; font-size: 14pt;"><strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</strong></span></p>
 <span style="font-size: 14pt;"><strong>Line OA:</strong> https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br/>
 <span style="font-size: 14pt;"><strong>Website:</strong> www.doctorkeng.com</span><br/>
-<span style="font-size: 14pt;"><strong>YouTube:</strong>https://www.youtube.com/results?search_query=taninnit+leerapun</span><br/>
+<span style="font-size: 14pt;"><strong>YouTube:</strong><span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br/>
 <span style="font-size: 14pt;"><strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
-<span style="font-size: 14pt;"><strong>Blockdit:</strong> https://www.blockdit.com/doctorkeng</span><br/>`,
+<span style="font-size: 14pt;"><strong>Blockdit:</strong><span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span><br/>`,
     },
     {
         title: 'ปวดเข่า  โรคข้อเข่าเสื่อม!',
@@ -476,9 +476,9 @@ Line OA <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener noreferre
 
 <span style="font-size: 14pt;">Line OA: https://lin.ee/swOi91Q หรือ Line ID search @doctorkeng</span><br/>
 <span style="font-size: 14pt;">Website: www.doctorkeng.com</span><br/>
-<span style="font-size: 14pt;">YouTube: https://www.youtube.com/results?search_query=taninnit+leerapun</span><br/>
+<span style="font-size: 14pt;">YouTube:<span class="contact-line" style="padding-left: 4px;">https://www.youtube.com/results?search_query=taninnit+leerapun</span></span><br/>
 <span style="font-size: 14pt;">Facebook: <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener noreferrer">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
-<span style="font-size: 14pt;">Blockdit: https://www.blockdit.com/doctorkeng</span><br/>
+<span style="font-size: 14pt;">Blockdit:<span class="contact-line" style="padding-left: 4px;">https://www.blockdit.com/doctorkeng</span></span><br/>
 
 </div>
 </div>`,
