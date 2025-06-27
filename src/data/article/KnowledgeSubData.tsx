@@ -589,9 +589,10 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 <strong>เส้นเอ็น (tendon)</strong>
 &nbsp;
 เส้นเอ็นจะมี 2 ประเภทคือ ข้อที่เกิดการอักเสบ <a href="https://en.wikipedia.org/wiki/Arthritis" target="_blank" rel="nofollow noopener noreferrer" data-testid="Linkify-anchor">https://en.wikipedia.org/wiki/Arthritis</a>
+
 <ol>
 <li><strong>&nbsp;เส้นเอ็นที่มีปลอกหุ้มเส้นเอ็นหุ้มอยู่ (tendon sheath)</strong> เช่น เส้นเอ็นตามบริเวณข้อมือ มือ ข้อเท้า การอักเสบของเส้นเอ็นส่วนใหญ่มักจะเกิดในเส้นเอ็นที่มีปลอกหุ้มเส้นเอ็นอยู่ เนื่องจากปลอกหุ้มเส้นเอ็นจะมี เยื่อบุ( synovial lining) ในส่วนของปลอกหุ้มเส้นเอ็น ดังนั้นเมื่อเกิดการอักเสบจึงเกิดการผลิตน้ำออกมาได้ ทำให้เกิดอาการบวม ปวด ในบริเวณที่อักเสบ เช่น เส้นเอ็นอักเสบที่ข้อมือ (De quervain), ในโรคนิ้วล็อก (trigger finger) การอักเสบของเส้นเอ็นที่ข้อเท้า ซึ่งเป็นสาเหตุที่พบได้บ่อยมักเกิดจากการใช้งานมากเกินไป หรือการบาดเจ็บซ้ำๆ <a href="https://en.wikipedia.org/wiki/Tenosynovitis" target="_blank" rel="nofollow noopener noreferrer" data-testid="Linkify-anchor">https://en.wikipedia.org/wiki/Tenosynovitis</a></li>
-</ol>
+
 &nbsp;
 &nbsp;
 <strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%AA%E0%B8%9A-298x300.jpg" alt="" width="298" height="300"></figure></strong><div style="text-align: center;">เส้นเอ็นข้อมืออักเสบ</div><br>
@@ -600,7 +601,7 @@ Mohammed S. Ellulu,1 Ismail Patimah, 2 Huzwah Khaza’ai,2 Asmah Rahmat,3 and Ye
 &nbsp;
 <strong style="color: #2813b0; font-size: 32px;"><figure class="wp-block-image aligncenter"><img style="font-size: 32px;" src="https://doctorkeng.com/wordpress/wp-content/uploads/2023/11/%E0%B9%84%E0%B8%AB%E0%B8%A5%E0%B9%88-300x294.jpg" alt="" width="300" height="294"></figure></strong><div style="text-align: center;">เส้นเอ็นไหล่อักเสบ</div><br>
 &nbsp;
-<ol>
+
 <li><strong>เส้นเอ็นที่ไม่มีปลอกหุ้มเส้นเอ็นเช่น เส้นเอ็นที่ไหล่ (rotator cuff)</strong> เส้นเอ็นสะบ้าหัวเข่า (patellar tendon) เส้นเอ็นร้อยหวายที่ข้อเท้า (Achilles tendon) ปัญหาที่พบส่วนใหญ่คือเกิดการเสื่อมของสภาพเส้นเอ็นทำให้การเรียงตัวของ collagen ผิดปกติ บวม และเกิดการฉีกขาดได้ง่าย หรืออาจจะเกิดจากอุบัติเหตุได้เช่นกัน</li>
 </ol>
 &nbsp;

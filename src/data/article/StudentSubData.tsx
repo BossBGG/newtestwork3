@@ -7,9 +7,15 @@ export const StudentSubData: SubContent[] = [
         path: '149-cancellous-bone-medical-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/9mo882JDST4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
+<center class="contact-line">
+
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+
+</center>
+
+
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360">
 <br>
@@ -25,10 +31,11 @@ Email: tleerapun@gmail.com`
         shot: 'ภาวะการติดเชื้อในโรคกระดูกและข้อ',
         path: '151-bone-joint-infect-medical-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/Anc0m_OGaUI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-
+<center class="contact-line">
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
 
@@ -45,9 +52,12 @@ Email: tleerapun@gmail.com`
         path: '152-physical-exam-medical-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/05zx-13iDGY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></center>
 
+<center class="contact-line">
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
+
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
 
@@ -63,10 +73,11 @@ Email: tleerapun@gmail.com`
         shot: 'การฉีดยา steroid (Shoulder injection)',
         path: '153-shoulder-injection-medical-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/4YkLnD6dB7I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-
+<center class="contact-line">
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
 
@@ -82,10 +93,11 @@ Email: tleerapun@gmail.com`
         shot: 'Direct lateral approach',
         path: '170-direct-lateral-approach-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/QVTNDPSreKY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-
+<center class="contact-line">
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link&nbsp;<a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360"> <br>
 
@@ -101,10 +113,11 @@ Email: tleerapun@gmail.com`
         shot: 'การผ่าตัดเปลี่ยนข้อสะโพกเทียม',
         path: '169-hip-joint-surgery-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/LMLvy-q5rnM" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></center>
-
+<center class="contact-line">
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
@@ -119,9 +132,12 @@ Email: tleerapun@gmail.com`
         title: 'การผ่าตัดเปลี่ยนข้อเข่าเทียม [สำหรับแพทย์/นักศึกษาแพทย์]',
         shot: 'การผ่าตัดเปลี่ยนข้อเข่าเทียม',
         path: '168-knee-change-km',
-        detail: `<center><iframe src="https://www.youtube.com/embed/q-wMVOQw9s8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></center>ผศ.นพ.ธนินนิตย์ ลีรพันธ์
+        detail: `<center><iframe src="https://www.youtube.com/embed/q-wMVOQw9s8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span></iframe></center>
+<center class="contact-line">        
+ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
@@ -137,10 +153,11 @@ Email: tleerapun@gmail.com`
         shot: 'Thompson test for Achilles tendon rupture',
         path: '167-thompson-test-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/nDnhvxhUWaA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-
+<center class="contact-line">
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
@@ -156,10 +173,11 @@ Email: tleerapun@gmail.com`
         shot: 'การฉีดยา steroid เข้าข้อเข่า (Knee Injection)',
         path: '155-knee-injection-medical-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/J8Ai3KBHIDY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-
+<center class="contact-line">
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
 <br>
 <img class="alignnone wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 
@@ -175,10 +193,11 @@ Email: tleerapun@gmail.com`
         shot: 'Plantar fascia Injection ',
         path: '156-plantar-fascia-injection-medical-km',
         detail: `<center><iframe src="https://www.youtube.com/embed/RRyzotUJ31I" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-
+<center class="contact-line">
 ผศ.นพ.ธนินนิตย์ ลีรพันธ์
 Line ID: @doctorkeng
 หรือกด Link <a href="https://line.me/R/ti/p/%40doctorkeng">https://line.me/R/ti/p/%40doctorkeng</a>
+</center>
 <br>
 <img class="alignnone  wp-image-636 youtube-wrapper" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/12/doctorkeng.jpg" alt="" width="360" height="360" /><br>
 

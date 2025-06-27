@@ -70,7 +70,7 @@ export const GoutSubData:SubContent[]=[
 <div class="jss78"></div>
 <div class="jss70">
 <div class="jss74">
-<div class="jss75" style="text-align: center;"><span style="font-size: 8pt;">ปวดบวมข้อเท้า</span></div>
+<div class="jss75" style="text-align: center;"><span style="font-size: 12pt;">ปวดบวมข้อเท้า</span></div>
 </div>
 </div>
 <span style="font-size: 14pt;">อาการปวดมากแทบจะร้องไห้เลยนะครับ ขยับข้อเท้าจะปวดมากๆ</span><span style="font-size: 14pt;">การวินิจฉัยด้วยการตรวจร่างกายจะพบว่าข้อมีการบวมค่อนข้างมาก กดเจ็บรอบข้อเท้า</span><span style="font-size: 14pt;">ตรวจด้วย ultrasound จะพบการอักเสบ มีน้ำภายในข้อเท้า</span>
@@ -78,7 +78,7 @@ export const GoutSubData:SubContent[]=[
 <div class="jss74">
 <div class="jss78"></div>
 <div><figure class="wp-block-image aligncenter"><img  class="size-large wp-image-10093 aligncenter" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/09/การตรวจข้อเท้าด้วย-Ultrasound-หมอเก่ง-768x1024.jpeg" alt="" width="750" height="1000" /></figure></div>
-<div class="jss75" style="text-align: center;"><span style="font-size: 8pt;">ตรวจข้อเท้าด้วย ultrasound</span></div>
+<div class="jss75" style="text-align: center;"><span style="font-size: 12pt;">ตรวจข้อเท้าด้วย ultrasound</span></div>
 <div></div>
 <div><figure class="wp-block-image aligncenter"><img  class="size-large wp-image-10094 aligncenter" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/09/5eb674fd2e69d20ca3dbd4c9-768x1024.jpeg" alt="" width="750" height="1000" /></figure></div>
 </div>
@@ -86,7 +86,7 @@ export const GoutSubData:SubContent[]=[
 <div class="jss70">
 <div class="jss78"></div>
 <div class="jss74">
-<div class="jss75" style="text-align: center;"><span style="font-size: 8pt;">พบน้ำอักเสบในข้อเท้า</span></div>
+<div class="jss75" style="text-align: center;"><span style="font-size: 12pt;">พบน้ำอักเสบในข้อเท้า</span></div>
 </div>
 </div>
 <div class="jss70">
@@ -258,7 +258,7 @@ export const GoutSubData:SubContent[]=[
 <!-- /wp:paragraph -->
 
 <!-- wp:cover {"url":"https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ecd8cc1de8ec70cd03cf007-835x1024.jpeg","id":10179,"dimRatio":50,"isDark":false,"style":{"color":{}}} -->
-<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10179" alt="" src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ecd8cc1de8ec70cd03cf007-835x1024.jpeg" data-object-fit="cover"/></figure><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10179 youtube-wrapper" alt="" src="https://doctorkeng.com/wordpress/wp-content/uploads/2022/08/5ecd8cc1de8ec70cd03cf007-835x1024.jpeg" data-object-fit="cover" /></figure><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","fontSize":"large"} -->
 <p class="has-text-align-center has-large-font-size">การตรวจด้วย Ultrasound</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->

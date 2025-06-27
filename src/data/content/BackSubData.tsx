@@ -318,9 +318,8 @@ Line ID : @doctorkeng
         path: 'back-pain-video',
         shot: 'ปวดหลัง เรียนรู้สาเหตุ การวินิจฉัย และการรักษาด้วยการไม่ผ่าตัด',
         detail: `<!-- wp:embed {"url":"https://youtu.be/SzXI6x6iuVM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio text-center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SzXI6x6iuVM?si=stElURAoaGacR5Pu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<div class="wp-block-embed__wrapper">
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/SzXI6x6iuVM
 
 </div></figure>
 <!-- /wp:embed -->
