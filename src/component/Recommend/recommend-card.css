@@ -1,0 +1,216 @@
+/* recommend-card.css */
+
+.recommend-card {
+  padding: 0 12px;
+  height: 100%;
+}
+
+.recommend-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  height: 100%;
+}
+
+.recommend-card-link:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.recommend-video-card {
+  background: white;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  border: none;
+  height: 280px; 
+  
+  flex-direction: column;
+  
+  padding: 8px;  
+  
+}
+
+.recommend-video-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+.recommend-video-thumbnail {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  overflow: hidden;
+  background: #f0f0f0;
+}
+
+.recommend-video-thumbnail img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+  border-radius: 8px;
+}
+
+.recommend-video-card:hover .recommend-video-thumbnail img {
+  transform: scale(1.05);
+}
+
+.recommend-play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60px;
+  height: 60px;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: all 0.3s ease;
+  color: white;
+}
+
+.recommend-video-card:hover .recommend-play-button {
+  opacity: 1;
+  background: #ff0000;
+}
+
+.recommend-duration-badge {
+  position: absolute;
+  bottom: 12px;
+  right: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.recommend-video-info {
+  padding: 16px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  
+}
+
+.recommend-video-title {
+  font-size: 16px;
+  font-weight: 700;
+  color: #0f0f0f;
+  margin-bottom: 12px;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-align: start;
+  
+}
+
+
+/* Mobile responsive */
+@media (max-width: 991.98px) {
+  .recommend-card {
+    padding: 0;
+  }
+
+  .recommend-video-card {
+    height: auto; 
+    border-radius: 12px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;  
+  }
+
+  .recommend-video-title {
+    font-size: 15px;
+    height: 40px;
+  }
+
+  .recommend-video-info {
+    padding: 16px;
+  }
+
+  .recommend-play-button {
+    width: 50px;
+    height: 50px;
+  }
+
+  .recommend-duration-badge {
+    font-size: 12px;
+    padding: 3px 6px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .recommend-card {
+    padding: 0 4px;
+    
+    
+  }
+
+  .recommend-video-card {
+
+   border-radius: 12px;
+    max-width: 340px; 
+    margin: 0 auto;
+  }
+
+  .recommend-video-title {
+    font-size: 14px;
+    height: 36px;
+    -webkit-line-clamp: 2;
+  }
+
+  .recommend-video-info {
+    padding: 14px;
+  }
+
+  .recommend-video-channel {
+    font-size: 13px;
+  }
+
+  .recommend-video-stats {
+    font-size: 12px;
+  }
+
+  .recommend-play-button {
+    width: 45px;
+    height: 45px;
+  }
+
+  .recommend-duration-badge {
+    font-size: 11px;
+    padding: 2px 5px;
+    bottom: 8px;
+    right: 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  
+
+  .recommend-video-title {
+    font-size: 13px;
+    height: 32px;
+  }
+
+  .recommend-video-info {
+    padding: 12px;
+  }
+
+  .recommend-play-button {
+    width: 40px;
+    height: 40px;
+  }
+}

@@ -25,6 +25,7 @@ import {HandSubData} from "./content/HandSubData.tsx";
 import {ArthroplastySubData} from "./content/ArthroplastySubData.tsx";
 import {TherapySubData} from "./content/TherapySubData.tsx";
 
+
 export interface ContentData {
     title: string,
     detail: string,

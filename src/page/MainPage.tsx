@@ -2,6 +2,7 @@ import {Container, Image, Row} from "react-bootstrap";
 import '../App.css'
 import Banner from "../component/Banner/Banner.tsx";
 import ContentCard from "../component/ContentCard/ContentCard.tsx";
+import Blog from "../component/Blog/Blog.tsx";
 import {useEffect, useState} from "react";
 import axios from "axios";
 import FromCustomer from "../component/FromCustomer/FromCustomer.tsx";
@@ -13,6 +14,8 @@ import {PlayLists, Videos} from "../model/YoutubeModel.tsx";
 import Footer from "../component/Footer/Footer.tsx";
 // import Article from "../component/Article/Article.tsx";
 import {useLocation} from "react-router";
+import Recommend from "../component/Recommend/Recommend.tsx";
+import About from "../component/About/About.tsx";
 
 export interface YoutubeData{
     playlists:PlayLists,
@@ -44,11 +47,12 @@ const MainApp = () => {
                 <h2 className={'text-sub-head'}>ความรู้กระดูกและข้อ</h2>
                 <h1 className={'text-header'} style={{fontSize: '1.9rem'}}>หมวดหมู่ที่น่าสนใจ 13 หมวดหมู่</h1>
             </Row>
-            {playlistData && <ContentCard playlist={playlistData.playlists} videoList={playlistData.videos}></ContentCard>}
-            {/*<Article/>*/}
-            <Row id={'about-us'}>
-                <Image className={'p-0'} src={DrImage} fluid={true}/>
-            </Row>
+            
+            {/* เรียกใช้ Blog Component แทน ContentCard */}
+            <Blog />
+            <Recommend/>
+            
+            <About />
             <FromCustomer/>
             <ContactUs/>
             <Footer/>

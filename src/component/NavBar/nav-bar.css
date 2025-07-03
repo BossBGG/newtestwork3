@@ -1,3 +1,5 @@
+/* nav-bar.css */
+
 .nav-btn{
     background: transparent;
     padding: 0;
@@ -26,7 +28,53 @@
     }
 }
 
-/* Desktop*/
+/* Sticky Navbar */
+.navbar-sticky {
+    position: sticky !important;
+    top: 0;
+    z-index: 1020;
+    backdrop-filter: blur(10px);
+    background-color: rgba(248, 249, 250, 0.95) !important;
+    transition: all 0.3s ease;
+}
+
+/* Active Dropdown Item Styling */
+.active-dropdown-item {
+    background-color: #34539B !important;
+    color: white !important;
+    font-weight: 600;
+}
+
+.active-dropdown-item:hover {
+    background-color: #2d4485 !important;
+    color: white !important;
+}
+
+.active-dropdown-item:focus {
+    background-color: #34539B !important;
+    color: white !important;
+}
+
+/* Dropdown Menu Improvements */
+.dropdown-menu {
+    border: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: 8px;
+}
+
+.dropdown-item {
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+    font-weight: 400;
+}
+
+.dropdown-item:hover {
+    background-color: #f8f9fa;
+    color: #34539B;
+}
+
+/* Desktop */
 @media (min-width: 992px) {
     .dot-focus{
         top: 80%;
@@ -41,6 +89,16 @@
         position: absolute;
         display: block;
     }
+    
+    /* Navbar เลื่อนตามจอ - Desktop */
+    .navbar-sticky {
+       
+    }
+    
+    .navbar-sticky .navbar-brand img {
+        transition: all 0.3s ease;
+       
+    }
 }
 
 /* Mobile */
@@ -52,4 +110,60 @@
     .dot-focus-drop-down{
         display: none !important;
     }
+    
+    .navbar .container-fluid {
+        padding-left: 16px !important;
+        padding-right: 16px !important;
+        padding-top: 16px !important;
+        padding-bottom: 16px !important;
+    }
+        
+    .navbar-collapse {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+    /* Navbar เลื่อนตามจอ - Mobile */
+    .navbar-sticky {
+        padding: 8px 0;
+    }
+    
+    .navbar-sticky .navbar-brand img {
+        width: 258px;
+        height: 100px;
+    }
+    
+    /* Dropdown สำหรับ Mobile */
+    .dropdown-menu {
+        border-radius: 0;
+        border: none;
+        box-shadow: none;
+        background-color: #f8f9fa;
+        margin-top: 0;
+        padding: 8px;
+    }
+    
+    .active-dropdown-item {
+        background-color: #34539B !important;
+        color: white !important;
+        margin: 2px 0;
+        border-radius: 6px;
+        padding: 12px 16px !important;
+    }
+    
+    .dropdown-item {
+        padding: 12px 16px;
+        margin: 2px 0;
+        border-radius: 6px;
+    }
+}
+
+/* Animation สำหรับ navbar เมื่อ scroll */
+.navbar-sticky.scrolled {
+    padding: 8px 0;
+    background-color: rgba(248, 249, 250, 0.98) !important;
+}
+
+.navbar-sticky.scrolled .navbar-brand img {
+    height: 35px;
 }

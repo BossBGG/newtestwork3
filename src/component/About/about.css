@@ -1,0 +1,59 @@
+/* about.css */
+
+.about-section {
+  width: 100%;
+}
+
+/* Desktop View */
+.about-desktop-image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+/* Mobile View */
+.about-mobile {
+  position: relative;
+  width: 100%;
+  min-height: auto; /* เปลี่ยนจาก 100vh เป็น auto */
+  overflow: hidden;
+}
+
+.about-mobile-background {
+  position: relative;
+  width: 100%;
+  height: auto; /* เปลี่ยนเป็น auto */
+}
+
+.about-mobile-bg-image {
+  width: 100%;
+  height: auto; /* เปลี่ยนจาก 100vh เป็น auto */
+  object-fit: contain; /* เปลี่ยนจาก cover เป็น contain เพื่อไม่ให้ถูกบีด */
+  object-position: top center; /* เปลี่ยนเป็น top center */
+  max-width: 100%;
+  display: block;
+}
+
+/* Ensure proper aspect ratio for mobile background */
+@media (max-width: 991.98px) {
+  .about-mobile-bg-image {
+    min-height: auto; /* เปลี่ยนจาก 100vh เป็น auto */
+    height: auto; /* เพิ่ม height auto */
+  }
+}
+
+@media (max-width: 767.98px) {
+  .about-mobile-bg-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-mobile-bg-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+  }
+}
