@@ -50,13 +50,15 @@ const MainApp = () => {
             
             {/* เรียกใช้ Blog Component แทน ContentCard */}
             <Blog />
-            <Recommend/>
             
+            <Recommend/>
             <About />
             <FromCustomer/>
             <ContactUs/>
             <Footer/>
         </Container>
+
+        
     )
 }
 

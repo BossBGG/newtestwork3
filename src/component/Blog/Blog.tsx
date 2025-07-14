@@ -204,7 +204,7 @@ const BlogCategory: React.FC<{ content: ContentData; index: number }> = ({ conte
         <Row className="video-section">
           <Col xs={12}>
             <div className="video-header">
-              <Image src={YTIcon} width={40} height={40} className="me-2" />
+              <Image src={YTIcon} width={60} height={60} className="me-2" />
               <span className="video-label">ล่าสุด</span>
             </div>
             <VideoCarousel videos={videos} />
