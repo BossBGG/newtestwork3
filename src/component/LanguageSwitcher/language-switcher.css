@@ -1,0 +1,134 @@
+/* src/component/LanguageSwitcher/language-switcher.css */
+
+.language-switcher {
+  position: relative;
+}
+
+.language-toggle {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border: 1px solid #34539B;
+  background: white;
+  color: #34539B;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  min-width: 120px;
+  justify-content: space-between;
+}
+
+.language-toggle:hover {
+  background: #34539B;
+  color: white;
+  border-color: #34539B;
+}
+
+.language-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(52, 83, 155, 0.25);
+  border-color: #34539B;
+}
+
+.language-toggle .flag {
+  font-size: 16px;
+}
+
+.language-toggle .lang-name {
+  flex: 1;
+  text-align: left;
+}
+
+.language-toggle .dropdown-arrow {
+  font-size: 10px;
+  transition: transform 0.3s ease;
+}
+
+.language-switcher.show .language-toggle .dropdown-arrow {
+  transform: rotate(180deg);
+}
+
+.language-menu {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  padding: 4px 0;
+  min-width: 180px;
+  margin-top: 4px;
+}
+
+.language-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: none;
+  background: none;
+}
+
+.language-item:hover:not(.disabled) {
+  background: #f8f9fa;
+  color: #34539B;
+}
+
+.language-item.active {
+  background: #34539B;
+  color: white;
+}
+
+.language-item.active:hover {
+  background: #2d4485;
+}
+
+.language-item.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.language-item .flag {
+  font-size: 16px;
+}
+
+.language-item .lang-name {
+  flex: 1;
+  font-weight: 500;
+}
+
+.language-item .coming-soon {
+  font-size: 11px;
+  color: #888;
+  font-style: italic;
+}
+
+.language-item .current-indicator {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.language-item.active .current-indicator {
+  color: white;
+}
+
+/* Mobile responsive */
+@media (max-width: 767.98px) {
+  .language-toggle {
+    min-width: 100px;
+    padding: 6px 10px;
+    font-size: 13px;
+  }
+  
+  .language-menu {
+    min-width: 160px;
+  }
+  
+  .language-item {
+    padding: 8px 12px;
+  }
+  
+  .language-item .coming-soon {
+    font-size: 10px;
+  }
+}

@@ -1,3 +1,4 @@
+// src/component/NavBar/NavBar.tsx
 import { Image, Navbar, NavDropdown, Container, Nav} from "react-bootstrap";
 import Logo from "../../assets/images/nav-logo.svg"
 import ContactBtn from "../../assets/images/contact-btn.svg"
@@ -7,10 +8,14 @@ import {useLocation} from "react-router";
 import {useEffect, useState} from "react";
 import {ContentItems} from "../../data/ContentData.tsx";
 import {ArticleItems} from "../../data/ArticleData.tsx";
+import { useLanguage } from '../../i18n/config';
+import LanguageSwitcher from '../LanguageSwitcher/LanguageSwitcher';
 
 const NavBarElement = () => {
     const [selectState, setSelectState] = useState(0)
     const location = useLocation()
+    const { t } = useLanguage();
+    
     console.log(location.pathname,location.pathname.includes('/content'))
     const isContent = location.pathname.includes('/content')
     const isArticle = location.pathname.includes('/article')
@@ -79,13 +84,13 @@ const NavBarElement = () => {
                       onClick={() => setSelectState(0)}
                   >
                       <div className={"position-relative" + (isMain ? ' selected-text' : '')}>
-                          หน้าหลัก
+                          {t('navbar.home')}
                           {isMain && <Image className={"dot-focus"} src={DotSelect} width={10} height={10}/>}
                       </div>
                   </Nav.Link>
                   
                   <div className={"position-relative align-self-center "}>
-                      <NavDropdown title="กระดูกและข้อ" id="basic-nav-dropdown text-black"
+                      <NavDropdown title={t('navbar.bone_joint')} id="basic-nav-dropdown text-black"
                                    className={"" + (isContent ? ' selected-text' : '')}>
                           {
                               ContentItems.map((item, index) => {
@@ -104,7 +109,7 @@ const NavBarElement = () => {
                   </div>
                   
                   <div className={"position-relative align-self-center "}>
-                      <NavDropdown title="ความรู้สุขภาพ" id="basic-nav-dropdown text-black"
+                      <NavDropdown title={t('navbar.health_knowledge')} id="basic-nav-dropdown text-black"
                                    className={"align-self-center " + (isArticle ? ' selected-text' : '')}>
                           {
                               ArticleItems.map((item, index) => {
@@ -122,7 +127,7 @@ const NavBarElement = () => {
                   </div>
                   
                   <div className={"position-relative align-self-center "}>
-                      <NavDropdown title="Video" id="basic-nav-dropdown text-black"
+                      <NavDropdown title={t('navbar.video')} id="basic-nav-dropdown text-black"
                                    className={"align-self-center " + (isVideo ? ' selected-text' : '')}>
                           {
                               ContentItems.map((item, index) => {
@@ -145,15 +150,25 @@ const NavBarElement = () => {
                       onClick={() => setSelectState(2)}
                   >
                       <div className={"position-relative " + ((isContact || isAbout) ? ' selected-text' : '')}>
-                      รู้จักหมอเก่ง
+                      {t('navbar.about_doctor')}
                       {(isContact || isAbout) && <Image className={'dot-focus'} src={DotSelect} width={10} height={10}/>}
                       </div>
                   </Nav.Link>
                   
-                  <Nav.Link href="https://lin.ee/EgSMgUU9" target={"_blank"} className={"ms-5"}>
+                  {/* Language Switcher */}
+                  <div className="d-none d-lg-block ms-3">
+                      <LanguageSwitcher />
+                  </div>
+                  
+                  <Nav.Link href="https://lin.ee/EgSMgUU9" target={"_blank"} className={"ms-3"}>
                       <Image src={ContactBtn} fluid={true}/>
                   </Nav.Link>
               </Nav>
+              
+              {/* Mobile Language Switcher */}
+              <div className="d-lg-none mt-2">
+                  <LanguageSwitcher />
+              </div>
           </Navbar.Collapse>
       </Container>
   </Navbar>

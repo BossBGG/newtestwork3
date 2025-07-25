@@ -1,85 +1,341 @@
-/* banner.css */
+/* src/component/Banner/banner.css */
+
+.banner-section {
+    width: 100%;
+    position: relative;
+}
 
 /* Desktop Banner */
-.banner-slider {
-    height: 600px;
+.banner-desktop {
     width: 100%;
-    object-fit: cover;
-     
+    height: 450px;
+    background-image: url('../../assets/images/background-banner-web.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
 }
 
-/* Mobile Banner */
-.banner-slider-mobile {
-    height: auto;
-    width: 100%;
-    object-fit: cover;
-    min-height: 400px;
+.banner-container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
 }
 
-.banner-header {
+.banner-content {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100%;
+    z-index: 2;
+    position: relative;
+}
+
+.banner-text {
+    padding: 8px;
+    padding-left: 64px;
+    max-width: 500px;
     color: white;
-    font-size: x-large;
+    text-align: left;
 }
 
-.banner-detail {
-    color: white;
-    font-size: xx-large;
-    font-weight: bolder;
-    margin-bottom: 10px;
+.banner-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 4px;
+    line-height: 1.2;
 }
 
-.banner-detail2 {
-    color: white;
-    font-size: x-large;
-    font-weight: bold;
-    margin-bottom: 10px;
+.banner-subtitle {
+    font-size: 2.8rem;
+    font-weight: 900;
+    margin-bottom: 20px;
+    line-height: 1.1;
 }
 
 .banner-divider {
-    background-color: white;
     width: 100%;
-    height: 1px;
-    margin-bottom: 10px;
+    height: 2px;
+    background: white;
+    margin: 20px 0;
 }
 
-.banner-detail3 {
-    color: white;
-    font-size: large;
-    margin-bottom: 10px;
+.banner-doctor {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 15px;
 }
 
-.banner-left {
-    align-content: center;
-    background-color: #4162A8;
-    text-align: left;
-    padding-bottom: 10em;
+.banner-description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    opacity: 0.95;
 }
 
-.line-btn {
-    background-color: #38B52D !important;
-    width: fit-content !important;
-    border-radius: 24px !important;
+.btn-icon {
+    font-size: 1.2rem;
 }
 
-/* Mobile Responsive */
-@media (max-width: 767.98px) {
-    .banner-slider-mobile {
-        min-height: 300px;
-        height: auto;
+.banner-image {
+    height: 100%;
+    position: relative;
+}
+
+
+.banner-buttons {
+    display: flex !important;
+    flex-direction: row !important;
+    gap: 20px !important;
+    align-items: center !important;
+    justify-content: flex-start !important;
+    flex-wrap: nowrap !important;
+    width: auto !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Reset Bootstrap Nav.Link styles */
+.banner-buttons .nav-link {
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    background: none !important;
+    display: block !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.banner-buttons .nav-link img {
+    height: 35px !important;
+    width: auto !important;
+    max-width: none !important;
+    object-fit: contain !important;
+    transition: transform 0.3s ease !important;
+    display: block !important;
+}
+
+.banner-buttons .nav-link:hover img {
+    transform: scale(1.05) !important;
+}
+
+
+.banner-buttons .contact-btn {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    outline: none !important;
+    box-shadow: none !important;
+    display: block !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.banner-buttons .contact-btn img {
+    height: 37px !important;
+    width: auto !important;
+    max-width: none !important;
+    object-fit: contain !important;
+    transition: transform 0.3s ease !important;
+    display: block !important;
+}
+
+.banner-buttons .contact-btn:hover img {
+    transform: scale(1.05) !important;
+}
+
+/* Remove Bootstrap Row/Col interference */
+.banner-buttons .row,
+.banner-buttons .col,
+.banner-buttons .col-auto {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: auto !important;
+    flex: none !important;
+}
+
+
+
+/* Mobile Buttons */
+.banner-buttons-mobile {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 16px !important;
+    align-items: start !important;
+    justify-content: center !important;
+    width: 100% !important;
+}
+
+.banner-buttons-mobile .nav-link {
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+    background: none !important;
+    display: block !important;
+    width: auto !important;
+}
+
+.banner-buttons-mobile .nav-link img {
+    height: 25px !important;
+    width: auto !important;
+    max-width: none !important;
+    object-fit: contain !important;
+}
+
+.banner-buttons-mobile .contact-btn {
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    outline: none !important;
+    box-shadow: none !important;
+    display: block !important;
+    width: auto !important;
+}
+
+.banner-buttons-mobile .contact-btn img {
+    height: 25px !important;
+    width: auto !important;
+    max-width: none !important;
+    object-fit: contain !important;
+}
+
+/* Responsive Adjustments */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .banner-buttons .nav-link img,
+    .banner-buttons .contact-btn img {
+        height: 65px !important;
     }
 }
 
 @media (max-width: 480px) {
-    .banner-slider-mobile {
-        min-height: 250px;
-        height: auto;
-        
+    .banner-buttons-mobile .nav-link img,
+    .banner-buttons-mobile .contact-btn img {
+        height: 55px !important;
     }
 }
 
-/* Tablet responsive */
+/* Mobile Banner */
+.banner-mobile {
+    width: 100%;
+    min-height: 500px;
+    background-image: url('../../assets/images/background-banner-mobile.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.banner-container-mobile {
+    min-height: 500px;
+    display: flex;
+    align-items: center;
+    padding: 8px ;
+}
+
+.banner-content-mobile {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100%;
+    z-index: 2;
+    position: relative;
+}
+
+.banner-text-mobile {
+    max-width: 100%;
+    color: #34539B;
+    text-align: left;
+    padding: 20px;
+}
+
+.banner-title-mobile {
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-top: 80px;
+    margin-bottom: 24px;
+    line-height: 1.2;
+}
+
+.banner-subtitle-mobile {
+    font-size: 2rem;
+    font-weight: 900;
+    margin-bottom: 20px;
+    line-height: 1.1;
+}
+
+.banner-doctor-mobile {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.banner-description-mobile {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 25px;
+    opacity: 0.95;
+}
+
+
+/* Responsive adjustments */
 @media (min-width: 768px) and (max-width: 991.98px) {
-    .banner-slider {
+    .banner-desktop {
         height: 500px;
+    }
+    
+    .banner-title {
+        font-size: 2rem;
+    }
+    
+    .banner-subtitle {
+        font-size: 2.2rem;
+    }
+    
+    .banner-doctor {
+        font-size: 1.5rem;
+    }
+    
+    .banner-description {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .banner-mobile {
+        min-height: 450px;
+    }
+    
+    .banner-container-mobile {
+        padding: 30px 15px;
+    }
+    
+    .banner-text-mobile {
+        padding: 15px;
+    }
+    
+    .banner-title-mobile {
+        font-size: 1.5rem;
+    }
+    
+    .banner-subtitle-mobile {
+        font-size: 1.7rem;
+    }
+    
+    .banner-doctor-mobile {
+        font-size: 1.1rem;
+    }
+    
+    .banner-description-mobile {
+        font-size: 0.9rem;
+    }
+    
+    .consultation-btn-mobile,
+    .appointment-btn-mobile {
+        padding: 8px 16px;
+        font-size: 0.85rem;
     }
 }

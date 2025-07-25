@@ -1,3 +1,4 @@
+// src/main.tsx
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import MainApp from "./page/MainPage.tsx";
@@ -8,19 +9,22 @@ import 'react-slideshow-image/dist/styles.css';
 import ContentPage from "./page/Content/ContentPage.tsx";
 import VideoPage from "./component/Video/VideoPage.tsx";
 import NavBarElement from "./component/NavBar/NavBar.tsx";
+import { LanguageProvider } from './i18n/config';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename={import.meta.env.VITE_BASE_PATH}>
-          <NavBarElement/>
-          <Routes>
-              <Route path="/" element={<MainApp />} />
-              <Route path="/video/:page" element={<VideoPage />} />
-              <Route path="/content/:page" element={<ContentPage />} />
-              <Route path="/content/:page/:sub" element={<ContentPage />} />
-              <Route path="/article/:page" element={<ContentPage />} />
-              <Route path="/article/:page/:sub" element={<ContentPage />} />
-          </Routes>
-      </BrowserRouter>
+    <LanguageProvider>
+      <BrowserRouter basename={import.meta.env.VITE_BASE_PATH}>
+            <NavBarElement/>
+            <Routes>
+                <Route path="/" element={<MainApp />} />
+                <Route path="/video/:page" element={<VideoPage />} />
+                <Route path="/content/:page" element={<ContentPage />} />
+                <Route path="/content/:page/:sub" element={<ContentPage />} />
+                <Route path="/article/:page" element={<ContentPage />} />
+                <Route path="/article/:page/:sub" element={<ContentPage />} />
+            </Routes>
+        </BrowserRouter>
+    </LanguageProvider>
   </StrictMode>,
 )

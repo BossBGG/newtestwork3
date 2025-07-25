@@ -1,0 +1,18 @@
+{
+  "banner": {
+    "title": "What to do?",
+    "subtitle": "For back pain\nNeck pain, shoulder pain\nWithout surgery",
+    "doctor_name": "Dr. Keng Assoc. Prof. Dr. Taninnit Leerapun",
+    "description": "Specialist in bone and joint diseases. Treats back pain without surgery. Feel free to consult with us here",
+    "consultation_button": "Consult here",
+    "appointment_button": "Book appointment 7 days in advance"
+  },
+  "navbar": {
+    "home": "Home",
+    "bone_joint": "Bone & Joint",
+    "health_knowledge": "Health Knowledge",
+    "video": "Video",
+    "about_doctor": "About Dr. Keng",
+    "consultation": "Consultation/Appointment"
+  }
+}

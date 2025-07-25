@@ -1,0 +1,277 @@
+/* src/component/Buttons/buttons.css */
+
+/* LINE Button Styles */
+.line-button-link {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.line-button {
+  background: #38B52D;
+  border: none;
+  border-radius: 25px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(56, 181, 45, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.line-button:hover {
+  background: #2ea025;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(56, 181, 45, 0.4);
+}
+
+.line-button:active {
+  transform: translateY(0);
+}
+
+.line-button-content {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  color: white;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.line-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+}
+
+.line-button-text {
+  font-size: 14px;
+  line-height: 1;
+}
+
+/* LINE Button Sizes */
+.line-btn-small .line-button-content {
+  padding: 8px 16px;
+  gap: 6px;
+}
+
+.line-btn-small .line-button-text {
+  font-size: 12px;
+}
+
+.line-btn-small .line-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.line-btn-medium .line-button-content {
+  padding: 12px 20px;
+  gap: 8px;
+}
+
+.line-btn-medium .line-button-text {
+  font-size: 14px;
+}
+
+.line-btn-medium .line-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.line-btn-large .line-button-content {
+  padding: 16px 28px;
+  gap: 10px;
+}
+
+.line-btn-large .line-button-text {
+  font-size: 16px;
+}
+
+.line-btn-large .line-icon {
+  width: 24px;
+  height: 24px;
+}
+
+/* Appointment Button Styles */
+.appointment-button-link {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.appointment-button {
+  background: #4162A8;
+  border: none;
+  border-radius: 25px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(65, 98, 168, 0.3);
+  position: relative;
+  overflow: hidden;
+}
+
+.appointment-button:hover {
+  background: #2d4485;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(65, 98, 168, 0.4);
+}
+
+.appointment-button:active {
+  transform: translateY(0);
+}
+
+.appointment-button-content {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 20px;
+  color: white;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.appointment-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+}
+
+.appointment-button-text {
+  font-size: 14px;
+  line-height: 1;
+}
+
+/* Appointment Button Sizes */
+.appointment-btn-small .appointment-button-content {
+  padding: 8px 16px;
+  gap: 6px;
+}
+
+.appointment-btn-small .appointment-button-text {
+  font-size: 12px;
+}
+
+.appointment-btn-small .appointment-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.appointment-btn-medium .appointment-button-content {
+  padding: 12px 20px;
+  gap: 8px;
+}
+
+.appointment-btn-medium .appointment-button-text {
+  font-size: 14px;
+}
+
+.appointment-btn-medium .appointment-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.appointment-btn-large .appointment-button-content {
+  padding: 16px 28px;
+  gap: 10px;
+}
+
+.appointment-btn-large .appointment-button-text {
+  font-size: 16px;
+}
+
+.appointment-btn-large .appointment-icon {
+  width: 24px;
+  height: 24px;
+}
+
+/* Responsive Design */
+@media (max-width: 991.98px) {
+  .line-btn-medium .line-button-content,
+  .appointment-btn-medium .appointment-button-content {
+    padding: 10px 18px;
+  }
+  
+  .line-btn-medium .line-button-text,
+  .appointment-btn-medium .appointment-button-text {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .line-btn-medium .line-button-content,
+  .appointment-btn-medium .appointment-button-content {
+    padding: 8px 16px;
+  }
+  
+  .line-btn-medium .line-button-text,
+  .appointment-btn-medium .appointment-button-text {
+    font-size: 12px;
+  }
+  
+  .line-btn-medium .line-icon,
+  .appointment-btn-medium .appointment-icon {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+@media (max-width: 480px) {
+  .line-btn-medium .line-button-content,
+  .appointment-btn-medium .appointment-button-content {
+    padding: 8px 14px;
+  }
+  
+  .line-btn-medium .line-button-text,
+  .appointment-btn-medium .appointment-button-text {
+    font-size: 11px;
+  }
+  
+  .line-btn-medium .line-icon,
+  .appointment-btn-medium .appointment-icon {
+    width: 16px;
+    height: 16px;
+  }
+}
+
+
+
+/* Animation Effects */
+@keyframes pulse {
+  0% {
+    box-shadow: 0 2px 8px rgba(56, 181, 45, 0.3);
+  }
+  50% {
+    box-shadow: 0 4px 16px rgba(56, 181, 45, 0.5);
+  }
+  100% {
+    box-shadow: 0 2px 8px rgba(56, 181, 45, 0.3);
+  }
+}
+
+@keyframes pulseBlue {
+  0% {
+    box-shadow: 0 2px 8px rgba(65, 98, 168, 0.3);
+  }
+  50% {
+    box-shadow: 0 4px 16px rgba(65, 98, 168, 0.5);
+  }
+  100% {
+    box-shadow: 0 2px 8px rgba(65, 98, 168, 0.3);
+  }
+}
+
+.line-button:focus {
+  animation: pulse 1.5s infinite;
+}
+
+.appointment-button:focus {
+  animation: pulseBlue 1.5s infinite;
+}
