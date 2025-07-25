@@ -36,7 +36,8 @@ const ContentPage = () => {
     console.log(subContent);
     return (
         <Container className={'App pb-0 mb-0'}>
-            {subContent && <Row><div className={'p-5 text-start'} dangerouslySetInnerHTML={{__html: subContent.detail}}></div></Row>}
+            {/* เปลี่ยนจาก p-5 เป็น px-5 py-2 หรือ py-3 */}
+            {subContent && <Row><div className={'px-5 py-2 text-start'} dangerouslySetInnerHTML={{__html: subContent.detail}}></div></Row>}
             {/*{subContent && <Row>{subContent.detail}</Row>}*/}
             {!subContent && <Row className={'p-3 p-md-0 category-row'}>
                 <Col xs={12} md={content?.detail ? 3 : 6} className={'text-center mb-3 mb-md-0'}>
