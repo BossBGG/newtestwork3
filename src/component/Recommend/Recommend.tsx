@@ -2,53 +2,46 @@ import React, { useState } from 'react';
 import { Container, Row, Col} from 'react-bootstrap';
 import Slider from 'react-slick';
 import RecommendCard from './RecommendCard.tsx';
+import { useLanguage } from '../../i18n/config';
 import './recommend.css';
 
 interface VideoItem {
   url: string;
-  title: string;
+  videoKey: string; 
   thumbnail: string;
-  
-  
 }
 
-// ข้อมูลวิดีโอแนะนำ
+// ข้อมูลวิดีโอแนะนำ - เก็บเฉพาะ URL, videoKey และ thumbnail
 const recommendedVideos: VideoItem[] = [
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'มะเร็งตับ อุลตราซาวน์ที่กระดูกได้อย่างไร?',
+    videoKey: 'video1',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'ก้ามเส้นขยองการเกิดกระดูกกิ๊กจากลอกระดูก ฟรุมหรือไม่',
+    videoKey: 'video2',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'โรคข้อศอก สาเหตุกิตกอกอะไร?',
+    videoKey: 'video3',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'การรักษาข้อเข่าอักเสบด้วยวิธีธรรมชาติ',
+    videoKey: 'video4',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'เทคนิคการออกกำลังกายที่ถูกต้อง',
+    videoKey: 'video5',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'วิธีการป้องกันอาการปวดหลัง',
+    videoKey: 'video6',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   }
 ];
 
@@ -56,33 +49,28 @@ const recommendedVideos: VideoItem[] = [
 const popularVideos: VideoItem[] = [
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'วิธีรักษาข้อเข่าเสื่อมได้ผลจริง',
+    videoKey: 'video1',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'การออกกำลังกายสำหรับผู้สูงอายุ',
+    videoKey: 'video2',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'โรคกระดูกพรุนป้องกันอย่างไร',
+    videoKey: 'video3',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'เทคนิคการนวดบรรเทาอาการปวด',
+    videoKey: 'video4',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   },
   {
     url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-    title: 'การใช้ยาแก้ปวดอย่างปลอดภัย',
+    videoKey: 'video5',
     thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg',
-    
   }
 ];
 
@@ -109,7 +97,12 @@ const SamplePrevArrow = (props: any) => {
   );
 };
 
-const VideoCarousel: React.FC<{ videos: VideoItem[] }> = ({ videos }) => {
+const VideoCarousel: React.FC<{ 
+  videos: VideoItem[], 
+  tabType: 'recommended' | 'popular' 
+}> = ({ videos, tabType }) => {
+  const { t } = useLanguage();
+  
   const settings = {
     infinite: false,
     speed: 300,
@@ -142,50 +135,60 @@ const VideoCarousel: React.FC<{ videos: VideoItem[] }> = ({ videos }) => {
   return (
     <div className="recommend-carousel-container">
       <Slider {...settings}>
-        {videos.map((video, index) => (
-          <RecommendCard 
-            key={index} 
-            video={video}
-          />
-        ))}
+        {videos.map((video, index) => {
+       
+          const videoTitle = t(`recommend.videos.${tabType}.${video.videoKey}`);
+          
+        
+          const translatedVideo = {
+            url: video.url,
+            title: videoTitle,
+            thumbnail: video.thumbnail
+          };
+          
+          return (
+            <RecommendCard 
+              key={index} 
+              video={translatedVideo}
+            />
+          );
+        })}
       </Slider>
     </div>
   );
 };
 
 const Recommend: React.FC = () => {
+  const { t } = useLanguage();
   const [activeTab, setActiveTab] = useState<'recommended' | 'popular'>('recommended');
 
   const currentVideos = activeTab === 'recommended' ? recommendedVideos : popularVideos;
 
   return (
     <div className="recommend-section">
-
-      <h1 className="recommend-title">video อื่นๆ ที่น่าสนใจ</h1>
+      <h1 className="recommend-title">{t('recommend.title')}</h1>
 
       <Container className="recommend-container">
         <Row>
           <Col xs={12}>
             <div className="recommend-header">
-              
-              
               <div className="recommend-tabs">
                 <button 
                   className={`recommend-tab ${activeTab === 'recommended' ? 'active' : ''}`}
                   onClick={() => setActiveTab('recommended')}
                 >
-                  แนะนำ
+                  {t('recommend.tabs.recommended')}
                 </button>
                 <button 
                   className={`recommend-tab ${activeTab === 'popular' ? 'active' : ''}`}
                   onClick={() => setActiveTab('popular')}
                 >
-                  ยอดนิยม
+                  {t('recommend.tabs.popular')}
                 </button>
               </div>
             </div>
 
-            <VideoCarousel videos={currentVideos} />
+            <VideoCarousel videos={currentVideos} tabType={activeTab} />
           </Col>
         </Row>
       </Container>

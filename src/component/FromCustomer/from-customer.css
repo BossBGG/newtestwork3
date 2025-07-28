@@ -1,32 +1,96 @@
+/* src/component/FromCustomer/from-customer.css */
 
-
-.content{
+.content {
     color: #34539B;
     background-image: url("../../assets/images/from-customer/bg.svg");
     padding-bottom: 30px;
 
-    h2{
+    h2 {
         font-weight: bolder;
         margin-top: 30px;
     }
-    h1{
+
+    h1 {
         font-weight: bolder;
         margin-bottom: 10px;
     }
-    text{
 
+
+    .slider-container {
+        height: 305px !important; 
+      
+        border-radius: 1rem;
     }
 
-    .video-player{
-        width: 100%;
-        height: 100%;
-    }
-    .slider{
-        height: 200px !important;
+    /* Slick slider ให้เต็ม container */
+    .slider-container .slick-slider {
+        height: 100% !important;
     }
 
-    .content-text{
+    .slider-container .slick-list {
+        height: 100% !important;
+    }
+
+    .slider-container .slick-track {
+        height: 100% !important;
+    }
+
+    
+    .slider-container .slick-slide > div {
+        height: 100% !important;
+    }
+
+    .content-text {
         text-align: start;
     }
+}
 
+/* Responsive สำหรับหน้าจอเล็ก */
+@media (max-width: 991.98px) {
+    .content {
+        .video-player {
+            height: 300px; /* ลดขนาดสำหรับ tablet */
+        }
+
+        .slider-container {
+            height: 300px !important;
+        }
+
+        .slider-container .slick-slide {
+            height: 300px !important;
+        }
+    }
+}
+
+@media (max-width: 767.98px) {
+    .content {
+        .video-player {
+            height: 250px; /* ลดขนาดสำหรับ mobile */
+            margin-bottom: 20px;
+        }
+
+        .slider-container {
+            height: 250px !important;
+        }
+
+        .slider-container .slick-slide {
+            height: 250px !important;
+        }
+    }
+}
+
+@media (max-width: 480px) {
+    .content {
+        .video-player {
+            height: 200px; /* ลดขนาดสำหรับ mobile เล็ก */
+        }
+
+        .slider-container {
+            height: 200px !important;
+        }
+
+        .slider-container .slick-slide {
+            height: 200px !important;
+        }
+    }
 }

@@ -4,84 +4,85 @@ import Slider from 'react-slick';
 import { ContentItems, ContentData } from '../../data/ContentData.tsx';
 import BlogCard from './BlogCard.tsx';
 import YTIcon from '../../assets/images/yt-icon.png';
+import { useLanguage } from '../../i18n/config';
 import './blog.css';
 
-// ข้อมูลคลิป YouTube สำหรับแต่ละหมวดหมู่
-const videosByCategory: { [key: string]: { url: string; title: string; thumbnail: string }[] } = {
+// ข้อมูลคลิป YouTube สำหรับแต่ละหมวดหมู่ (เก็บ URL และ thumbnail ไว้เหมือนเดิม)
+const videosByCategory: { [key: string]: { url: string; videoKey: string; thumbnail: string }[] } = {
   'ปวดไหล่': [
     {
       url: 'https://www.youtube.com/watch?v=04_Znifwy98',
-      title: 'ปวดไหล่ตรวจด้วย Ultrasound สามารถให้การวินิจฉัยได้ถึงรายละเอียด',
+      videoKey: 'video1',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'การบริหารไหล่เพื่อลดอาการปวด',
+      videoKey: 'video2',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'สาเหตุของอาการปวดไหล่ที่คุณควรรู้',
+      videoKey: 'video3',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'เทคนิคการนวดไหล่ที่ถูกต้อง',
+      videoKey: 'video4',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'ท่าออกกำลังกายสำหรับคนปวดไหล่',
+      videoKey: 'video5',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'วิธีป้องกันอาการปวดไหล่',
+      videoKey: 'video6',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'การรักษาปวดไหล่ด้วยคลื่นเสียง',
+      videoKey: 'video7',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'โรคไหล่แข็งและการรักษา',
+      videoKey: 'video8',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     }
   ],
   'ปวดหลัง': [
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'การรักษาอาการปวดหลังส่วนล่าง',
+      videoKey: 'video1',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'ท่านั่งที่ถูกต้องเพื่อป้องกันปวดหลัง',
+      videoKey: 'video2',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'การออกกำลังกายสำหรับคนปวดหลัง',
+      videoKey: 'video3',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'สาเหตุของการปวดหลังและวิธีป้องกัน',
+      videoKey: 'video4',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'เทคนิคการนอนที่ไม่ทำให้ปวดหลัง',
+      videoKey: 'video5',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     },
     {
       url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
-      title: 'การยกของที่ถูกต้องเพื่อป้องกันปวดหลัง',
+      videoKey: 'video6',
       thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
     }
-  ],
+  ]
   
   // เพิ่มข้อมูลสำหรับหมวดหมู่อื่นๆ ตามต้องการ
 };
@@ -109,7 +110,12 @@ const SamplePrevArrow = (props: any) => {
   );
 };
 
-const VideoCarousel: React.FC<{ videos: { url: string; title: string; thumbnail: string }[] }> = ({ videos }) => {
+const VideoCarousel: React.FC<{ 
+  videos: { url: string; videoKey: string; thumbnail: string }[], 
+  categoryKey: string 
+}> = ({ videos, categoryKey }) => {
+  const { t } = useLanguage();
+  
   const settings = {
     infinite: false,
     speed: 300,
@@ -158,21 +164,31 @@ const VideoCarousel: React.FC<{ videos: { url: string; title: string; thumbnail:
   return (
     <div className="video-carousel-container">
       <Slider {...settings}>
-        {videos.map((video, index) => (
-          <BlogCard 
-            key={index} 
-            videoUrl={video.url}
-            title={video.title}
-            thumbnail={video.thumbnail}
-          />
-        ))}
+        {videos.map((video, index) => {
+          // ดึง title จาก translation
+          const videoTitle = t(`blog.videos.${categoryKey}.${video.videoKey}`);
+          
+          return (
+            <BlogCard 
+              key={index} 
+              videoUrl={video.url}
+              title={videoTitle}
+              thumbnail={video.thumbnail}
+            />
+          );
+        })}
       </Slider>
     </div>
   );
 };
 
 const BlogCategory: React.FC<{ content: ContentData; index: number }> = ({ content, index }) => {
+  const { t } = useLanguage();
   const videos = videosByCategory[content.title] || [];
+  
+  // แก้ไขวิธีการดึงข้อมูลหมวดหมู่จาก translation
+  const categoryTitle = t(`blog.categories.${content.title}.title`) || content.title;
+  const categoryDetail = t(`blog.categories.${content.title}.detail`) || content.detail;
   
   return (
     <Container className="blog-category-container" id={`category-${index}`}>
@@ -182,8 +198,8 @@ const BlogCategory: React.FC<{ content: ContentData; index: number }> = ({ conte
           <Image src={content.image} width={200} fluid className="category-image" />
         </Col>
         <Col xs={12} md={9} className="text-center text-md-start mb-3 mb-md-0">
-          <h1 className="category-title">{content.title}</h1>
-          <p className="category-detail " style={{ marginTop: '8px'}} >{content.detail}</p>
+          <h1 className="category-title">{categoryTitle}</h1>
+          <p className="category-detail" style={{ marginTop: '8px'}}>{categoryDetail}</p>
         </Col>
       </Row>
 
@@ -193,10 +209,10 @@ const BlogCategory: React.FC<{ content: ContentData; index: number }> = ({ conte
           <Image src={content.image} width={120} fluid className="category-image" />
         </Col>
         <Col xs={8} className="text-start d-flex flex-column justify-content-center">
-          <h1 className="category-title">{content.title}</h1>
+          <h1 className="category-title">{categoryTitle}</h1>
         </Col>
         <Col xs={12} className="mt-3">
-          <p className="category-detail">{content.detail}</p>
+          <p className="category-detail">{categoryDetail}</p>
         </Col>
       </Row>
 
@@ -205,18 +221,15 @@ const BlogCategory: React.FC<{ content: ContentData; index: number }> = ({ conte
           <Col xs={12}>
             <div className="video-header">
               <Image src={YTIcon} width={60} height={60} className="me-2" />
-              <span className="video-label">ล่าสุด</span>
+              <span className="video-label">{t('blog.latest')}</span>
             </div>
-            <VideoCarousel videos={videos} />
+            <VideoCarousel videos={videos} categoryKey={content.title} />
           </Col>
         </Row>
       )}
-
-      
     </Container>
   );
 };
-
 
 const Blog: React.FC = () => {
   return (

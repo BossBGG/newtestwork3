@@ -1,5 +1,13 @@
 // src/i18n/config.tsx
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
+import { bannerTranslations } from './translations/banner';
+import { aboutTranslations } from './translations/about';
+import { navbarTranslations } from './translations/navbar';
+import { blogTranslations } from './translations/blog';
+import { recommendTranslations } from './translations/recommend';
+import { fromcustomerTranslations } from './translations/fromcustomer';
+import { socialTranslations } from './translations/social';
+import { contactusTranslations } from './translations/contactus';
 
 export interface Language {
   code: string;
@@ -16,104 +24,39 @@ export const languages: Language[] = [
 
 export const defaultLanguage = 'th';
 
-// Define translations object
-const translations: Record<string, any> = {
-  th: {
-    banner: {
-      title: "ทำอย่างไร ?",
-      subtitle: "หากปวดหลัง\nปวดคอ ปวดไหล่\nไม่อยากผ่าตัด",
-      subtitle_mobile: "หากปวดหลัง\nปวดคอ ปวดไหล่\nไม่อยากผ่าตัด",
-      doctor_name: "หมอเก่ง ผศ.นพ.ธนินนิตย์ ลีรพันธ์",
-      description: "แพทย์ผู้เชี่ยวชาญกระดูกและข้อ รักษาอาการปวดหลังได้ โดยไม่ต้องผ่าตัด เชิญปรึกษาเราได้ที่นี่",
-      consultation_button: "ปรึกษาปัญหาได้ที่นี่",
-      appointment_button: "จองคิวล่วงหน้าได้ใน 7 วัน"
-    },
-    about: {
-      title: "รู้จัก \"หมอเก่ง\"",
-      doctor_name: "ผศ.นพ.ธนินนิตย์ ลีรพันธ์",
-      specialty: "แพทย์ผู้เชี่ยวชาญ โรคกระดูกและข้อ",
-      description: "ปัจจุบันทำงานเป็นอาจารย์ประจำภาควิชาออร์โธปิดิกส์ คณะแพทยศาสตร์ มหาวิทยาลัยเชียงใหม่ มีความเชี่ยวชาญด้านการรักษาโรคกระดูกและข้อที่มีอาการปวดสามารถช่วยเหลือคนไข้ ปวดหลัง ปวดคอ ปวดไหล่ มากกว่า 90% รักษาได้ไม่ผ่าตัด ปวดเป่า การผ่าตัดเปลี่ยนข้อเทียม",
-      experience_label: "ประสบการณ์การรักษา",
-      experience_value: "มากกว่า 20 ปี",
-      patients_label: "รักษาคนไข้ปวดสาเหตุอื่อ ปวดหลัง ปวดคอ",
-      patients_value: "มากกว่า 10,000 คน / ปี",
-      read_more: "อ่านเพิ่มเติม"
-    },
-    navbar: {
-      home: "หน้าหลัก",
-      bone_joint: "กระดูกและข้อ",
-      health_knowledge: "ความรู้สุขภาพ",
-      video: "Video",
-      about_doctor: "รู้จักหมอเก่ง",
-      consultation: "ปรึกษา/นัดหมายได้ที่นี่"
-    }
-  },
-  en: {
-    banner: {
-      title: "What to do?",
-      subtitle: "For back pain\nNeck pain, shoulder pain\nWithout surgery",
-      subtitle_mobile: "Back pain, neck pain\nshoulder pain\nwithout surgery",
-      doctor_name: "Dr. Keng Assoc. Prof. Dr. Taninnit Leerapun",
-      description: "Specialist in bone and joint diseases. Treats back pain without surgery. Feel free to consult with us here",
-      consultation_button: "Consult here",
-      appointment_button: "Make an appointment here"
-    },
-    about: {
-      title: "Meet \"Dr. Keng\"",
-      doctor_name: "Assoc. Prof. Dr. Taninnit Leerapun",
-      specialty: "Specialist in Bone and Joint Diseases",
-      description: "Currently working as a lecturer at the Department of Orthopedics, Faculty of Medicine, Chiang Mai University. Specializes in treating bone and joint diseases with pain symptoms. Can help patients with back pain, neck pain, shoulder pain - more than 90% can be treated without surgery. Specializes in pain management and joint replacement surgery.",
-      experience_label: "Treatment Experience",
-      experience_value: "More than 20 years",
-      patients_label: "Treats patients with various pain conditions, back pain, neck pain",
-      patients_value: "More than 10,000 patients / year",
-      read_more: "Read More"
-    },
-    navbar: {
-      home: "Home",
-      bone_joint: "Bone & Joint",
-      health_knowledge: "Health Knowledge",
-      video: "Video",
-      about_doctor: "About Dr. Keng",
-      consultation: "Consultation/Appointment"
-    }
-  },
-  my: {
-    banner: {
-      title: "ဘာလုပ်ရမလဲ?",
-      subtitle: "ကျောနာခြင်း\nလည်ပင်းနာခြင်း၊ ပခုံးနာခြင်း\nခွဲစိတ်မှုမပြုလုပ်ဘဲ",
-      subtitle_mobile: "ကျောနာခြင်း\nလည်ပင်းနာ၊ပခုံးနာ\nခွဲစိတ်မှုမပြုလုပ်ဘဲ",
-      doctor_name: "ဆရာဝန်ကြီး ပါမောက္ခ ဆရာဝန် သနင်းနစ် လီရပန်",
-      description: "အရိုးနှင့်အဆစ်ရောဂါကုသမှု ကျွမ်းကျင်သူ။ ကျောနာမှုကို ခွဲစိတ်မှုမပြုလုပ်ဘဲ ကုသပေးနိုင်သည်။ ဤနေရာတွင် တိုင်ပင်နိုင်ပါသည်",
-      consultation_button: "ဤနေရာတွင် တိုင်ပင်နိုင်ပါသည်",
-      appointment_button: "ဤနေရာတွင် ချိန်းဆိုနိုင်ပါသည်"
-    },
-    about: {
-      title: "\"ဆရာဝန်ကြီး\" နှင့် မိတ်ဆက်",
-      doctor_name: "ပါမောက္ခ ဆရာဝန် သနင်းနစ် လီရပန်",
-      specialty: "အရိုးနှင့်အဆစ်ရောဂါ ကျွမ်းကျင်သူ",
-      description: "လက်ရှိတွင် ချင်းမိုင်တက္ကသိုလ် ဆေးကျောင်း အရိုးခွဲစိတ်ကုသရေးဌာန၌ တွေ့ဆုံကုသသော ကထိကအဖြစ် တာဝန်ထမ်းဆောင်နေသည်။ နာကျင်မှုရှိသော အရိုးနှင့်အဆစ်ရောဂါများကုသရာတွင် ကျွမ်းကျင်သည်။ ကျောနာ၊ လည်ပင်းနာ၊ ပခုံးနာ ရှိသော လူနာများ၏ ၉၀% ကျော်ကို ခွဲစိတ်မှုမလုပ်ဘဲ ကုသပေးနိုင်သည်။",
-      experience_label: "ကုသမှုအတွေ့အကြုံ",
-      experience_value: "၂၀ နှစ်ကျော်",
-      patients_label: "နာကျင်မှုအမျိုးမျိုး၊ ကျောနာ၊ လည်ပင်းနာ ကုသမှု",
-      patients_value: "နှစ်စဉ် လူနာ ၁၀,၀၀၀ ကျော်",
-      read_more: "ပိုမိုဖတ်ရှုရန်"
-    },
-    navbar: {
-      home: "မူလစာမျက်နှာ",
-      bone_joint: "အရိုးနှင့်အဆစ်",
-      health_knowledge: "ကျန်းမာရေးအသိပညာ",
-      video: "ဗီဒီယို",
-      about_doctor: "ဆရာဝန်ကြီးအကြောင်း",
-      consultation: "တိုင်ပင်/ချိန်းဆို"
+// Helper function สำหรับการรวม translations จากหลายไฟล์
+const mergeTranslations = (...translationObjects: any[]) => {
+  const merged: Record<string, any> = {};
+  
+  for (const lang of ['th', 'en', 'my']) {
+    merged[lang] = {};
+    
+    for (const translationObj of translationObjects) {
+      if (translationObj[lang]) {
+        Object.assign(merged[lang], translationObj[lang]);
+      }
     }
   }
+  
+  return merged;
 };
+
+// รวม translations จากทุกไฟล์
+const translations = mergeTranslations(
+  bannerTranslations,
+  aboutTranslations,
+  navbarTranslations,
+  blogTranslations,
+  recommendTranslations,
+  fromcustomerTranslations,
+  socialTranslations,
+  contactusTranslations,
+);
 
 interface LanguageContextType {
   currentLanguage: string;
   setLanguage: (lang: string) => void;
-  t: (key: string) => string;
+  t: (key: string, returnType?: 'string' | 'object') => any; // เพิ่ม returnType parameter
 }
 
 // Create context with default values
@@ -128,8 +71,8 @@ export const useLanguage = (): LanguageContextType => {
   return context;
 };
 
-// Safe translation function
-const getTranslation = (language: string, key: string): string => {
+// Safe translation function - แก้ไขให้ทำงานถูกต้อง
+const getTranslation = (language: string, key: string, returnType: 'string' | 'object' = 'string'): any => {
   try {
     // Check if language exists
     if (!translations[language]) {
@@ -151,18 +94,23 @@ const getTranslation = (language: string, key: string): string => {
           if (fallbackValue && typeof fallbackValue === 'object' && fk in fallbackValue) {
             fallbackValue = fallbackValue[fk];
           } else {
-            return key; // Return key if no translation found
+            return returnType === 'object' ? {} : key;
           }
         }
         
-        return typeof fallbackValue === 'string' ? fallbackValue : key;
+        return fallbackValue;
       }
+    }
+    
+    // ถ้าต้องการ object ให้คืนค่า object, ถ้าไม่ใช่ให้คืนค่า string
+    if (returnType === 'object') {
+      return typeof value === 'object' ? value : {};
     }
     
     return typeof value === 'string' ? value : key;
   } catch (error) {
     console.warn(`Translation error for key: ${key}`, error);
-    return key;
+    return returnType === 'object' ? {} : key;
   }
 };
 
@@ -198,8 +146,8 @@ export const LanguageProvider: React.FC<LanguageProviderProps> = ({ children }) 
     }
   };
 
-  const t = (key: string): string => {
-    return getTranslation(currentLanguage, key);
+  const t = (key: string, returnType: 'string' | 'object' = 'string'): any => {
+    return getTranslation(currentLanguage, key, returnType);
   };
 
   // Update document language

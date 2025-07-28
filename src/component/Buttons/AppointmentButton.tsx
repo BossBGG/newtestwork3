@@ -1,6 +1,6 @@
 // src/component/Buttons/AppointmentButton.tsx
 import React from 'react';
-import { Button } from 'react-bootstrap';
+
 import './buttons.css';
 import Calendar from '../../assets/images/calendar-days.png'
 
@@ -30,14 +30,14 @@ const AppointmentButton: React.FC<AppointmentButtonProps> = ({
       rel="noopener noreferrer"
       className={`appointment-button-link ${className}`}
     >
-      <Button className={`appointment-button ${sizeClass}`}>
+      <div className={`appointment-button ${sizeClass}`}>
         <div className="appointment-button-content">
           <div className="appointment-icon">
             <img src={Calendar} alt="" width="20" height="20" />
           </div>
           <span className="appointment-button-text">{text}</span>
         </div>
-      </Button>
+      </div>
     </a>
   );
 };

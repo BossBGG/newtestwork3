@@ -1,6 +1,6 @@
 // src/component/Buttons/LineButton.tsx
 import React from 'react';
-import { Button } from 'react-bootstrap';
+
 import './buttons.css';
 import Line from '../../assets/images/line.png'
 
@@ -30,14 +30,14 @@ const LineButton: React.FC<LineButtonProps> = ({
       rel="noopener noreferrer"
       className={`line-button-link ${className}`}
     >
-      <Button className={`line-button ${sizeClass}`}>
+      <div className={`line-button ${sizeClass}`}>
         <div className="line-button-content">
           <div className="line-icon">
            <img src={Line} alt="" width="28" height="28" />
           </div>
           <span className="line-button-text">{text}</span>
         </div>
-      </Button>
+      </div>
     </a>
   );
 };
