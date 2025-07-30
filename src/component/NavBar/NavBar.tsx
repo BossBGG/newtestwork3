@@ -1,6 +1,6 @@
 // src/component/NavBar/NavBar.tsx
 import { Image, Navbar, NavDropdown, Container, Nav} from "react-bootstrap";
-import Logo from "../../assets/images/nav-logo.svg"
+import Logo from "../../assets/images/logo-banner.png"
 import ContactBtn from "../../assets/images/contact-btn.svg"
 import DotSelect from "../../assets/images/dot-mark.svg"
 import './nav-bar.css'
@@ -10,23 +10,32 @@ import {ContentItems} from "../../data/ContentData.tsx";
 import {ArticleItems} from "../../data/ArticleData.tsx";
 import { useLanguage } from '../../i18n/config';
 import LanguageSwitcher from '../LanguageSwitcher/LanguageSwitcher';
+import LineButton from "../Buttons/LineButton.tsx";
+import { useTranslatedContentData } from '../../utils/ContentDataHelper';
+import { useTranslatedArticleData } from '../../utils/ArticleDataHelper'; 
 
 const NavBarElement = () => {
     const [selectState, setSelectState] = useState(0)
     const location = useLocation()
     const { t } = useLanguage();
+    const { getTranslatedContentItems } = useTranslatedContentData(); 
+    const { getTranslatedArticleItems } = useTranslatedArticleData();
+    
+    // ดึงข้อมูลที่แปลแล้ว
+    const translatedContentItems = getTranslatedContentItems();
+    const translatedArticleItems = getTranslatedArticleItems();
     
     console.log(location.pathname,location.pathname.includes('/content'))
     const isContent = location.pathname.includes('/content')
     const isArticle = location.pathname.includes('/article')
     const isVideo = location.pathname.includes('/video')
     
-    // ปรับปรุงการตรวจสอบ active page สำหรับ dropdown items รองรับ sub-path
+    
     const getCurrentContentPage = () => {
         if (isContent) {
             const pathParts = location.pathname.split('/content/')[1];
             if (pathParts) {
-                // แยกส่วนแรก (title) จาก sub-path
+                
                 const mainTitle = pathParts.split('/')[0];
                 return decodeURIComponent(mainTitle || '');
             }
@@ -38,7 +47,7 @@ const NavBarElement = () => {
         if (isArticle) {
             const pathParts = location.pathname.split('/article/')[1];
             if (pathParts) {
-                // แยกส่วนแรก (title) จาก sub-path
+                
                 const mainTitle = pathParts.split('/')[0];
                 return decodeURIComponent(mainTitle || '');
             }
@@ -50,7 +59,7 @@ const NavBarElement = () => {
         if (isVideo) {
             const pathParts = location.pathname.split('/video/')[1];
             if (pathParts) {
-                // แยกส่วนแรก (title) จาก sub-path
+                
                 const mainTitle = pathParts.split('/')[0];
                 return decodeURIComponent(mainTitle || '');
             }
@@ -74,7 +83,12 @@ const NavBarElement = () => {
 
     return <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary navbar-sticky">
       <Container className="container-fluid">
-          <Navbar.Brand href="/"><Image src={Logo}/></Navbar.Brand>
+          <Navbar.Brand href="/" className="navbar-brand-custom">
+              <div className="brand-container">
+                  <Image src={Logo} className="navbar-logo" />
+                  <span className="navbar-brand-text">{t('navbar.logo_text')}</span>
+              </div>
+          </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
           <Navbar.Collapse id="responsive-navbar-nav">
               <Nav className="me-auto ms-auto">
@@ -93,14 +107,16 @@ const NavBarElement = () => {
                       <NavDropdown title={t('navbar.bone_joint')} id="basic-nav-dropdown text-black"
                                    className={"" + (isContent ? ' selected-text' : '')}>
                           {
-                              ContentItems.map((item, index) => {
-                                  const isActive = getCurrentContentPage() === item.title;
+                              // ใช้ข้อมูลที่แปลแล้ว แต่ยังใช้ original title สำหรับ href
+                              translatedContentItems.map((item, index) => {
+                                  const originalItem = ContentItems[index]; // ดึง original item สำหรับ href
+                                  const isActive = getCurrentContentPage() === originalItem.title;
                                   return <NavDropdown.Item 
-                                                           href={`/content/${item.title}`}
+                                                           href={`/content/${originalItem.title}`} // ใช้ original title
                                                            onClick={() => setSelectState(index)} 
                                                            key={index}
                                                            className={isActive ? 'active-dropdown-item' : ''}
-                                                           >{item.title}</NavDropdown.Item>
+                                                           >{item.title}</NavDropdown.Item> 
                               })
                           }
                       </NavDropdown>
@@ -112,14 +128,16 @@ const NavBarElement = () => {
                       <NavDropdown title={t('navbar.health_knowledge')} id="basic-nav-dropdown text-black"
                                    className={"align-self-center " + (isArticle ? ' selected-text' : '')}>
                           {
-                              ArticleItems.map((item, index) => {
-                                  const isActive = getCurrentArticlePage() === item.title;
+                              
+                              translatedArticleItems.map((item, index) => {
+                                  const originalItem = ArticleItems[index]; // ดึง original item สำหรับ href
+                                  const isActive = getCurrentArticlePage() === originalItem.title;
                                   return <NavDropdown.Item 
-                                                           href={`/article/${item.title}`}
+                                                           href={`/article/${originalItem.title}`} // ใช้ original title
                                                            onClick={() => setSelectState(index)} 
                                                            key={index}
                                                            className={isActive ? 'active-dropdown-item' : ''}
-                                                           >{item.title}</NavDropdown.Item>
+                                                           >{item.title}</NavDropdown.Item> 
                               })
                           }
                       </NavDropdown>
@@ -130,10 +148,12 @@ const NavBarElement = () => {
                       <NavDropdown title={t('navbar.video')} id="basic-nav-dropdown text-black"
                                    className={"align-self-center " + (isVideo ? ' selected-text' : '')}>
                           {
-                              ContentItems.map((item, index) => {
-                                  const isActive = getCurrentVideoPage() === item.title;
+                             
+                              translatedContentItems.map((item, index) => {
+                                  const originalItem = ContentItems[index]; 
+                                  const isActive = getCurrentVideoPage() === originalItem.title;
                                   return <NavDropdown.Item 
-                                                           href={`/video/${item.title}`}
+                                                           href={`/video/${originalItem.title}`}
                                                            onClick={() => setSelectState(4)} 
                                                            key={index}
                                                            className={isActive ? 'active-dropdown-item' : ''}
@@ -156,13 +176,17 @@ const NavBarElement = () => {
                   </Nav.Link>
                   
                   {/* Language Switcher */}
-                  <div className="d-none d-lg-block ms-3">
+                  <div className="language-switcher d-none d-lg-block ms-3">
                       <LanguageSwitcher />
                   </div>
                   
-                  <Nav.Link href="https://lin.ee/EgSMgUU9" target={"_blank"} className={"ms-3"}>
-                      <Image src={ContactBtn} fluid={true}/>
-                  </Nav.Link>
+                  <div>
+                  <LineButton
+                    text={t("banner.consultation_button")}
+                    href="https://lin.ee/EgSMgUU9"
+                    size="medium"
+                  />
+                  </div>
               </Nav>
               
               {/* Mobile Language Switcher */}

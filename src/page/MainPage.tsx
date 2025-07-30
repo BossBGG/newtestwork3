@@ -16,6 +16,7 @@ import Footer from "../component/Footer/Footer.tsx";
 import {useLocation} from "react-router";
 import Recommend from "../component/Recommend/Recommend.tsx";
 import About from "../component/About/About.tsx";
+import { useLanguage } from '../i18n/config'; // เพิ่มการ import
 
 export interface YoutubeData{
     playlists:PlayLists,
@@ -27,6 +28,7 @@ const apiUrl = import.meta.env.VITE_API_URL;
 const MainApp = () => {
     const [playlistData,setPlaylistData] = useState<YoutubeData>();
     const location = useLocation();
+    const { t } = useLanguage(); // เพิ่มการใช้ hook
 
     console.log(location);
     const getPlaylist = async () =>{
@@ -44,8 +46,11 @@ const MainApp = () => {
         <Container className={'App pb-0 mb-0'}>
             <Banner/>
             <Row className={'center mt-4 mb-4'}>
-                <h2 className={'text-sub-head'}>ความรู้กระดูกและข้อ</h2>
-                <h1 className={'text-header'} style={{fontSize: '1.9rem'}}>หมวดหมู่ที่น่าสนใจ 13 หมวดหมู่</h1>
+                {/* แทนที่ข้อความ hardcode ด้วย translation */}
+                <h2 className={'text-sub-head'}>{t('mainpage.bone_joint_knowledge')}</h2>
+                <h1 className={'text-header'} style={{fontSize: '1.9rem'}}>
+                    {t('mainpage.categories_subtitle')}
+                </h1>
             </Row>
             
             {/* เรียกใช้ Blog Component แทน ContentCard */}

@@ -21,7 +21,7 @@ const Banner: React.FC = () => {
                 <h1 className="banner-subtitle">
                   {t("banner.subtitle")
                     .split("\n")
-                    .map((line, index) => (
+                    .map((line: string, index: number) => (
                       <React.Fragment key={index}>
                         {line}
                         {index <
@@ -66,11 +66,11 @@ const Banner: React.FC = () => {
                 <h2 className="banner-subtitle-mobile">
                   {t("banner.subtitle_mobile")
                     .split("\n")
-                    .map((line, index) => (
+                    .map((line: string, index: number) => (
                       <React.Fragment key={index}>
                         {line}
                         {index <
-                          t("banner.subtitle_mobile").split("\n\n").length - 1 && <br />}
+                          t("banner.subtitle_mobile").split("\n").length - 1 && <br />}
                       </React.Fragment>
                     ))}
                 </h2>

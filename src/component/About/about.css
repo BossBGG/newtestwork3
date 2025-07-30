@@ -40,7 +40,7 @@
 }
 
 .about-des {
-  max-width: 600px;
+  width: 600px;
   color: #34539B;
   text-align: left;
   padding: 8px;
@@ -108,6 +108,7 @@
   display: flex;
   flex-direction: column;
   margin-top: 0 !important;
+  width: 410px;
   margin-left: 275px;
 }
 

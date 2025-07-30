@@ -5,8 +5,9 @@ export const navbarTranslations = {
       bone_joint: "กระดูกและข้อ",
       health_knowledge: "ความรู้สุขภาพ",
       video: "Video",
-      navbar_doctor: "รู้จักหมอเก่ง",
+      about_doctor: "รู้จักหมอเก่ง",
       consultation: "ปรึกษา/นัดหมายได้ที่นี่",
+      logo_text: "หมอเก่งกระดูกและข้อ" 
     },
   },
   en: {
@@ -17,16 +18,18 @@ export const navbarTranslations = {
       video: "Video",
       about_doctor: "About Dr. Keng",
       consultation: "Consultation/Appointment",
+      logo_text: "Dr. Keng Bone & Joint" 
     },
   },
   my: {
     navbar: {
-      home: "မူလစာမျက်နှာ",
-      bone_joint: "အရိုးနှင့်အဆစ်",
-      health_knowledge: "ကျန်းမာရေးအသိပညာ",
+      home: "ပင်မစာမျက်နှာ",
+      bone_joint: "အရိုးအဆစ်များ",
+      health_knowledge: "ကျန်းမာရေး ဗဟုသုတ",
       video: "ဗီဒီယို",
-      about_doctor: "ဆရာဝန်ကြီးအကြောင်း",
+      about_doctor: "ဒေါက်တာကင်း အကြောင်း",
       consultation: "တိုင်ပင်/ချိန်းဆို",
+      logo_text: "ဆက်သွယ်စုံစမ်းရန်" 
     },
   },
 };

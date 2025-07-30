@@ -14,8 +14,8 @@ export const socialTranslations = {
   },
   my: {
     social: {
-      doctor_name: "ဆရာဝန်ကြီး အရိုးနှင့်အဆစ်",
-      all_channels: "လူမှုကွန်ယက် လမ်းကြောင်းများ အားလုံး"
+      doctor_name: "ဒေါက်တာကောင်း အရိုးအကြော",
+      all_channels: "လူမှုကွန်ရက် လမ်းကြောင်းများအားလုံး (All Social Channels)"
     }
   }
 };

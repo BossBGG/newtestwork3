@@ -8,6 +8,12 @@ import { recommendTranslations } from './translations/recommend';
 import { fromcustomerTranslations } from './translations/fromcustomer';
 import { socialTranslations } from './translations/social';
 import { contactusTranslations } from './translations/contactus';
+import { footerTranslations } from './translations/footer';
+import { mainpageTranslations } from './translations/mainpage';
+import { contentdataTranslations } from './translations/contentdata'; 
+import { articledataTranslations } from './translations/articledata'; 
+import { elbowsubdataTranslations } from './translations/elbowsubdata'; 
+import { shouldersubdataTranslations } from './translations/shouldersubdata';
 
 export interface Language {
   code: string;
@@ -19,7 +25,7 @@ export interface Language {
 export const languages: Language[] = [
   { code: 'th', name: 'ไทย', flag: '🇹🇭', available: true },
   { code: 'en', name: 'English', flag: '🇺🇸', available: true },
-  { code: 'my', name: 'မြန်မာ', flag: '🇲🇲', available: false }
+  { code: 'my', name: 'မြန်မာ', flag: '🇲🇲', available: true }
 ];
 
 export const defaultLanguage = 'th';
@@ -41,7 +47,7 @@ const mergeTranslations = (...translationObjects: any[]) => {
   return merged;
 };
 
-// รวม translations จากทุกไฟล์
+// รวม translations จากทุกไฟล์ (เพิ่ม articledataTranslations)
 const translations = mergeTranslations(
   bannerTranslations,
   aboutTranslations,
@@ -51,12 +57,18 @@ const translations = mergeTranslations(
   fromcustomerTranslations,
   socialTranslations,
   contactusTranslations,
+  footerTranslations,
+  mainpageTranslations,
+  contentdataTranslations,
+  articledataTranslations,
+  elbowsubdataTranslations, 
+  shouldersubdataTranslations,
 );
 
 interface LanguageContextType {
   currentLanguage: string;
   setLanguage: (lang: string) => void;
-  t: (key: string, returnType?: 'string' | 'object') => any; // เพิ่ม returnType parameter
+  t: (key: string, returnType?: 'string' | 'object') => any;
 }
 
 // Create context with default values

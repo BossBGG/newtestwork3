@@ -31,7 +31,7 @@ const LanguageSwitcher: React.FC = () => {
       >
         <span className="flag">{currentLang.flag}</span>
         <span className="lang-name">{currentLang.name}</span>
-        <span className="dropdown-arrow">▼</span>
+        
       </Dropdown.Toggle>
 
       <Dropdown.Menu className="language-menu">
