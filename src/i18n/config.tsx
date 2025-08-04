@@ -14,7 +14,14 @@ import { contentdataTranslations } from './translations/contentdata';
 import { articledataTranslations } from './translations/articledata'; 
 import { elbowsubdataTranslations } from './translations/elbowsubdata'; 
 import { shouldersubdataTranslations } from './translations/shouldersubdata';
-
+import { backsubdataTranslations } from './translations/backsubdata';
+import { kneesubdataTranslations } from './translations/kneesubdata';
+import {anklesubdataTranslations} from './translations/anklesubdata';
+import { wristsubdataTranslations } from './translations/wristsubdata';
+import { bonesubdataTranslations } from './translations/bonesubdata';
+import { hipsubdataTranslations } from './translations/hipsubdata';
+import { goutsubdataTranslations } from './translations/goutsubdata';
+import { handsubdataTranslations } from './translations/handsubdata';
 export interface Language {
   code: string;
   name: string;
@@ -47,7 +54,7 @@ const mergeTranslations = (...translationObjects: any[]) => {
   return merged;
 };
 
-// รวม translations จากทุกไฟล์ (เพิ่ม articledataTranslations)
+
 const translations = mergeTranslations(
   bannerTranslations,
   aboutTranslations,
@@ -63,6 +70,14 @@ const translations = mergeTranslations(
   articledataTranslations,
   elbowsubdataTranslations, 
   shouldersubdataTranslations,
+  backsubdataTranslations,
+  kneesubdataTranslations,
+  anklesubdataTranslations,
+  wristsubdataTranslations,
+  bonesubdataTranslations,
+  hipsubdataTranslations,
+  goutsubdataTranslations,
+  handsubdataTranslations,
 );
 
 interface LanguageContextType {

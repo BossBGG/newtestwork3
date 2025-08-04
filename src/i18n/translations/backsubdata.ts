@@ -1531,13 +1531,14 @@ https://youtu.be/C0j5lwzCQBc
 ในกรณีที่ผู้ป่วยเกิดกระดูกสะโพกหัก หรือกระดูกสันหลังยุบแล้ว ผู้ป่วยเหล่านี้มีความจำเป็นต้องรับการรักษาโรคกระดูกพรุน เพื่อป้องกันไม่ให้เกิดกระดูกหักเพิ่มขึ้นอีก เช่น ในผู้ป่วยที่มีกระดูกสันหลังยุบจากโรคกระดูกพรุน พบว่าถ้าไม่ได้ให้การรักษาที่เหมาะสมจะพบว่าผู้ป่วยมีโอกาสเกิดกระดูกหักเพิ่มขึ้นอีกประมาณร้อยละ 20
 
 <b>สำหรับปัจจุบัน ยาที่ใช้รักษาผู้ป่วยโรคกระดูกพรุนจะมีอยู่ 2 ประเภทคือ</b>
+<br/>
 <b>1. ยาที่ยับยั้งการทำลายกระดูก</b> เช่น
 <ul>
  \t<li>ยาในกลุ่ม Bisphosphonates ที่มีหลากหลายชนิดเช่น ชนิดที่รับประทานอาทิตย์ละ 1 เม็ดเช่น Alendronate (Fosamax plus), Risedronate (Actonel), หรือชนิดที่ฉีดปีละ 1 ครั้งเช่น Zoledronate (Aclasta)</li>
  \t<li>ยาในกลุ่มที่เป็นแอนติบอดี้ มีผลยับยั้งการทำลายกระดูกที่ระดับเซลล์ และไม่มีผลต่อไต ได้แก่ Denosumab (Prolia) ซึ่งใช้ฉีดใต้ผิวหนังทุกๆ 6 เดือน</li>
 </ul>
 สำหรับระยะเวลาในการรักษาโรคกระดูกพรุน แพทย์มักจะแนะนำให้ยาแก่ผู้ป่วยประมาณ 3-5 ปี
-
+<br/>
 <b>2. ยาที่กระตุ้นการสร้างกระดูก</b> ซึ่งมีผลในการสร้างกระดูกโดยตรง ได้แก่ Teriparatide มีข้อบ่งชี้ในผู้ป่วยที่มีกระดูกหักหลายตำแหน่ง เช่น กระดูกสันหลังยุบมากกว่า 2 ตำแหน่ง กระดูกสะโพกหัก หรือเช่นในผู้ป่วยรายที่ยกตัวอย่างข้างต้น ที่มีกระดูกสันหลังยุบมากกว่า 2 ตำแหน่ง ยานี้ใช้ฉีดใต้ผิวหนังทุกวัน นอกจากนี้ยังมีฤทธิ์ในการลดปวดหลังได้ด้วย
 
 การพิจารณาให้ยาแต่ละชนิดขึ้นอยู่กับความเหมาะสมแต่ละราย และดุลยพินิจของแพทย์ ซึ่งต้องมีการพูดคุยและอธิบายประโยชน์ ข้อดี ข้อเสียของยาแต่ละประเภทให้ผู้ป่วยฟังอีกครั้ง โดยมีวัตถุประสงค์ร่วมกันคือการป้องกันการเกิดกระดูกหักในอนาคต`,
@@ -1700,10 +1701,10 @@ Just as a 60-year-old cannot go back to being 30, our bodies, once bone and join
 
 <figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-199" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/การเสื่อมของหมอนรองกระดูกสันหลัง-1024x559.jpg" alt="" width="700" height="382" /></figure>
 
-<em>"The image compares the degeneration of spinal discs.
+<em>The image compares the degeneration of spinal discs.
 In the image on the left, the intervertebral discs appear to have normal height. In contrast, the right image shows a reduction in disc height along with degeneration of the facet joints, which narrows the spinal canal and compresses the nerves. As a result, patients often experience back pain, and radiating or tingling pain down the legs—especially around the calf area.</em>
 
-Many people worry about the side effects of using steroids for treatment or for localized injections due to long-standing concerns about their risks. In truth, every medication is like a double-edged sword. All drugs have both benefits and potential side effects depending on the user’s knowledge and expertise. In medical practice,<b> steroids are highly beneficial in treating many conditions. They are effective in relieving pain and inflammation. When used correctly and within safe dosage limits, steroids typically do not cause the feared side effects.
+Many people worry about the side effects of using steroids for treatment or for localized injections due to long-standing concerns about their risks. In truth, every medication is like a double-edged sword. All drugs have both benefits and potential side effects depending on the user’s knowledge and expertise. In medical practice,<b> steroids are highly beneficial in treating many conditions.</b> They are effective in relieving pain and inflammation. When used correctly and within safe dosage limits, steroids typically do not cause the feared side effects.
 
 For localized steroid injections, it's standard practice not to exceed 3–5 injections. If more are required, it may indicate the injections are ineffective or the condition is too severe—possibly requiring surgery instead. Another concern with localized steroid injections is accuracy. Sometimes injections are administered directly to the painful area without confirming the exact location, leading to complications. For example, injecting into a tendon or nerve can increase the risk of tendon rupture. Currently, high-frequency ultrasound is often used to help identify the precise injection site. This allows physicians to inject more accurately, minimizing side effects and reducing the amount of anesthetic needed.
 
@@ -2517,7 +2518,7 @@ https://youtu.be/C0j5lwzCQBc
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>This method is particularly suitable for patients who wish to avoid spinal surgery or have high surgical risks. For example, elderly patients with spinal canal stenosis caused by degenerative changes in the spine may have nerve canal narrowing that leads to nerve inflammation inside the spinal canal, causing pain, numbness, and radiating leg pain.</p>
+<p><strong>This method is particularly suitable for patients who wish to avoid spinal surgery or have high surgical risks.</strong> For example, elderly patients with spinal canal stenosis caused by degenerative changes in the spine may have nerve canal narrowing that leads to nerve inflammation inside the spinal canal, causing pain, numbness, and radiating leg pain.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -3217,7 +3218,7 @@ To help the general public understand <strong>osteoporosis</strong> better, I wo
  \t<li>Women over 65 years old are recommended to undergo bone mass measurement using a large machine called DEXA (Dual Energy X-ray Absorptiometry). This measures bone mass at two sites: the lumbar spine and the hip.</li>
  \t<li>Women who have undergone menopause and have risk factors are advised to have bone mass measurement immediately to assess the current bone condition.</li>
 </ul>
-After a bone density scan,<b>, a T-score of less than -2.5 doesn't always mean medication for osteoporosis is immediately necessary.</b> Over-treatment of osteoporosis is common.
+After a bone density scan,<b> a T-score of less than -2.5 doesn't always mean medication for osteoporosis is immediately necessary.</b> Over-treatment of osteoporosis is common.
 
 <b><span style="color: #000080;">The primary goal of osteoporosis medication is</span>
 </b> to prevent future fractures or reduce the risk of future fractures. To determine the need for medication, we must calculate each patient's individual risk of future fractures. You can assess <span style="color: #008000;"><strong>your individual fracture risk using the FRAX® too Link <a style="color: #008000;" href="http://www.shef.ac.uk/FRAX/tool.aspx?country=57" target="_blank" rel="noopener noreferrer">(click here).</a> </strong></span>This tool, developed by the World Health Organization, uses basic information relevant to the Thai population to help you estimate your personal fracture risk. Therefore, the decision to prescribe osteoporosis medication is based on the 10-year risk of fracture. Medication is generally considered if the calculation shows:
@@ -3228,6 +3229,7 @@ After a bone density scan,<b>, a T-score of less than -2.5 doesn't always mean m
 <b>The decision to prescribe medication for osteoporosis treatment</b> will be based on these considerations. If the value is lower than this, there is no need to take osteoporosis medication. In cases where the patient has suffered a hip fracture or vertebral compression fracture, these patients require treatment for osteoporosis to prevent further fractures. For example, in patients with vertebral compression fractures due to osteoporosis, if they do not receive appropriate treatment, there is about a 20% chance of experiencing additional fractures.
 
 <b>Currently, there are two types of medications used to treat osteoporosis:</b>
+<br/>
 <b>1. Medications that inhibit bone resorption, such as</b>:
 <ul>
  \t<li>Bisphosphonates, which come in various forms. For example, oral tablets taken once a week, such as Alendronate (Fosamax Plus), Risedronate (Actonel), or an annual injection like Zoledronate (Aclasta).</li>
@@ -3235,8 +3237,8 @@ After a bone density scan,<b>, a T-score of less than -2.5 doesn't always mean m
 </ul>
 Regarding the duration of osteoporosis treatment, doctors generally recommend prescribing medication to patients for about 3 to 5 years.
 
-
-<b>2. Bone-forming agents, which directly stimulate bone formation, include Teriparatide. This medication is indicated for patients with multiple fractures, such as more than two vertebral compression fractures, hip fractures, or as in the example patient mentioned above who has more than two vertebral compression fractures. Teriparatide is administered as a daily subcutaneous injection. Additionally, it has the effect of reducing back pain.
+<br/>
+<b>2. Bone-forming agents,</b> which directly stimulate bone formation, include Teriparatide. This medication is indicated for patients with multiple fractures, such as more than two vertebral compression fractures, hip fractures, or as in the example patient mentioned above who has more than two vertebral compression fractures. Teriparatide is administered as a daily subcutaneous injection. Additionally, it has the effect of reducing back pain.
 
 The choice of medication depends on the individual patient's suitability and the physician’s clinical judgment. There must be a discussion explaining the benefits, advantages, and disadvantages of each type of medication to the patient. The shared goal is to prevent future bone fractures.
 `,
