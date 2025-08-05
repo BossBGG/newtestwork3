@@ -5,77 +5,96 @@ export const recommendTranslations = {
       title: "video อื่นๆ ที่น่าสนใจ",
       tabs: {
         recommended: "แนะนำ",
-        popular: "ยอดนิยม"
+        popular: "ยอดนิยม",
       },
       videos: {
         recommended: {
-          'video1': 'มะเร็งตับ อุลตราซาวน์ที่กระดูกได้อย่างไร?',
-          'video2': 'ก้ามเส้นขยองการเกิดกระดูกกิ๊กจากลอกระดูก ฟรุมหรือไม่',
-          'video3': 'โรคข้อศอก สาเหตุกิตกอกอะไร?',
-          'video4': 'การรักษาข้อเข่าอักเสบด้วยวิธีธรรมชาติ',
-          'video5': 'เทคนิคการออกกำลังกายที่ถูกต้อง',
-          'video6': 'วิธีการป้องกันอาการปวดหลัง'
+          video1: "ปวดหลังชาร้าวลงขา รักษาอย่างไร?",
+          video2: "เข่าเสื่อมมาก ผ่าตัดคือทางออก",
+          video3: "ปวดไหล่มาก สาเหตุ??",
+          video4: "ปวดหลังรุนแรงในคนอายุมาก ต้องระวังกระดูกยุบ!!",
+          video5: "ปวดหลัง วินิจฉัยแม่นยำด้วย MRI",
+          video6: "น้ำหนักมาก ปัญหาหลักคือการทาน!!!!",
+          video7: "เก๊าท์เกิดขึ้นได้อย่างไร? ",
+          video8: "ปวดคอ หมอนรองกระดูกคอเสื่อม 90% รักษาได้ ไม่ต้องผ่าตัด",
+          video9: "ก้อนขึ้นตามร่างกายคือ??",
         },
         popular: {
-          'video1': 'วิธีรักษาข้อเข่าเสื่อมได้ผลจริง',
-          'video2': 'การออกกำลังกายสำหรับผู้สูงอายุ',
-          'video3': 'โรคกระดูกพรุนป้องกันอย่างไร',
-          'video4': 'เทคนิคการนวดบรรเทาอาการปวด',
-          'video5': 'การใช้ยาแก้ปวดอย่างปลอดภัย'
-        }
-      }
-    }
+          video1: "ปวดส้นเท้า",
+          video2: "กายบริหารโรคมือชา",
+          video3: "ปวดเข่า ข้อเข่าเสื่อม",
+          video4:
+            "เทคนิคผ่าตัดเปลี่ยนข้อเข่าเทียม Surgical techniques in Total knee replacement",
+          video5:
+            "Total hip arthroplasty (THA)- Surigical techniques for directed lateral approach",
+          video6: "ปวดต้นคอ",
+        },
+      },
+    },
   },
   en: {
     recommend: {
       title: "Other Interesting Videos",
       tabs: {
         recommended: "Recommended",
-        popular: "Popular"
+        popular: "Popular",
       },
       videos: {
         recommended: {
-          'video1': 'Liver Cancer: How Can Ultrasound Detect Bone Issues?',
-          'video2': 'Ganglion Cysts: Do They Cause Bone Calcification?',
-          'video3': 'Elbow Joint Disease: What Causes It?',
-          'video4': 'Natural Treatment for Knee Inflammation',
-          'video5': 'Proper Exercise Techniques',
-          'video6': 'How to Prevent Back Pain'
+          video1:
+            "Back pain with numbness radiating to the leg – How to treat it?",
+          video2: "Severe knee osteoarthritis – Surgery is the solution",
+          video3: "Severe shoulder pain – What’s the cause?",
+          video4:
+            "Severe back pain in the elderly – Beware of vertebral compression fractures!",
+          video5: "Back pain – Accurate diagnosis with MRI",
+          video6: "Being overweight – The main issue is diet!",
+          video7: "How does gout occur?",
+          video8:
+            "Neck pain from cervical disc degeneration – 90% treatable without surgery",
+          video9: "Lumps on the body – What are they?",
         },
         popular: {
-          'video1': 'Effective Treatment for Knee Degeneration',
-          'video2': 'Exercise for Elderly People',
-          'video3': 'How to Prevent Osteoporosis',
-          'video4': 'Massage Techniques for Pain Relief',
-          'video5': 'Safe Use of Pain Medication'
-        }
-      }
-    }
+          video1: "Heel pain",
+          video2: "Hand numbness exercises",
+          video3: "Knee pain from osteoarthritis",
+          video4: "Surgical techniques in total knee replacement",
+          video5:
+            "Total hip arthroplasty (THA) – Directed lateral approach techniques",
+          video6: "Upper neck pain",
+        },
+      },
+    },
   },
   my: {
     recommend: {
       title: "စိတ်ဝင်စားဖွယ် အခြားဗီဒီယိုများ",
       tabs: {
         recommended: "အကြံပြုထားသော",
-        popular: "လူကြိုက်များသော"
+        popular: "လူကြိုက်များသော",
       },
       videos: {
         recommended: {
-          'video1': 'အသည်းကင်ဆာ- အာလ်ထရာဆောင်းက အရိုးပြဿနာများကို ဘယ်လိုရှာဖွေနိုင်သလဲ?',
-          'video2': 'Ganglion အဖုများ- အရိုးထဲမှာ ကယ်လ်ဆီယမ်စုပုံခြင်းကို ဖြစ်စေသလား?',
-          'video3': 'တံတောင်ဆစ်ရောဂါ- ဘာကြောင့်ဖြစ်ရတာလဲ?',
-          'video4': 'ဒူးရောင်ရမ်းခြင်းကို သဘာဝနည်းလမ်းဖြင့် ကုသခြင်း',
-          'video5': 'မှန်ကန်သော လေ့ကျင့်ခန်းနည်းများ',
-          'video6': 'ကျောနာခြင်းကို ကာကွယ်နည်းများ'
+          video1: "ကျောနာ၊ ခြေအထိ ခံစားနာကျင်မှု – ဘယ်လိုကုသရမလဲ?",
+          video2: "ဒူးအရိုး kul တယ်ဆိုရင် – ခွဲစိတ်မှုက ဖြေရှင်းချက်ဖြစ်တယ်",
+          video3: "ပခုံးနာအရမ်းကို ကြီးတယ် – အကြောင်းကဘာလဲ?",
+          video4: "အသက်ကြီးသူတွင် ကျောနာကြီးတယ် – အရိုးကျိုးခြင်းကို သတိပြုပါ!",
+          video5: "ကျောနာကို MRI နဲ့ တိကျစွာ စစ်ဆေးနိုင်သည်",
+          video6: "ကိုယ်အလေးချိန်များခြင်း – အဓိကပြဿနာက စားသုံးမှု!",
+          video7: "ဂေါ့ရောဂါ ဘယ်လိုဖြစ်လာတာလဲ?",
+          video8:
+            "လည်နာ – လည်ခေါင်းအရိုးသွယ်အဖုံးပျက်ခြင်း ၉၀% ခွဲစိတ်မလုပ်ဘဲ ကုသနိုင်သည်",
+          video9: "ကိုယ်မှာ ရောဂါသံလုံး (ဂုတ်) တက်တာ – ဘာလဲ?",
         },
         popular: {
-          'video1': 'ဒူးအဆစ်ယိုယွင်းမှုကို ထိရောက်စွာ ကုသနည်း',
-          'video2': 'သက်ကြီးရွယ်အိုများအတွက် လေ့ကျင့်ခန်း',
-          'video3': 'အရိုးပွတ်ရောဂါကို ဘယ်လို ကာကွယ်မလဲ',
-          'video4': 'နာကျင်မှုသက်သာစေသော နှိပ်နည်းများ',
-          'video5': 'နာကျင်မှုပျောက်ဆေးများကို ဘေးကင်းစွာ အသုံးပြုခြင်း'
-        }
-      }
-    }
-  }
+          video1: "ခြေဖျားနားအောက်နာခြင်း",
+          video2: "လက်ကြေးထိပျောက်ခြင်းအတွက် လေ့ကျင့်ခန်း",
+          video3: "ဒူးနာ – ဒူးအဆစ် kulခြင်း",
+          video4: "ဒူးအစားထိုးခွဲစိတ်နည်းလမ်းများ",
+          video5: "ရင်ခါးအစားထိုးခွဲစိတ် (THA) – ဘေးဘက်ဝင်နည်းလမ်းများ",
+          video6: "လည်ပင်းအပေါ်ပိုင်းနာခြင်း",
+        },
+      },
+    },
+  },
 };

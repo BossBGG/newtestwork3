@@ -51,7 +51,7 @@ const MainApp = () => {
                     {t('mainpage.categories_subtitle')}
                 </h1>
             </Row>
-ฃ
+
             <Blog />
             
             <Recommend/>
