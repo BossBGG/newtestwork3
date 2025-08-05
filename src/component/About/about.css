@@ -8,7 +8,7 @@
 /* Desktop About */
 .about-desktop {
   width: 100%;
-  height: 600px;
+  height: 650px;
   background-image: url('../../assets/images/background-about-website.png');
   background-size: cover;
   background-position: center;
@@ -60,6 +60,7 @@
   color: #34539B;
   margin-bottom: 8px;
   line-height: 1.1;
+  width: 650px
 }
 
 .about-specialty {

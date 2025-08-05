@@ -21,3 +21,5 @@ export { bonesubdataTranslations } from './bonesubdata';
 export { hipsubdataTranslations } from './hipsubdata';
 export { goutsubdataTranslations } from './goutsubdata';
 export { handsubdataTranslations } from './handsubdata';
+export { arthroplastysubdataTranslations } from './arthroplastysubdata';
+export { therapysubdataTranslations } from './therapysubdata';

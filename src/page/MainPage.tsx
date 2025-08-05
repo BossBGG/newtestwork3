@@ -46,14 +46,12 @@ const MainApp = () => {
         <Container className={'App pb-0 mb-0'}>
             <Banner/>
             <Row className={'center mt-4 mb-4'}>
-                {/* แทนที่ข้อความ hardcode ด้วย translation */}
                 <h2 className={'text-sub-head'}>{t('mainpage.bone_joint_knowledge')}</h2>
                 <h1 className={'text-header'} style={{fontSize: '1.9rem'}}>
                     {t('mainpage.categories_subtitle')}
                 </h1>
             </Row>
-            
-            {/* เรียกใช้ Blog Component แทน ContentCard */}
+ฃ
             <Blog />
             
             <Recommend/>

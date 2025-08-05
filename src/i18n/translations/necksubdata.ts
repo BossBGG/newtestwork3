@@ -398,11 +398,11 @@ If the pain persists even after adjusting your behavior, you should see a doctor
 3.Lifestyle Modification: Adjusting lifestyle as mentioned previously (e.g., proper posture, comfortable sleeping positions, stress management).
 </p><br>
 <p style="text-align: left;">More than 90% of patients can be treated with the methods listed above. Very few cases require surgical intervention. The treatment period is typically around 6-8 months.</p>
-<strong>สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่<br/>
-</strong><strong>Line OA:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng<br/>
+<strong>For inquiries regarding bone and joint health, please contact:<br/>
+</strong><strong>Line OA:</strong> <a href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>or Line ID search </strong> @DoctorKeng<br/>
 <strong>Website: </strong><a href="https://doctorkeng.com" target="_blank" rel="noopener">www.doctorkeng.com</a><br/>
 <strong>YouTube:</strong> <a href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener" class="contact-line" style="padding-left: 2px;">https://www.youtube.com/results?search_query=taninnit+leerapun</a><br/>
-<strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a><br/>
+<strong>Facebook:</strong> <a href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ (Dr. Keng Solves Bone and Joint Pain Problems)</a><br/>
 <strong>Blockdit</strong>: <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener" class="contact-line" style="padding-left: 2px;">https://www.blockdit.com/doctorkeng</a><br/>`,
       },
       '114-neckpain-disk': {

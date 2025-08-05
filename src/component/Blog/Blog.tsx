@@ -11,80 +11,110 @@ import './blog.css';
 const videosByCategory: { [key: string]: { url: string; videoKey: string; thumbnail: string }[] } = {
   'ปวดไหล่': [
     {
-      url: 'https://www.youtube.com/watch?v=04_Znifwy98',
+      url: 'https://youtu.be/jadYBZusTLg?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video1',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/jadYBZusTLg/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLCEMKbuqVa3gpNIqQLLdR_THFb3Yg'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/2Cl3C0rCnis?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video2',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/2Cl3C0rCnis/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYWSBdKGUwDw==&rs=AOn4CLD243rrx5ucNccqKfwaYXGXNeNVgg'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/sBu42GMiDY0?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video3',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/sBu42GMiDY0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCdd7jlEtaG7xfKT3QggkL4uLOgUg'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/Yi26JFd94O8?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video4',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/Yi26JFd94O8/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYZSBLKEIwDw==&rs=AOn4CLADvYtt6Kkh7_YrPaAJ3g6URWxKLA'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/KpqKbRjNmWM?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video5',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/KpqKbRjNmWM/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYciBTKEIwDw==&rs=AOn4CLAAXgpsS0GLNYjtMShm8RaiJ2DSpQ'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/iu62i0oVF10?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video6',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/iu62i0oVF10/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYciBSKDswDw==&rs=AOn4CLDW-XQwTD5g18lfT10tV7bcyGyYTw'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/uwJVauLFuOY?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video7',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/uwJVauLFuOY/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYZSBWKEwwDw==&rs=AOn4CLAhB3CUU4j8wi9DO9XazeEM8z1Khg'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/-elWD2owrf4?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video8',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
-    }
+      thumbnail: 'https://i.ytimg.com/vi/hhyoKq7_kco/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYZSBdKFQwDw==&rs=AOn4CLDZMU6rDPBSlolmOqdId4EhvWp6oA'
+    },
+    {
+      url: 'https://youtu.be/OZTx4hC5ZaI?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
+      videoKey: 'video9',
+      thumbnail: 'https://i.ytimg.com/vi/OZTx4hC5ZaI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYSCBTKGUwDw==&rs=AOn4CLCSzblg8oHs4joKEwNUmEEwcAqkxg'
+    },
+    {
+      url: 'https://youtu.be/bw8JPQ3E2ew?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
+      videoKey: 'video10',
+      thumbnail: 'https://i.ytimg.com/vi/bw8JPQ3E2ew/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYciBUKD0wDw==&rs=AOn4CLAIAHuM525t_AW3Ngfo8qo8-1sAyw'
+    },
   ],
   'ปวดหลัง': [
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/iXYknwu_3Qw?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
       videoKey: 'video1',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/iXYknwu_3Qw/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYSyBUKGUwDw==&rs=AOn4CLCBFVtQ5TIkdpbjLS5S88NzHFxHRg'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/VqOxzA7rCCI?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
       videoKey: 'video2',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/VqOxzA7rCCI/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYYiBiKGIwDw==&rs=AOn4CLAgO5yg5ri9LzWeJLdKdhFZQzij6w'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/cIuCw67R134?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
       videoKey: 'video3',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/cIuCw67R134/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYRiATKH8wDw==&rs=AOn4CLAFa_KrcU92fUm0Fs3rl169DLOrJA'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/Yi26JFd94O8?list=PLRmpWdWX6cKquaVyDaneDz25HwNKzrT0X',
       videoKey: 'video4',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/BeFVHywqLIY/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYOSBYKHIwDw==&rs=AOn4CLAk2QP9MmKmXj19D-BdVPHiHaUH1w'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/0zA7Oo8v8hQ?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
       videoKey: 'video5',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
+      thumbnail: 'https://i.ytimg.com/vi/0zA7Oo8v8hQ/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYciBKKC8wDw==&rs=AOn4CLA_bwffVOLaBeNJ-Xpq8wU5ezjRtw'
     },
     {
-      url: 'https://www.youtube.com/watch?v=9f4EaOkOMd8&t=6s',
+      url: 'https://youtu.be/JbQHdjUX3UA?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
       videoKey: 'video6',
-      thumbnail: 'https://i.ytimg.com/vi/9f4EaOkOMd8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBuqqi1brHLaBzfQ2z7Edyk3FIykg'
-    }
-  ]
+      thumbnail: 'https://i.ytimg.com/vi/JbQHdjUX3UA/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYZSBXKE8wDw==&rs=AOn4CLCmwNgIzt_oGxXet0bfkSM5srnGmw'
+    },
+    {
+      url: 'https://youtu.be/djqtnVcg6ZE?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
+      videoKey: 'video7',
+      thumbnail: 'https://i.ytimg.com/vi/djqtnVcg6ZE/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYTSBSKGUwDw==&rs=AOn4CLAgrV4VTboMS23peN8QCrbgfS6DbA'
+    },
+    {
+      url: 'https://youtu.be/hP0hbL7aPd0?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
+      videoKey: 'video8',
+      thumbnail: 'https://i.ytimg.com/vi/hP0hbL7aPd0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYSCBSKGUwDw==&rs=AOn4CLA3O0VdsgXwrMeCY-_3GYkIkw7m1g'
+    },
+    {
+      url: 'https://youtu.be/ZtrELvtozQY?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
+      videoKey: 'video9',
+      thumbnail: 'https://i.ytimg.com/vi/ZtrELvtozQY/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYciBNKDUwDw==&rs=AOn4CLCoCMIwePb9D1Bxi-nSHmue4Ah8Dw'
+    },
+    {
+      url: 'https://youtu.be/ZHB6Yd0z2P0?list=PLRmpWdWX6cKp5dERnvb6JWG1URdmuIemL',
+      videoKey: 'video10',
+      thumbnail: 'https://i.ytimg.com/vi/ZHB6Yd0z2P0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Ac4FgAKACooCDAgAEAEYQyBLKGUwDw==&rs=AOn4CLD5au6fp8JyE-eI8reMqsRnS59Gdw'
+    },
+  ],
   
-  // เพิ่มข้อมูลสำหรับหมวดหมู่อื่นๆ ตามต้องการ
+
 };
 
 // ฟังก์ชันสำหรับ Carousel arrows

@@ -22,6 +22,9 @@ import { bonesubdataTranslations } from './translations/bonesubdata';
 import { hipsubdataTranslations } from './translations/hipsubdata';
 import { goutsubdataTranslations } from './translations/goutsubdata';
 import { handsubdataTranslations } from './translations/handsubdata';
+import { arthroplastysubdataTranslations } from './translations/arthroplastysubdata';
+import { therapysubdataTranslations } from './translations/therapysubdata';
+
 export interface Language {
   code: string;
   name: string;
@@ -78,6 +81,8 @@ const translations = mergeTranslations(
   hipsubdataTranslations,
   goutsubdataTranslations,
   handsubdataTranslations,
+  arthroplastysubdataTranslations,
+  therapysubdataTranslations,
 );
 
 interface LanguageContextType {
