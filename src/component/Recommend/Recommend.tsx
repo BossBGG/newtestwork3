@@ -11,86 +11,85 @@ interface VideoItem {
   thumbnail: string;
 }
 
-// ข้อมูลวิดีโอแนะนำ - เก็บเฉพาะ URL, videoKey และ thumbnail
 const recommendedVideos: VideoItem[] = [
   {
     url: 'https://youtu.be/CYZ3nXXUzJc',
     videoKey: 'video1',
-    thumbnail: 'https://i.ytimg.com/an_webp/CYZ3nXXUzJc/mqdefault_6s.webp?du=3000&sqp=CKv7xsQG&rs=AOn4CLAGbSZDdAiQZ99Su5KUilWp468gCw',
+    thumbnail: 'https://i.ytimg.com/vi/CYZ3nXXUzJc/hqdefault.jpg', 
   },
   {
     url: 'https://youtu.be/gu214y1GkrY',
     videoKey: 'video2',
-    thumbnail: 'https://i.ytimg.com/an_webp/gu214y1GkrY/mqdefault_6s.webp?du=3000&sqp=CPL_xsQG&rs=AOn4CLB1SwxHwy7Sk3YrQgDxei3u7By25A',
+    thumbnail: 'https://i.ytimg.com/vi/gu214y1GkrY/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/0OlkL6k5fo4',
     videoKey: 'video3',
-    thumbnail: 'https://i.ytimg.com/an_webp/0OlkL6k5fo4/mqdefault_6s.webp?du=3000&sqp=CNSHx8QG&rs=AOn4CLBXWf_z93vOLW8AqhjWLcURQWOqlg',
+    thumbnail: 'https://i.ytimg.com/vi/0OlkL6k5fo4/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/P0zaFHZOdiI',
     videoKey: 'video4',
-    thumbnail: 'https://i.ytimg.com/an_webp/P0zaFHZOdiI/mqdefault_6s.webp?du=3000&sqp=CKTZxsQG&rs=AOn4CLDnGRfDgU4-FHx04F_9OP5j-G8k2A',
+    thumbnail: 'https://i.ytimg.com/vi/P0zaFHZOdiI/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/qbx07OMnwUc',
     videoKey: 'video5',
-    thumbnail: 'https://i.ytimg.com/an_webp/qbx07OMnwUc/mqdefault_6s.webp?du=3000&sqp=CMj6xsQG&rs=AOn4CLDwK2uuuvd12ojc2X47KC9ElF8tvQ',
+    thumbnail: 'https://i.ytimg.com/vi/qbx07OMnwUc/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/ZMy7-ipDPp4',
     videoKey: 'video6',
-    thumbnail: 'https://i.ytimg.com/an_webp/ZMy7-ipDPp4/mqdefault_6s.webp?du=3000&sqp=CKrdxsQG&rs=AOn4CLBaa3ykdiLZNh1WjTxYVnXILc6Dug',
+    thumbnail: 'https://i.ytimg.com/vi/ZMy7-ipDPp4/hqdefault.jpg',
   },
    {
     url: 'https://youtu.be/8VkReTDOwCo',
     videoKey: 'video7',
-    thumbnail: 'https://i.ytimg.com/an_webp/8VkReTDOwCo/mqdefault_6s.webp?du=3000&sqp=CLzfxsQG&rs=AOn4CLCxdoJnuVMIj_F1lM3rc3chV42zUQ',
+    thumbnail: 'https://i.ytimg.com/vi/8VkReTDOwCo/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/87hXLKqEvf4',
     videoKey: 'video8',
-    thumbnail: 'https://i.ytimg.com/an_webp/87hXLKqEvf4/mqdefault_6s.webp?du=3000&sqp=COryxsQG&rs=AOn4CLBtva6hbfx4oyz4Pk8PH2eYVqScuw',
+    thumbnail: 'https://i.ytimg.com/vi/87hXLKqEvf4/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/uVpcuj5Svdg',
     videoKey: 'video9',
-    thumbnail: 'https://i.ytimg.com/an_webp/uVpcuj5Svdg/mqdefault_6s.webp?du=3000&sqp=CNjUxsQG&rs=AOn4CLC5DLSc5E0TnuU0AvgTKdO5-eQmCA',
+    thumbnail: 'https://i.ytimg.com/vi/uVpcuj5Svdg/hqdefault.jpg',
   },
 ];
 
-// ข้อมูลวิดีโอยอดนิยม
+// ข้อมูลวิดีโอยอดนิยม - แก้ไข thumbnail เป็นภาพนิ่ง
 const popularVideos: VideoItem[] = [
   {
     url: 'https://youtu.be/6ccAg_6Afmo',
     videoKey: 'video1',
-    thumbnail: 'https://i.ytimg.com/an_webp/6ccAg_6Afmo/mqdefault_6s.webp?du=3000&sqp=CK77xsQG&rs=AOn4CLAxnR298jrXA38gMOB6xu9WTsSgjg',
+    thumbnail: 'https://i.ytimg.com/vi/6ccAg_6Afmo/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/iETH2cWD6-k',
     videoKey: 'video2',
-    thumbnail: 'https://i.ytimg.com/an_webp/iETH2cWD6-k/mqdefault_6s.webp?du=3000&sqp=CM_sxsQG&rs=AOn4CLDjW9TajsHjAqnSShYY12Tt57CBtA',
+    thumbnail: 'https://i.ytimg.com/vi/iETH2cWD6-k/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/YIj_rIN83Jg',
     videoKey: 'video3',
-    thumbnail: 'https://i.ytimg.com/an_webp/YIj_rIN83Jg/mqdefault_6s.webp?du=3000&sqp=CJDuxsQG&rs=AOn4CLDeR3Zq_3rBKaG1yHWrKWeZy6pa3w',
+    thumbnail: 'https://i.ytimg.com/vi/YIj_rIN83Jg/hqdefault.jpg',
   },
   {
     url: 'https://youtu.be/q-wMVOQw9s8',
     videoKey: 'video4',
-    thumbnail: 'https://i.ytimg.com/vi/q-wMVOQw9s8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCETIHuhdf-9UFvNs1GXebzDQi19A',
+    thumbnail: 'https://i.ytimg.com/vi/q-wMVOQw9s8/hqdefault.jpg', 
   },
   {
     url: 'https://youtu.be/LMLvy-q5rnM',
     videoKey: 'video5',
-    thumbnail: 'https://i.ytimg.com/vi/LMLvy-q5rnM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgSigrMA8=&rs=AOn4CLAF9piMszjw42a9tot4aLc1MIvVMQ',
+    thumbnail: 'https://i.ytimg.com/vi/LMLvy-q5rnM/hqdefault.jpg', 
   },
   {
     url: 'https://youtu.be/9lSM2--NnsI',
     videoKey: 'video6',
-    thumbnail: 'https://i.ytimg.com/an_webp/9lSM2--NnsI/mqdefault_6s.webp?du=3000&sqp=CJb0xsQG&rs=AOn4CLCpLR8LwAQ1FTtR-HZJYOJ7oOByPw',
+    thumbnail: 'https://i.ytimg.com/vi/9lSM2--NnsI/hqdefault.jpg',
   },
 ];
 

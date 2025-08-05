@@ -92,24 +92,24 @@ export const necksubdataTranslations = {
         title: 'ปวดคอ เพราะใช้งานโทรศัพท์และคอมพิวเตอร์มากเกินไป',
         shot: 'อาการปวดต้นคอ ปวดบ่า ปวดไหล่มักเป็นสาเหตุที่พบได้บ่อยในยุคปัจจุบัน สาเหตุหนึ่งเนื่องจากการก้มงานใช้มือถือ หรือทำงานกับคอมพิวเตอร์มากเกินไปจนทำให้เกิดการล้าของกล้ามเนื้อบริเวณคอ&nbsp;',
         detail: `<figure class="wp-block-image aligncenter"><img width="750" height="422" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-768x432.png" alt="ปวดคอ เพราะใช้งานโทรศัพท์ และคอมพิวเตอร์มากเกินไป !!" loading="lazy" srcset="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-768x432.png 768w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-300x169.png 300w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-1024x576.png 1024w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-1536x864.png 1536w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress.png 1920w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
-<p style="text-align: left;"><strong>ปวดคอ เพราะใช้งานโทรศัพท์และคอมพิวเตอร์มากเกินไป !!</strong></p>
+<p style="text-align: center;"><strong>ปวดคอ เพราะใช้งานโทรศัพท์และคอมพิวเตอร์มากเกินไป !!</strong></p>
 <p style="text-align: center;">โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</p>
 <p style="text-align: left;">อาการปวดต้นคอ ปวดบ่า ปวดไหล่มักเป็นสาเหตุที่พบได้บ่อยในยุคปัจจุบัน สาเหตุหนึ่งเนื่องจากการก้มงานใช้มือถือ หรือทำงานกับคอมพิวเตอร์มากเกินไปจนทำให้เกิดการล้าของกล้ามเนื้อบริเวณคอ&nbsp;</p>
 อีกสาเหตุหนึ่งที่พบได้บ่อยคือการเสื่อมของหมอนรองกระดูกสันหลังบริเวณคอทำให้เกิดการเสื่อมของกระดูกข้อต่อในบางครั้งอาจจะเกิดการเคลื่อนของหมอนรองกระดูกและกดทับเส้นประสาท ทำให้มีอาการปวดคอ ปวดสะบัก ร่วมกับอาการชาร้าวลงไหล่และแขน อาการปวดจะเป็นมากขึ้นเมื่อต้องยกของหนัก นั่งขับรถ หรือใช้คอมพิวเตอร์เป็นระยะเวลานาน ทำให้เกิดการเกร็งตัวของกล้ามเนื้อ บางครั้งอาจจะมีอาการปวดศีรษะร่วมด้วย&nbsp;&nbsp;
-
+<br/>
 <strong>อาการอย่างไรจึงควรพบแพทย์เพื่อการวินิจฉัยและการรักษา</strong>
+<br/>
+1.เมื่อมีอาการปวดอย่างรุนแรง และเป็นระยะเวลานาน โดยอาการไม่บรรเทาลง<br/>
+2.มีอาการปวดร้าวสะบัก และร้าวลงแขน<br/>
+3.มีอาการชา และอ่อนแรงร่วมด้วย<br/>
+4.มีอาการปวดศีรษะร่วมด้วย<br/>
 
-1.เมื่อมีอาการปวดอย่างรุนแรง และเป็นระยะเวลานาน โดยอาการไม่บรรเทาลง
-2.มีอาการปวดร้าวสะบัก และร้าวลงแขน
-3.มีอาการชา และอ่อนแรงร่วมด้วย
-4.มีอาการปวดศีรษะร่วมด้วย
+<strong>สาเหตุ   </strong><br/>
 
-<strong>สาเหตุ   </strong>
-
-1.กล้ามเนื้อเกร็งตัวมากผิดปกติ ทำให้เกิดการล้าของกล้ามเนื้อ
-2.ข้อต่อและหมอนรองกระดูกคอเสื่อม
-3.มีการเคลื่อนของหมอนรองกระดูกสันหลังไปกดทับรากประสาทที่บริเวณคอ
-4.มีโรคบางโรคร่วมด้วย เช่น โรคข้ออักเสบรูมาตอยด์ หรือมะเร็ง
+1.กล้ามเนื้อเกร็งตัวมากผิดปกติ ทำให้เกิดการล้าของกล้ามเนื้อ<br/>
+2.ข้อต่อและหมอนรองกระดูกคอเสื่อม<br/>
+3.มีการเคลื่อนของหมอนรองกระดูกสันหลังไปกดทับรากประสาทที่บริเวณคอ<br/>
+4.มีโรคบางโรคร่วมด้วย เช่น โรคข้ออักเสบรูมาตอยด์ หรือมะเร็ง<br/>
 
 <figure class="wp-block-image aligncenter"><img width="600" height="800" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท.png" alt="บทความโดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์ หมอเก่ง ไขปัญหาปวดกระดูกและข้อ คลินิครักษา ปวดหลัง ปวดกระดูก กระดูกและข้อ เชียงใหม่" loading="lazy" srcset="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท.png 600w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท-225x300.png 225w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 <figure class="wp-block-image aligncenter"><img width="600" height="800" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท-1.png" alt="บทความโดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์ หมอเก่ง ไขปัญหาปวดกระดูกและข้อ คลินิครักษา ปวดหลัง ปวดกระดูก กระดูกและข้อ เชียงใหม่" loading="lazy" srcset="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท-1.png 600w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท-1-225x300.png 225w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
@@ -174,8 +174,8 @@ export const necksubdataTranslations = {
 <span style="color: #000080;"><strong>โรคกระดูกคอเสื่อม</strong></span> และการอักเสบ โรคที่เกิดจากการเสื่อมสลายเนื่องมาจากอายุที่มากขึ้นมักจะมีลักษณะของข้อต่อระหว่างกระดูกเสื่อม มักเกิดในผู้สูงอายุ ซึ่งเกิดเนื่องจากมีการสึกหรอของข้อต่อในบริเวณกระดูกต้นคอ ซึ่งเป็นสาเหตุทำให้ผู้ป่วยมีอาการปวดคอ และคอยึดติดเคลื่อนไหวลำบาก
 
 <center><iframe src="https://www.youtube.com/embed/9lSM2--NnsI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>หมอนรองกระดูกคอเสื่อม ก็เป็นสาเหตุสำคัญอย่างหนึ่งที่ทำให้เกิดอาการปวดคอ หมอนรองกระดูกทำหน้าที่คล้ายตัวรับและป้องกันการกระแทกระหว่างกระดูกในบริเวณต้นคอ ในผู้ป่วยที่มีหมอนรองกระดูกต้นคอเสื่อม ซึ่งมักจะมีอายุตั้งแต่ 40 ปี ส่วนประกอบในบริเวณส่วนกลางของหมอนรองกระดูกซึ่งปกติมักมีลักษณะคล้ายเยลลี่มีการเสื่อมสลาย หมอนรองกระดูกแฟบลงทำให้ช่องว่างระหว่างกระดูกสันหลังแคบลง ทำให้เพิ่มแรงกดที่บริเวณของข้อต่อระหว่างกระดูกทำให้ข้อมีการเสื่อมมากขึ้นกว่าเดิม หมอนรองกระดูกคออาจจะมีการยื่นเข้าไปในช่องทางเดินของเส้นประสาท ทำให้มีการกดทับเส้นประสาท
-
-<strong><span style="color: #000080;">เมื่อไหร่ที่ควรจะไปพบแพทย์</span>
+<br/>
+<strong><span style="color: #000080;">เมื่อไหร่ที่ควรจะไปพบแพทย์</span><br/>
 </strong>ถ้ามีอาการปวดต้นคอเกิดขึ้นทันทีหลังจากที่ได้รับอุบัติเหตุ เช่น อุบัติเหตุมอเตอร์ไซด์ ตกจากที่สูง ต้องรีบไปพบแพทย์ทันที เพื่อทำการตรวจร่างกาย ถ้าไม่ได้รับอุบัติเหตุท่านควรจะไปพบแพทย์เมื่อ
 <ul>
  \t<li>มีอาการปวดเรื้อรัง และยังคงอยู่</li>
@@ -183,12 +183,12 @@ export const necksubdataTranslations = {
  \t<li>มีอาการปวดต้นคอ ร่วมกับมีอาการปวดร้าวลงแขน หรือขา</li>
  \t<li>มีอาการปวดต้นคอร่วมกับอาการปวดศรีษะ ชา และอาการอ่อนแรงของกล้ามเนื้อ</li>
 </ul>
-<span style="color: #000080;"><strong>ทำไมจึงต้องไปพบแพทย์</strong></span>
+<span style="color: #000080;"><strong>ทำไมจึงต้องไปพบแพทย์</strong></span><br/>
 ท่านควรไปพบศัลยแพทย์กระดูก (ศัลยแพทย์ออร์โทปิดิกส์) เพื่อที่จะได้รับการตรวจประเมิน เพื่อให้ได้การวินิจฉัย การรักษา และการป้องกันที่ถูกต้อง โดยแพทย์จะเริ่มต้นจากการซักประวัติ การตรวจร่างกาย แล้วให้การวินิจฉัยเบื้องต้น การส่งถ่ายภาพเอกซเรย์เพื่อดูรายละเอียดของกระดูกบริเวณต้นคอว่ามีอะไรผิดปกติบ้าง ถ้าแพทย์ยังสงสัยในเรื่องการวินิจฉัยก็อาจจะส่งผู้ป่วยไปตรวจด้วยเครื่อง MRI ซึ่งสามารถให้รายละเอียดได้ดีที่สุดในปัจจุบัน
-
-<strong><span style="color: #000080;">รักษาอาการปวดต้นคออย่างไร</span>
+<br/>
+<strong><span style="color: #000080;">รักษาอาการปวดต้นคออย่างไร</span><br/>
 </strong>การรักษาอาการปวดต้นคอส่วนใหญ่มักขึ้นอยู่กับการวินิจฉัยโรคจากแพทย์ ผู้ป่วยส่วนใหญ่มักจะรักษาให้หายได้ด้วยการพัก รับประทานยา การทำกายภาพบำบัด การใช้เครื่องพยุงคอ และการปรับเปลี่ยนลักษณะกิจวัตรประจำวัน
-
+<br/>
 <span style="color: #000080;"><strong>ควรปฏิบัติตนอย่างไรบ้าง</strong></span>
 <ul>
  \t<li>พยายามใช้ท่าทางอย่างถูกต้องในขณะนั่งทำงาน หรือในท่ายืน โดยไม่พยายามที่จะก้มคอมากเกินไปดังภาพ</li>
@@ -333,24 +333,24 @@ export const necksubdataTranslations = {
         title: 'Neck pain from excessive phone and computer use!!',
         shot: 'Neck, shoulder, and upper back pain are common complaints nowadays. One reason is the excessive use of mobile phones or working on computers for extended periods, leading to muscle fatigue in the neck area.&nbsp;',
         detail: `<figure class="wp-block-image aligncenter"><img width="750" height="422" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-768x432.png" alt="ปวดคอ เพราะใช้งานโทรศัพท์ และคอมพิวเตอร์มากเกินไป !!" loading="lazy" srcset="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-768x432.png 768w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-300x169.png 300w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-1024x576.png 1024w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress-1536x864.png 1536w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/รูปปก-Wordpress.png 1920w" sizes="(max-width: 750px) 100vw, 750px" /></figure>
-<p style="text-align: left;"><strong>Neck pain from excessive phone and computer use!!</strong></p>
+<p style="text-align: center;"><strong>Neck pain from excessive phone and computer use!!</strong></p>
 <p style="text-align: center;">By Asst. Prof. Dr. Thaninnit Leerapun</p>
 <p style="text-align: left;">Neck, shoulder, and upper back pain are common complaints nowadays. One reason is the excessive use of mobile phones or working on computers for extended periods, leading to muscle fatigue in the neck area.&nbsp;</p>
 Another frequent cause is degeneration of the cervical intervertebral discs, which can lead to degeneration of the spinal facet joints. Sometimes, a herniated disc may occur, compressing a nerve and resulting in neck and scapular pain, along with radiating numbness into the shoulder and arm. The pain often worsens when lifting heavy objects, driving for long periods, or using a computer for an extended time, causing muscle tension. Headaches may also accompany these symptoms.&nbsp;&nbsp;
-
+<br/>
 <strong>When to See a Doctor for Diagnosis and Treatment. You should seek medical attention if:</strong>
+<br/>
+1.You experience severe and prolonged pain that doesn't improve.<br/>
+2.You have pain radiating to the shoulder blade and down the arm.<br/>
+3.You experience numbness and weakness along with the pain.<br/>
+4.You have accompanying headaches.<br/>
 
-1.You experience severe and prolonged pain that doesn't improve.
-2.You have pain radiating to the shoulder blade and down the arm.
-3.You experience numbness and weakness along with the pain.
-4.You have accompanying headaches.
+<strong>Common Causes of Neck, Shoulder, and Upper Back Pain:  </strong><br/>
 
-<strong>Common Causes of Neck, Shoulder, and Upper Back Pain:  </strong>
-
-1.Abnormal muscle tension leading to muscle fatigue.
-2.Degenerative changes in the cervical facet joints and intervertebral discs.
-3.Herniated cervical disc compressing a nerve root in the neck.
-4.Certain co-existing medical conditions, such as rheumatoid arthritis or cancer.
+1.Abnormal muscle tension leading to muscle fatigue.<br/>
+2.Degenerative changes in the cervical facet joints and intervertebral discs.<br/>
+3.Herniated cervical disc compressing a nerve root in the neck.<br/>
+4.Certain co-existing medical conditions, such as rheumatoid arthritis or cancer.<br/>
 
 <figure class="wp-block-image aligncenter"><img width="600" height="800" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท.png" alt="บทความโดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์ หมอเก่ง ไขปัญหาปวดกระดูกและข้อ คลินิครักษา ปวดหลัง ปวดกระดูก กระดูกและข้อ เชียงใหม่" loading="lazy" srcset="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท.png 600w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท-225x300.png 225w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
 <figure class="wp-block-image aligncenter"><img width="600" height="800" src="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท-1.png" alt="บทความโดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์ หมอเก่ง ไขปัญหาปวดกระดูกและข้อ คลินิครักษา ปวดหลัง ปวดกระดูก กระดูกและข้อ เชียงใหม่" loading="lazy" srcset="https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท-1.png 600w, https://doctorkeng.com/wordpress/wp-content/uploads/2020/12/หมอนรองกระดูกทับเส้นประสาท-1-225x300.png 225w" sizes="(max-width: 600px) 100vw, 600px" /></figure>
@@ -406,79 +406,93 @@ If the pain persists even after adjusting your behavior, you should see a doctor
 <strong>Blockdit</strong>: <a href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener" class="contact-line" style="padding-left: 2px;">https://www.blockdit.com/doctorkeng</a><br/>`,
       },
       '114-neckpain-disk': {
-        title: 'ปวดคอ (หมอนรองกระดูกคอเสื่อม)',
-        shot: 'อาการปวดต้นคออาจจะเกิดจากมีความผิดปกติในบริเวณเยื้อเยื่ออ่อน เช่น กล้ามเนื้อ เส้นเอ็น เส้นประสาท และกระดูกและข้อในบริเวณกระดูกสันหลังบริเวณต้นคอ สาเหตุส่วนใหญ่มักเกิดจากการได้รับอุบัติเหตุ หรือมีการเสื่อมสลายของกระดูกบริเวณต้นคอและหมอนรองกระดูกต้นคอเป็นเวลานาน ในผู้ป่วยส่วนน้อยอาการปวดต้นคออาจเกิดจากการติดเชื้อ หรือเนื้องอก ในผู้ป่วยบางคนอาการปวดต้นคออาจจะเกิดจากสาเหตุการปวดที่บริเวณหลังส่วนบน หรือปวดจากบริเวณไหล่',
+        title: 'Neck pain (Cervical disc degeneration)',
+        shot: 'Neck pain may result from abnormalities in the soft tissues, such as muscles, ligaments, nerves, as well as the bones and joints in the cervical spine area. The most common causes are trauma or long-term degeneration of the cervical vertebrae and intervertebral discs. In some cases, neck pain may be caused by infections or tumors. In others, the pain may originate from the upper back or shoulders and radiate to the neck.',
         detail: `<figure class="wp-block-image aligncenter"><img class="aligncenter wp-image-3370" src="https://doctorkeng.com/wordpress/wp-content/uploads/2018/03/อาการปวดต้นคอ.jpg" alt="" width="700" height="700" /></figure>
-<p style="text-align: center;"><span style="font-size: 18pt;"><strong><span style="color: #000080;">ปวดคอ (หมอนรองกระดูกคอเสื่อม)</span>
-</strong></span><span style="color: #000080;">ผศ.นพ.ธนินนิตย์ ลีรพันธ์</span></p>
-<span style="color: #0000ff;"><strong><span style="color: #000080;">อะไรเป็นสาเหตุทำให้เกิดอาการปวดต้นคอ</span>
-</strong></span>อาการปวดต้นคออาจจะเกิดจากมีความผิดปกติในบริเวณเยื้อเยื่ออ่อน เช่น กล้ามเนื้อ เส้นเอ็น เส้นประสาท และกระดูกและข้อในบริเวณกระดูกสันหลังบริเวณต้นคอ สาเหตุส่วนใหญ่มักเกิดจากการได้รับอุบัติเหตุ หรือมีการเสื่อมสลายของกระดูกบริเวณต้นคอและหมอนรองกระดูกต้นคอเป็นเวลานาน ในผู้ป่วยส่วนน้อยอาการปวดต้นคออาจเกิดจากการติดเชื้อ หรือเนื้องอก ในผู้ป่วยบางคนอาการปวดต้นคออาจจะเกิดจากสาเหตุการปวดที่บริเวณหลังส่วนบน หรือปวดจากบริเวณไหล่
+<p style="text-align: center;"><span style="font-size: 18pt;"><strong><span style="color: #000080;">Neck pain (Cervical disc degeneration)</span>
+</strong></span><span style="color: #000080;">By Asst. Prof. Dr. Thaninnit Leerapun</span></p>
+<span style="color: #0000ff;"><strong><span style="color: #000080;">What causes neck pain?</span>
+</strong></span>Neck pain may result from abnormalities in the soft tissues, such as muscles, ligaments, nerves, as well as the bones and joints in the cervical spine area. The most common causes are trauma or long-term degeneration of the cervical vertebrae and intervertebral discs. In some cases, neck pain may be caused by infections or tumors. In others, the pain may originate from the upper back or shoulders and radiate to the neck. 
 
-<span style="color: #000080;"><strong>โรคกระดูกคอเสื่อม</strong></span> และการอักเสบ โรคที่เกิดจากการเสื่อมสลายเนื่องมาจากอายุที่มากขึ้นมักจะมีลักษณะของข้อต่อระหว่างกระดูกเสื่อม มักเกิดในผู้สูงอายุ ซึ่งเกิดเนื่องจากมีการสึกหรอของข้อต่อในบริเวณกระดูกต้นคอ ซึ่งเป็นสาเหตุทำให้ผู้ป่วยมีอาการปวดคอ และคอยึดติดเคลื่อนไหวลำบาก
+<span style="color: #000080;"><strong>Cervical spondylosis</strong></span> and inflammation are also common causes. These degenerative conditions are often related to aging and involve the deterioration of the joints between the cervical vertebrae. They are frequently seen in elderly individuals and may result in neck pain, stiffness, and reduced range of motion.
 
-<center><iframe src="https://www.youtube.com/embed/9lSM2--NnsI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>หมอนรองกระดูกคอเสื่อม ก็เป็นสาเหตุสำคัญอย่างหนึ่งที่ทำให้เกิดอาการปวดคอ หมอนรองกระดูกทำหน้าที่คล้ายตัวรับและป้องกันการกระแทกระหว่างกระดูกในบริเวณต้นคอ ในผู้ป่วยที่มีหมอนรองกระดูกต้นคอเสื่อม ซึ่งมักจะมีอายุตั้งแต่ 40 ปี ส่วนประกอบในบริเวณส่วนกลางของหมอนรองกระดูกซึ่งปกติมักมีลักษณะคล้ายเยลลี่มีการเสื่อมสลาย หมอนรองกระดูกแฟบลงทำให้ช่องว่างระหว่างกระดูกสันหลังแคบลง ทำให้เพิ่มแรงกดที่บริเวณของข้อต่อระหว่างกระดูกทำให้ข้อมีการเสื่อมมากขึ้นกว่าเดิม หมอนรองกระดูกคออาจจะมีการยื่นเข้าไปในช่องทางเดินของเส้นประสาท ทำให้มีการกดทับเส้นประสาท
-
-<strong><span style="color: #000080;">เมื่อไหร่ที่ควรจะไปพบแพทย์</span>
-</strong>ถ้ามีอาการปวดต้นคอเกิดขึ้นทันทีหลังจากที่ได้รับอุบัติเหตุ เช่น อุบัติเหตุมอเตอร์ไซด์ ตกจากที่สูง ต้องรีบไปพบแพทย์ทันที เพื่อทำการตรวจร่างกาย ถ้าไม่ได้รับอุบัติเหตุท่านควรจะไปพบแพทย์เมื่อ
+<center><iframe src="https://www.youtube.com/embed/9lSM2--NnsI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>Cervical disc degeneration is one of the major causes of neck pain. Cervical discs act as cushions that absorb shock between the vertebrae in the neck. In patients with cervical disc degeneration, which commonly occurs in people over the age of 40, the jelly-like central portion of the disc begins to deteriorate. The disc flattens, reducing the space between the vertebrae, which increases pressure on the facet joints and accelerates joint degeneration. The disc may also protrude into the spinal canal, causing nerve compression.
+<br/>
+<strong><span style="color: #000080;">When should you see a doctor?</span><br/>
+</strong>You should see a doctor immediately if neck pain occurs right after trauma, such as a motorcycle accident or a fall from height, so that a physical examination can be performed. If there was no traumatic injury, you should see a doctor if you experience:
 <ul>
- \t<li>มีอาการปวดเรื้อรัง และยังคงอยู่</li>
- \t<li>อาการปวดรุนแรง</li>
- \t<li>มีอาการปวดต้นคอ ร่วมกับมีอาการปวดร้าวลงแขน หรือขา</li>
- \t<li>มีอาการปวดต้นคอร่วมกับอาการปวดศรีษะ ชา และอาการอ่อนแรงของกล้ามเนื้อ</li>
+ \t<li>Chronic, persistent neck pain</li>
+ \t<li>Severe neck pain</li>
+ \t<li>Neck pain accompanied by radiating pain down the arm or leg</li>
+ \t<li>Neck pain associated with headaches, numbness, or muscle weakness</li>
 </ul>
-<span style="color: #000080;"><strong>ทำไมจึงต้องไปพบแพทย์</strong></span>
-ท่านควรไปพบศัลยแพทย์กระดูก (ศัลยแพทย์ออร์โทปิดิกส์) เพื่อที่จะได้รับการตรวจประเมิน เพื่อให้ได้การวินิจฉัย การรักษา และการป้องกันที่ถูกต้อง โดยแพทย์จะเริ่มต้นจากการซักประวัติ การตรวจร่างกาย แล้วให้การวินิจฉัยเบื้องต้น การส่งถ่ายภาพเอกซเรย์เพื่อดูรายละเอียดของกระดูกบริเวณต้นคอว่ามีอะไรผิดปกติบ้าง ถ้าแพทย์ยังสงสัยในเรื่องการวินิจฉัยก็อาจจะส่งผู้ป่วยไปตรวจด้วยเครื่อง MRI ซึ่งสามารถให้รายละเอียดได้ดีที่สุดในปัจจุบัน
-
-<strong><span style="color: #000080;">รักษาอาการปวดต้นคออย่างไร</span>
-</strong>การรักษาอาการปวดต้นคอส่วนใหญ่มักขึ้นอยู่กับการวินิจฉัยโรคจากแพทย์ ผู้ป่วยส่วนใหญ่มักจะรักษาให้หายได้ด้วยการพัก รับประทานยา การทำกายภาพบำบัด การใช้เครื่องพยุงคอ และการปรับเปลี่ยนลักษณะกิจวัตรประจำวัน
-
-<span style="color: #000080;"><strong>ควรปฏิบัติตนอย่างไรบ้าง</strong></span>
+<span style="color: #000080;"><strong>Why should you see a doctor?</strong></span><br/>
+You should consult an orthopedic surgeon for a thorough evaluation, accurate diagnosis, appropriate treatment, and prevention strategies. The doctor will start with a medical history and physical examination, followed by an initial diagnosis. X-rays may be ordered to check for cervical spine abnormalities. If the diagnosis remains uncertain, the doctor may recommend an MRI scan, which currently provides the most detailed imaging.
+<br/>
+<strong><span style="color: #000080;">How is neck pain treated?</span><br/>
+</strong>Most neck pain treatment depends on the doctor’s diagnosis. Many patients can recover with conservative treatment, including rest, medications, physical therapy, cervical collars, and modifying daily activities.
+<br/>
+<span style="color: #000080;"><strong>What should you do?</strong></span>
 <ul>
- \t<li>พยายามใช้ท่าทางอย่างถูกต้องในขณะนั่งทำงาน หรือในท่ายืน โดยไม่พยายามที่จะก้มคอมากเกินไปดังภาพ</li>
- \t<li>ออกกำลังกายบริหารกล้ามเนื้อบริเวณคอ</li>
- \t<li>เวลานอนพยายามใช้หมอนหนุนที่บริเวณต้นคอและศีรษะ</li>
- \t<li>ถ้ามีอาการปวดเกร็งที่ต้นคอมากอาจสวมใส่เครื่องพยุงลำคอ</li>
- \t<li>การทำกายภาพบำบัดโดยการประคบด้วยความร้อน และการดึงส่วนลำคอโดยนักกายภาพบำบัดจะช่วยบรรเทาอาการได้</li>
- \t<li>อาหารไม่มีบทบาทในการรักษาโรคปวดต้นคอ หรือทำให้เกิดอาการมากขึ้น</li>
+ \t<li>Maintain proper posture while sitting or standing; avoid excessive neck flexion.</li>
+ \t<li>Perform neck muscle strengthening exercises.</li>
+ \t<li>Use a pillow that supports both the neck and head while sleeping.</li>
+ \t<li>If you have severe neck muscle spasms, wearing a cervical collar may help</li>
+ \t<li>Physical therapy techniques such as applying heat and cervical traction performed by a physical therapist can relieve symptoms.</li>
+ \t<li>Diet has no role in causing or treating neck pain.</li>
 </ul>
 
 <hr />
 
-<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">สอบถามปัญหาสุขภาพกระดูกและข้อได้ที่</span><br/>
-</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>หรือ Line ID search</strong> @DoctorKeng</span></span><br/>
+<span style="color: #000000;"><strong><span style="font-size: 10pt;"><span style="color: #000080;">For inquiries regarding bone and joint health, please contact:</span><br/>
+</span></strong><span style="font-size: 10pt;"><strong>Line OA:</strong> <a style="color: #000000;" href="https://lin.ee/swOi91Q" target="_blank" rel="noopener">https://lin.ee/swOi91Q</a> <strong>or Line ID search</strong> @DoctorKeng</span></span><br/>
 <span style="font-size: 10pt; color: #000000;"><strong>Website: </strong>www.doctorkeng.com</span><br/>
 <span style="font-size: 10pt; color: #000000;"><strong>YouTube:</strong> <a style="color: #000000;" href="https://www.youtube.com/results?search_query=taninnit+leerapun" target="_blank" rel="noopener">https://www.youtube.com/results?search_query=taninnit+leerapun</a></span><br/>
-<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ</a></span><br/>
+<span style="font-size: 10pt; color: #000000;"><strong>Facebook:</strong> <a style="color: #000000;" href="https://www.facebook.com/backpainnonop" target="_blank" rel="noopener">หมอเก่งไขปัญหาปวดกระดูกและข้อ (Dr. Keng Solves Bone and Joint Pain Problems)</a></span><br/>
 <span style="font-size: 10pt; color: #000000;"><strong>Blockdit</strong>: <a style="color: #000000;" href="https://www.blockdit.com/doctorkeng" target="_blank" rel="noopener">https://www.blockdit.com/doctorkeng</a></span><br/>`,
       },
       'neck-pain': {
-        title: 'ปวดต้นคอ หมอนรองกระดูกเสื่อม',
-        shot: 'ปัจจุบันประชาชนมักจะมีอาการปวดบริเวณต้นคอเพิ่มมากขึ้นซึ่งมีสาเหตุจากการพัฒนาเทคโนโลยี การใช้คอมพิวเตอร์ การใช้โทรศัพท์มือถือสมาร์ทโฟนเพิ่มขึ้น ผู้ใช้งานก้มคอใช้อุปกรณ์เหล่านี้ต่อเนื่องเป็นระยะเวลานาน จึงทำให้เกิดปัญหาปวดเมื่อยบริเวณต้นคอและกล้ามเนื้อบริเวณบ่า และสาเหตุอีกอย่างคือประเทศไทยเข้าสู่สังคมผู้สูงอายุทำให้ประชากรมีอายุเพิ่มมากขึ้น เกิดปัญหาของโรคข้อเสื่อมและหมอนรองกระดูกสันหลังเสื่อมเพิ่มขึ้น จึงทำให้พบปัญหาอาการปวดคอเพิ่มมากขึ้น  ท่านผู้อ่านคงเคยมีประสบการณ์อาการปวดบริเวณต้นคอบ้าง บางครั้งอาจจะมีอาการปวดต้นคอเวลาตื่นนอนตอนเช้าไม่สามารถหมุนศีรษะได้ มีอาการปวดตั้งแต่บริเวณต้นคอ ท้ายทอยลงบริเวณบ่า  สะบัก ปวดร้าวลงบริเวณหัวไหล่และต้นแขน อาจจะมีอาการชาร้าวลงมือร่วมด้วย  บางครั้งไปนอนสระผมที่ร้านทำผม พอลุกขึ้นมาก็จะรู้สึกมีอาการปวดต้นคอ',
-        detail: `<h2 style="text-align: center;"><span style="font-size: 24pt; color: #2f1da3;"><strong>ปวดต้นคอ-หมอนรองกระดูกเสื่อม</strong></span>
-<span style="font-size: 12pt; color: #2f1da3;">โดย ผศ.นพ.ธนินนิตย์ ลีรพันธ์</span></h2>
+        title: 'Neck Pain – Cervical Disc Degeneration',
+        shot: `Nowadays, an increasing number of people are experiencing neck pain. This is largely due to advancements in technology, including the rising use of computers and smartphones. Prolonged periods of looking down while using these devices can lead to neck and shoulder muscle strain. Another contributing factor is Thailand's transition into an aging society, which results in a higher prevalence of degenerative joint diseases and cervical disc degeneration. Consequently, the incidence of neck pain has been steadily rising. Many readers may have experienced neck pain themselves—perhaps waking up in the morning with stiffness and an inability to turn the head. The pain may start at the neck or the nape of the neck and radiate to the shoulders, shoulder blades, or upper arms. In some cases, the pain may even be accompanied by numbness or tingling that extends down to the hands. A common situation is experiencing neck pain after lying back to have your hair washed at a salon.`,
+        detail: `<h2 style="text-align: center;"><span style="font-size: 24pt; color: #2f1da3;"><strong>Neck Pain – Cervical Disc Degeneration</strong></span>
+<span style="font-size: 12pt; color: #2f1da3;">By Asst. Prof. Dr. Thaninnit Leerapun</span></h2>
 <center><iframe src="https://www.youtube.com/embed/9lSM2--NnsI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
-<p style="text-align: left;">ปัจจุบันประชาชนมักจะมีอาการปวดบริเวณต้นคอเพิ่มมากขึ้นซึ่งมีสาเหตุจากการพัฒนาเทคโนโลยี การใช้คอมพิวเตอร์ การใช้โทรศัพท์มือถือสมาร์ทโฟนเพิ่มขึ้น ผู้ใช้งานก้มคอใช้อุปกรณ์เหล่านี้ต่อเนื่องเป็นระยะเวลานาน จึงทำให้เกิดปัญหาปวดเมื่อยบริเวณต้นคอและกล้ามเนื้อบริเวณบ่า และสาเหตุอีกอย่างคือประเทศไทยเข้าสู่สังคมผู้สูงอายุทำให้ประชากรมีอายุเพิ่มมากขึ้น เกิดปัญหาของโรคข้อเสื่อมและหมอนรองกระดูกสันหลังเสื่อมเพิ่มขึ้น จึงทำให้พบปัญหาอาการปวดคอเพิ่มมากขึ้น  ท่านผู้อ่านคงเคยมีประสบการณ์อาการปวดบริเวณต้นคอบ้าง บางครั้งอาจจะมีอาการปวดต้นคอเวลาตื่นนอนตอนเช้าไม่สามารถหมุนศีรษะได้ มีอาการปวดตั้งแต่บริเวณต้นคอ ท้ายทอยลงบริเวณบ่า  สะบัก ปวดร้าวลงบริเวณหัวไหล่และต้นแขน อาจจะมีอาการชาร้าวลงมือร่วมด้วย  บางครั้งไปนอนสระผมที่ร้านทำผม พอลุกขึ้นมาก็จะรู้สึกมีอาการปวดต้นคอ</p>
+<p style="text-align: left;">Nowadays, an increasing number of people are experiencing neck pain. This is largely due to advancements in technology, including the rising use of computers and smartphones. Prolonged periods of looking down while using these devices can lead to neck and shoulder muscle strain. Another contributing factor is Thailand's transition into an aging society, which results in a higher prevalence of degenerative joint diseases and cervical disc degeneration. Consequently, the incidence of neck pain has been steadily rising. Many readers may have experienced neck pain themselves—perhaps waking up in the morning with stiffness and an inability to turn the head. The pain may start at the neck or the nape of the neck and radiate to the shoulders, shoulder blades, or upper arms. In some cases, the pain may even be accompanied by numbness or tingling that extends down to the hands. A common situation is experiencing neck pain after lying back to have your hair washed at a salon.</p>
 
-<h3><strong>สาเหตุของอาการปวดคอ</strong></h3>
-สามารถแบ่งได้ตามช่วงอายุและอุบัติการณ์ของการเกิดอาการปวดต้นคอซึ่งสามารถเกิดได้ตั้งแต่อายุ 20 ปี เป็นต้นไป สาเหตุส่วนใหญ่มักเกิดจากการใช้งานไม่ถูกท่า การนั่งทำงานกับคอมพิวเตอร์เป็นระยะเวลานานอย่างต่อเนื่อง การก้มใช้งานมือถือ ทำให้ต้องก้มคอตลอดเวลาซึ่งส่งผลทำให้กล้ามเนื้อเกิดอาการเกร็งตัวทำให้เกิดอาการปวดเมื่อยตามบริเวณต้นคอและสะบักทั้ง 2 ข้าง ในบางครั้งที่มีอาการปวดต้นคออย่างรุนแรงอาจจะเกิดเนื่องจากหมอนรองกระดูกต้นคอเคลื่อนออกมากดทับเส้นประสาท ทำให้เกิดอาการบวมและอักเสบของเส้นประสาท นอกจากนี้ตัวหมอนรองกระดูกที่เคลื่อนออกมานั้นจะมีสารที่ทำให้เกิดการอักเสบโดยตรงต่อเส้นประสารทจึงทำให้ผู้ป่วยมีอาการปวดคอร้าวลงแขนเพิ่มมากขึ้น รวมทั้งในบางรายอาจจะมีอาการชา และอ่อนแรงของแขนในข้างที่เส้นประสาทไปกดทับด้วย เมื่ออายุมากขึ้น ส่วนใหญ่ประมาณตั้งแต่ 45 ปีขึ้นไป อาการปวดคอส่วนใหญ่มักเกิดจากกระบวนการเสื่อมของหมอนรองกระดูกและการอักเสบของข้อต่อระหว่างกระดูกสันหลัง บางครั้งหมอนรองกระดูกสันหลังส่วนคอมีการเสื่อมและเคลื่อนออกมากดทับเส้นประสาท หรือมีกระดูกงอกจากการเสื่อมของกระดูกข้อต่อสันหลังไปกดทับเส้นประสาท
-<h3><strong>อาการปวดบริเวณคอ</strong></h3>
-ผู้ป่วยมักจะมีอาการปวดเมื่อยๆบริเวณกระดูกและกล้ามเนื้อบริเวณต้นคอ ปวดร้าวลงบริเวณบ่า และสะบัก บริเวณไหล่ และข้อศอก ร่วมกับอาการชาลงไปที่มือ และนิ้ว อาจจะมีความรู้สึกปวดแปล๊บๆเหมือนไฟฟ้าช็อต วิ่งลงแขน หันศีรษะลำบาก ไม่สามารถหันได้เหมือนปกติ เวลาจะเหลียวมองด้านข้างต้องหันไปทั้งตัว บางครั้งมีอาการปวดมากจนทำให้ไม่สามารถนอนพักได้ นอนไม่หลับ อาการปวดจะเพิ่มมากขึ้นเมื่อแหงนศีรษะ หรือก้มนานๆ เนื่องจากน้ำหนักของศีรษะไปกระทำตรงบริเวณข้อต่อระหว่างกระดูกเพิ่มมากก็จะทำให้เกิดการอักเสบและช่องทางเดินประสาทแคบลง เมื่อเส้นประสาทถูกกดทับจะทำให้มีอาการอ่อนแรงของกล้ามเนื้อที่เลี้ยงโดยรากประสาทนั้นๆ เช่น ไม่มีแรงกำมือ หรือกระดกข้อมือ มีอาการปวดจากท้ายทอยขึ้นไปยังศีรษะ และอาจมีอาการปวดร้าวออกเบ้าตา ซึ่งถ้าผู้ป่วยมีอาการปวดมาเป็นระยะเวลานานก็ทำให้ผู้ป่วยเกิดความเครียดและกังวล กลัวว่าจะเป็นโรคร้าย เป็นมะเร็ง เป็นอัมพฤกษ์อัมพาต
+<h3><strong>Causes of Neck Pain</strong></h3>
+The causes of neck pain can be categorized by age group and the incidence of neck pain, which may begin as early as age 20. Most commonly, it results from improper posture, such as prolonged computer use or frequent forward bending while using a mobile phone. These activities cause constant neck flexion, leading to muscle tension and soreness in the neck and shoulder blade areas on both sides. In some cases, severe neck pain may be caused by a herniated cervical disc pressing on a nerve, leading to nerve inflammation and swelling. The herniated disc itself contains substances that directly trigger inflammation of the nerves, which can cause radiating pain from the neck down to the arms. In some individuals, numbness and muscle weakness in the arm on the affected side may also occur. As people age—typically from around 45 years onward—neck pain is often due to degenerative changes in the intervertebral discs and inflammation of the facet joints between the vertebrae. Sometimes, degeneration and herniation of cervical discs or bone spurs resulting from spinal joint degeneration can also compress the nerves.
+<h3><strong>Neck Pain Symptoms</strong></h3>
+Patients typically experience aching and soreness in the bones and muscles of the neck, with pain radiating to the shoulders, shoulder blades, arms, and elbows. This may be accompanied by numbness extending to the hands and fingers. Some patients may describe sharp, electric shock-like pain shooting down the arm. They may find it difficult to turn their head normally and instead have to rotate their whole body to look to the side. In severe cases, the pain can be intense enough to interfere with sleep or prevent rest altogether. Pain tends to worsen when the head is tilted backward or held in a downward position for a prolonged period, as the weight of the head increases pressure on the cervical facet joints. This pressure can cause inflammation and narrowing of the spinal canal, leading to nerve compression. When a nerve root is compressed, it may result in muscle weakness in the areas supplied by that nerve—for example, reduced grip strength or wrist drop.
 
-ผู้ป่วยอาจจะมีอาการปวดเพิ่มมากขึ้นในช่วงเดินทางนั่งบนรถ หรือนั่งเครื่องบินแล้วเผลอหลับ เวลาตื่นขึ้นมาจะมีอาการปวดต้นคอ สาเหตุอันเนื่องมาจากในขณะที่นอนหลับในท่านั่งนั้นน้ำหนักของศีรษะจะทำให้คอก้มลงมาทางด้านหน้า ซึ่งเป็นท่าที่ไม่เหมาะสมเป็นเวลานาน จึงทำให้เกิดอาการเกร็ง ตึงตัวของกล้ามเนื้อรอบๆบริเวณลำคอ ทำให้เกิดการอักเสบของกระดูกข้อต่อ จึงทำให้เกิดอาการปวดเมื่อยกล้ามเนื้อรอบๆที่บริเวณลำคอ บ่า
-<h3><b>การวินิจฉัยโรค
+Patients may also experience pain extending from the base of the skull up to the head, or pain radiating behind the eyes. Chronic neck pain can lead to anxiety and stress, with concerns about serious conditions such as cancer, paralysis, or stroke. Neck pain may also worsen during travel—such as sleeping while sitting on a car or airplane—when the head unintentionally falls forward. This prolonged improper posture causes the neck muscles to become tense and strained, which in turn leads to inflammation of the cervical joints and soreness in the neck and shoulder muscles.
+<h3><b>Diagnosis
 </b></h3>
-การวินิจฉัยโรคเป็นการวิเคราะห์ข้อมูลจากการซักประวัติอาการปวดของผู้ป่วย ร่วมกับการตรวจร่างกายของแพทย์ ซึ่งถ้ามีอาการปวดมากแพทย์อาจส่งตรวจภาพถ่ายเอกซเรย์บริเวณกระดูกต้นคอ ซึ่งมักจะพบว่ามีการเสื่อมของหมอนรองกระดูกต้นคอ สังเกตได้จากความสูงของหมอนรองกระดูกสันหลังมีขนาดลดลง เพราะปกติหมอนรองกระดูกมีองค์ประกอบส่วนใหญ่เป็นน้ำ และเมื่อเกิดกระบวนการเสื่อมจะทำให้ปริมาณน้ำในหมอนรองกระดูกลดปริมาณลง และในบางครั้งอาจเกิดการเคลื่อนของหมอนรองกระดูกชั้นในออกมากดทับเส้นประสาท นอกจากนี้อาจจะพบลักษณะของกระดูกงอกออกไปกดทับเส้นประสาทร่วมด้วย ในบางกรณีถ้าผู้ป่วยมีอาการเรื้อรัง อาการปวดไม่บรรเทาลงหลังจากการให้การรักษาที่ถูกต้องอย่างต่อเนื่อง แพทย์ผู้ทำการรักษาอาจจะพิจารณาส่งผู้ป่วยไปตรวจด้วยภาพคลื่นแม่เหล็กไฟฟ้า (MRI) ซึ่งจะช่วยแสดงรอยโรคได้ชัดเจนมากกว่าภาพถ่ายรังสีธรรมดา
-<h3><b>การป้องกันและการรักษา</b></h3>
+Diagnosis involves analyzing information obtained from taking the patient's pain history along with a physical examination by a physician. If the pain is severe, the doctor may order an X-ray of the cervical spine. The X-ray often shows degeneration of the cervical intervertebral discs, which can be observed as a decrease in disc height. Normally, intervertebral discs are composed mostly of water, but during the degenerative process, the water content decreases. In some cases, the inner portion of the disc may herniate and compress nearby nerves. Additionally, bone spurs may also form and press on the nerves.
+In cases where the patient has chronic symptoms and the pain does not improve after proper and continuous treatment, the physician may consider sending the patient for magnetic resonance imaging (MRI), which provides a clearer view of the lesions than standard X-ray imaging.
+<h3><b>Prevention and Treatment</b></h3>
 <ol>
- \t<li>การปรับเปลี่ยนท่าทางและการใช้ชีวิตประจำวัน พยายามหลีกเลี่ยงการนั่งอ่านหนังสือนานๆ การก้มคอใช้โทรศัพท์มือถือ การแหงนศีรษะ เมื่อใช้งานกับคอมพิวเตอร์เป็นเวลานานจำเป็นต้องปรับตำแหน่งของจอคอมพิวเตอร์ให้อยู่ในระดับสายตา การเปลี่ยนอิริยาบถในขณะทำงานกับจอคอมพิวเตอร์นานๆ แม้กระทั่งการนอนดูโทรทัศน์นานๆก็อาจจะทำให้เกิดอาการปวดคอได้ ดังนั้นควรมีการปรับท่าทางให้เหมาะสมเช่นควรนั่งดูโทรทัศน์มากกว่าการนอน ไม่ก้มคอใช้งานโทรศัพท์มือถืออย่างต่อเนื่องเป็นระยะเวลานาน
-เมื่ออายุมากขึ้น ควรจะหลีกเลี่ยงกีฬาบางประเภทเพราะอาจจะทำให้มีอาการปวดต้นคอเพิ่มมากขึ้นได้เช่น  แบดมินตัน เพราะมักจะต้องแหงนศีรษะเวลาตีลูก ซึ่งจะทำให้ช่องทางเดินประสาทแคบลงเมื่อแหงนศีรษะ ทำให้เกิดการกดทับเส้นประสาทเพิ่มมากขึ้น และเกิดการอักเสบของกระดูกสันหลังบริเวณข้อต่อ ในผู้ป่วยที่มีอาการปวดต้นคอมากควรหลีกเลี่ยงการนอนสระผมที่ร้านทำผม เพราะการนอนสระผมจะมีการแหงนศีรษะมากทำให้ช่องทางเดินประสาทแคบลง และทำให้กระดูกข้อต่อเกิดการอักเสบ จึงทำให้เกิดอาการปวดเพิ่มมากขึ้นได้  และไม่ควรแหงนศีรษะเป็นระยะเวลานานเพราะจะทำให้กระดูกข้อต่อสันหลังบริเวณคอเกิดการอักเสบ ทำให้เกิดอาการปวดและเกร็งตัวของกล้ามเนื้อ</li>
- \t<li>การทำกายภาพบำบัด ด้วยการดึงคอ เป็นการใช้แรงดึงกระทำต่อร่างกายและกระดูกสันหลังส่วนคอ ช่วยทำให้ช่องระหว่างกระดูกสันหลังส่วนบริเวณคอกว้างขึ้น ลดการกดทับเส้นประสาท ช่วยในการยืดกล้ามเนื้อ เส้นเอ็น และการเกร็งตัวของกล้ามเนื้อ นอกจากนี้ยังมีการใช้คลื่นเสียงความถี่สูงช่วยในการบำบัดรักษา คลื่นเหนือเสียงที่มีความถี่ 20,000 รอบต่อนาที ซึ่งจะกระตุ้นให้เกิดความร้อนลึกเฉพาะที่ ส่งผลในการช่วยลดอักเสบ อาการปวด เพิ่มความยืดหยุ่นของกล้ามเนื้อและเนื้อเยื่อ ช่วยทำให้อาการของผู้ป่วยทุเลาลง</li>
- \t<li>การรับประทานยาลดปวด ยาลดการอักเสบ ซึ่งยาจะออกฤทธิ์ในการลดปวดตามส่วนต่างๆของร่างกาย ซึ่งยาแต่ละชนิดก็ออกฤทธิ์แตกต่างกัน ก็ช่วยทำให้อาการปวด อาการชาทุเลาลงได้ ข้อควรระวังในการใช้ยาลดการอักเสบคือต้องรับประทานยาหลังอาหารทันทีเพราะอาจจะมีผลทำให้เกิดอาการระคายเคืองต่อกระเพาะอาหาร และไม่ควรรับประทานต่อเนื่องนานเกิน 1 เดือน</li>
- \t<li>การฉีดยาชาระงับปวดเข้าไประหว่างชั้นกล้ามเนื้อ ซึ่งเป็นที่อยู่ของเส้นประสาทที่ไปเลี้ยงกล้ามเนื้อที่มีอาการเกร็งตัว เพื่อลดการนำสื่อประสาท จะช่วยทำให้กล้ามเนื้อตรงบริเวณคอ และบริเวณบ่าและกล้ามเนื้อรอบๆสะบัก คลายตัวลง ลดการเกร็งตัวของกล้ามเนื้อ จะช่วยลดอาการปวดได้ดีมากโดยเฉพาะในช่วงระยะ 2 สัปดาห์หลังการฉีด</li>
+ \t<li>Posture and Lifestyle Adjustments
+Avoid prolonged periods of reading while sitting, bending the neck to use a mobile phone, or tilting the head upward. When working with a computer for extended periods, it is important to adjust the monitor to be at eye level. Changing posture regularly while working at a computer is recommended. Even lying down for long periods while watching television can cause neck pain. Therefore, proper posture should be maintained—such as sitting to watch TV instead of lying down—and avoiding prolonged use of mobile phones while looking downward.
+As we age, certain sports should be avoided as they may exacerbate neck pain. For example, playing badminton often requires looking upward to hit the shuttlecock, which narrows the neural foramen and increases nerve compression, potentially causing inflammation in the cervical spine joints.
+Individuals with significant neck pain should avoid having their hair washed at salons, as the reclining position required can excessively tilt the head backward, narrowing the neural pathways and causing joint inflammation, which worsens the pain. Prolonged upward tilting of the head should be avoided, as it can lead to inflammation of the cervical spine joints, causing pain and muscle stiffness.</li>
+ \t<li>Physical Therapy
+Cervical traction involves applying a pulling force to the cervical spine, which helps widen the intervertebral space, reducing nerve compression. It also helps stretch muscles, ligaments, and reduce muscle stiffness. Additionally, high-frequency ultrasound therapy may be used. With a frequency of 20,000 cycles per second, this therapy produces deep localized heat, which helps reduce inflammation and pain, increases muscle and tissue flexibility, and alleviates patient symptoms.</li>
+ \t<li>Medication for Pain and Inflammation
+Pain relievers and anti-inflammatory drugs are used to reduce pain throughout the body. Each type of medication has a different mechanism of action but generally helps relieve pain and numbness. A key precaution when using anti-inflammatory drugs is that they must be taken immediately after meals, as they can irritate the stomach lining. Long-term use should be avoided, and they should not be taken continuously for more than one month.</li>
+ \t<li>Pain-Relieving Injections
+Local anesthetic injections into the muscle layers—where the nerves supplying tense muscles are located—can block nerve signals and help the muscles in the neck, shoulders, and around the shoulder blades relax. This reduces muscle stiffness and effectively relieves pain, especially during the first two weeks following the injection.</li>
 </ol>
-หลังจากฉีดยา อาการปวดจะทุเลาลงเป็นอันดับแรก ต่อมาอาการชาตามแขนและมือจะค่อยๆดีขึ้นตามลำดับ ส่วนใหญ่ผู้ป่วยมักจะกังวลกลัวว่าจะเกิดโรคอัมพฤกษ์อัมพาต จากอาการชา เนื่องจากโรคหมอนรองกระดูกคอเสื่อมกดทับเส้นประสาท ซึ่งถ้าแพทย์ซักประวัติ ตรวจร่างกายอย่างละเอียดและให้การวินิจฉัยว่าเป็นโรคหมอนรองกระดูกคอเสื่อม ก็จะช่วยทำให้ผู้ป่วยคลายความกังวลลงไปได้  โดยทั่วไปอาการปวด ปวดชาร้าวลงแขนจะค่อยๆดีขึ้น ใช้ระยะเวลาประมาณ  3-4 เดือน ผู้ป่วยมากกว่าร้อยละ 90 สามารถให้การรักษาด้วยวิธีการข้างต้นได้ผลเป็นอย่างดี โดยไม่จำเป็นต้องรักษาด้วยการผ่าตัด สำหรับข้อบ่งชี้ในการผ่าตัดกระดูกสันหลังบริเวณคอจะทำในกรณีที่ มีการกดทับของเส้นประสาทและไขสันหลัง ทำให้ผู้ป่วยมีอาการเกร็ง ตัวแข็งเดินเกร็ง  ก้าวเดินลำบาก มีอาการอ่อนแรงของแขน และขา  อุจจาระและปัสสาวะลำบากไม่สามารถควบคุมได้จึงจำเป็นต้องผ่าตัด  ถ้าผู้ป่วยมีแค่เพียงอาการปวดต้นคอ ปวดร้าวลงแขนและมือ หรือมีอาการชาร่วมด้วย เราสามารถให้การรักษาด้วยวิธีการข้างต้นได้ผลเป็นอย่างดี โดยไม่มีความจำเป็นต้องรักษาด้วยการผ่าตัด
+Following the injection, pain is typically the first symptom to improve, followed gradually by the numbness in the arms and hands. Many patients tend to worry that the numbness may indicate a risk of paralysis or stroke. However, if a physician takes a thorough history, performs a detailed physical examination, and diagnoses the condition as cervical disc degeneration with nerve compression, it can help alleviate the patient’s anxiety.
 
-การเกิดกระดูกคอเสื่อมและการเกิดกระดูกงอกที่บริเวณข้อต่อระหว่างกระดูกนั้นเกิดจากกระบวนการเสื่อมของหมอนรองกระดูกสันหลัง จึงทำให้เกิดกระดูกงอกและบางครั้งทำให้เกิดการกดทับเส้นประสาท ผู้ป่วยบางท่านมีความกังวลใจว่าการรับประทานแคลเซียมวันละ 1 เม็ดนั้นหรือการรับประทานแคลเซียมมาเป็นระยะเวลานานมีผลทำให้เกิดภาวะกระดูกงอกหรือไม่ การรับประทานแคลเซียมวันละ 1 เม็ดในปริมาณประมาณ 600 มิลลิกรัมนั้น ไม่มีผลทำให้เกิดกระดูกงอกอันใดเลยเพราะสาเหตุของการเกิดกระดูกงอกตามส่วนต่างๆของข้อและกระดูกนั้นเกิดจากกระบวนการเสื่อมของร่างกาย ไม่เกี่ยวกับการรับประทานแคลเซียม`,
+In general, pain and radiating numbness or tingling down the arms tend to improve gradually over a period of approximately 3 to 4 months. More than 90% of patients respond well to the aforementioned non-surgical treatments, without the need for surgical intervention.
+
+Surgical treatment of the cervical spine is indicated only in cases where there is significant compression of the spinal cord and nerves, leading to symptoms such as spasticity, stiffness, difficulty walking, weakness in the arms and legs, or loss of control over bowel and bladder functions. In such cases, surgery becomes necessary.
+
+If the patient experiences only neck pain, radiating pain into the arms and hands, or numbness without the more severe neurological signs, conservative treatment is usually effective, and surgery is not required.
+
+Cervical disc degeneration and the formation of bone spurs at the vertebral joints occur as part of the degenerative process of the intervertebral discs. This degeneration can sometimes lead to nerve compression. Some patients express concern about whether taking calcium supplements—such as one 600 mg tablet per day—over a long period of time could contribute to the development of bone spurs. In reality, taking calcium in this amount does not cause bone spurs. The formation of bone spurs in joints and bones is a result of the body's natural aging and degenerative processes, and is not related to calcium supplementation.
+
+`,
     },
       },
   },
