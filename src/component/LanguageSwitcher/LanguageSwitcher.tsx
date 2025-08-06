@@ -25,9 +25,9 @@ const LanguageSwitcher: React.FC = () => {
       className="language-switcher"
     >
       <Dropdown.Toggle 
-        variant="outline-primary" 
+        variant=""
         id="language-dropdown"
-        className="language-toggle"
+        className="language-toggle btn" 
       >
         <span className="flag">{currentLang.flag}</span>
         <span className="lang-name">{currentLang.name}</span>

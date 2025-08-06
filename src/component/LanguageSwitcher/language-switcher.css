@@ -4,31 +4,58 @@
   position: relative;
 }
 
-.language-toggle {
-  display: flex;
-  align-items: center;
+/* Override Bootstrap dropdown toggle styles */
+.language-switcher .language-toggle {
+  display: flex !important;
+  align-items: center !important;
   gap: 8px;
-  padding: 8px 12px;
-  border: 1px solid #34539B;
-  background: white;
-  color: #34539B;
-  border-radius: 6px;
+  padding: 8px 12px !important;
+  border: 1px solid #34539B !important;
+  background: white !important;
+  color: #34539B !important;
+  border-radius: 6px !important;
   font-size: 14px;
   font-weight: 500;
-  transition: all 0.3s ease;
+  transition: all 0.3s ease !important;
   min-width: 120px;
   justify-content: space-between;
+  text-decoration: none !important;
 }
 
-.language-toggle:hover {
-  background: #34539B;
-  color: white;
-  border-color: #34539B;
+/* Fix hover state with higher specificity */
+.language-switcher .language-toggle:hover,
+.language-switcher .language-toggle:focus,
+.language-switcher .btn-outline-primary:hover,
+.language-switcher .btn-outline-primary:focus {
+  background: #34539B !important;
+  color: white !important;
+  border-color: #34539B !important;
+  text-decoration: none !important;
 }
 
-.language-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(52, 83, 155, 0.25);
-  border-color: #34539B;
+/* Fix active/pressed state */
+.language-switcher .language-toggle:active,
+.language-switcher .language-toggle.active,
+.language-switcher .btn-outline-primary:active,
+.language-switcher .btn-outline-primary.active {
+  background: #2d4485 !important;
+  color: white !important;
+  border-color: #2d4485 !important;
+}
+
+/* Fix focus state */
+.language-switcher .language-toggle:focus,
+.language-switcher .btn-outline-primary:focus {
+  box-shadow: 0 0 0 0.2rem rgba(52, 83, 155, 0.25) !important;
+  border-color: #34539B !important;
+}
+
+/* Show/dropdown state */
+.language-switcher.show .language-toggle,
+.language-switcher .language-toggle[aria-expanded="true"] {
+  background: #34539B !important;
+  color: white !important;
+  border-color: #34539B !important;
 }
 
 .language-toggle .flag {
@@ -49,7 +76,8 @@
   transform: rotate(180deg);
 }
 
-.language-menu {
+/* Dropdown menu styles */
+.language-switcher .language-menu {
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
@@ -58,34 +86,39 @@
   margin-top: 4px;
 }
 
-.language-item {
-  display: flex;
-  align-items: center;
+/* Dropdown item styles with Bootstrap override */
+.language-switcher .language-item {
+  display: flex !important;
+  align-items: center !important;
   gap: 10px;
-  padding: 10px 16px;
+  padding: 10px 16px !important;
   cursor: pointer;
-  transition: all 0.3s ease;
-  border: none;
-  background: none;
+  transition: all 0.3s ease !important;
+  border: none !important;
+  background: none !important;
+  color: inherit !important;
+  text-decoration: none !important;
 }
 
-.language-item:hover:not(.disabled) {
-  background: #f8f9fa;
-  color: #34539B;
+.language-switcher .language-item:hover:not(.disabled) {
+  background: #f8f9fa !important;
+  color: #34539B !important;
+  text-decoration: none !important;
 }
 
-.language-item.active {
-  background: #34539B;
-  color: white;
+.language-switcher .language-item.active {
+  background: #34539B !important;
+  color: white !important;
 }
 
-.language-item.active:hover {
-  background: #2d4485;
+.language-switcher .language-item.active:hover {
+  background: #2d4485 !important;
+  color: white !important;
 }
 
-.language-item.disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
+.language-switcher .language-item.disabled {
+  opacity: 0.5 !important;
+  cursor: not-allowed !important;
 }
 
 .language-item .flag {
@@ -112,20 +145,25 @@
   color: white;
 }
 
+/* Remove Bootstrap's default button focus outline */
+.language-switcher .language-toggle:focus:not(:focus-visible) {
+  outline: none;
+}
+
 /* Mobile responsive */
 @media (max-width: 767.98px) {
-  .language-toggle {
-    min-width: 100px;
-    padding: 6px 10px;
-    font-size: 13px;
+  .language-switcher .language-toggle {
+    min-width: 100px !important;
+    padding: 6px 10px !important;
+    font-size: 13px !important;
   }
   
-  .language-menu {
+  .language-switcher .language-menu {
     min-width: 160px;
   }
   
-  .language-item {
-    padding: 8px 12px;
+  .language-switcher .language-item {
+    padding: 8px 12px !important;
   }
   
   .language-item .coming-soon {
